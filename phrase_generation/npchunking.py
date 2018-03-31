@@ -151,7 +151,7 @@ chunker = nltk.RegexpParser(grammar)
 #toks = nltk.regexp_tokenize(text, sentence_re)
 
 #postoks = nltk.tag.pos_tag(text.split())
-with open('clinical-1.txt') as f:
+with open('clinical-13.txt') as f:
     lines_after_8=f.readlines()
     #lines_after_8=f.readlines()[8:]
 
