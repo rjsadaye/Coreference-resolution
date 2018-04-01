@@ -26,4 +26,4 @@ for files in onlyfiles1:
 		for line in f:
 			tokens = nltk.word_tokenize(line)
 			corpus.append(tokens)
-pickle.dump(corpus, open( "corpus.pkl", "wb" ))
+pickle.dump(corpus, open( "corpus.pkl", "wb" ),protocol=2)

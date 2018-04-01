@@ -193,39 +193,7 @@ for i in os.listdir(path):
         generate_phrase_file(st,chunker,i)
 #toks = nltk.regexp_tokenize(text, sentence_re)
 
-#postoks = nltk.tag.pos_tag(text.split())
-<<<<<<< HEAD
-with open('clinical-13.txt') as f:
-    lines_after_8=f.readlines()
-    #lines_after_8=f.readlines()[8:]
 
-for text in lines_after_8:
-    postoks = st.tag(text.split())
-
-    tree = chunker.parse(postoks)
-    terms = get_terms(tree)
-    terms_verbs = get_verbterms(tree)
-    phrases(tree)
-    #print '\nProbable Subject/Object(s):'
-    for term in terms:
-        #print ''
-        term_string=''
-        for word in term:
-            term_string+=word+' '
-        phrase_list.append(term_string) 
-    #print '\n'
-
-    #print 'Probable Predicate(s):'
-    for term in terms_verbs:
-        term_string=''
-        #print '    '
-        for word in term:
-            term_string+=word+' '
-        phrase_list.append(term_string)
-        
-=======
-
->>>>>>> a9709b9f24c99a45cd0c31a5c5c16eb106ff98ff
             #print word, 
         '''
 

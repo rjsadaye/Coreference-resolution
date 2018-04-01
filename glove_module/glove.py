@@ -1,16 +1,51 @@
 import tf_glove
-file = open('pfile.txt', 'r')
-phrases=[] 
-for line in file:
-	phrases.append(line) 
+import os
+import sys
+import pickle
 
-model = tf_glove.GloVeModel(embedding_size=300, context_size=10)
-model.fit_to_corpus(clinical-1)
+pickle_path=sys.argv[1]
+
+with open(pickle_path) as f:
+	corpus = pickle.load(f)
+
+path=sys.argv[2]
+
+model = tf_glove.GloVeModel(embedding_size=50, context_size=1)
+model.fit_to_corpus(corpus)
 model.train(num_epochs=100)
 
 embed=[]
-for p in phrases:
-	embed.append(model.embedding_for(p))
+for i in os.listdir(path):
+	#word
+	if i.endswith('.txt.phrase'):
+		file = open(path+"/"+i, 'r')
+		vector=[0]*50
+		for line in file:
+			s=line.split(" ")
+			count=0
+			for si in s:
+				if(si=='\n'):
+					continue
+				try:
+					vector+=model.embedding_for(si)
+					count+=1
+				except Exception as e:
+					continue
+			if(count==0):
+				continue
+			vector=vector/count
+			embed.append(vector)
+				
 
-print(embed[0])
+			#phrases.append(line) 
+		#for p in phrases:
+			
+
+		gfile=open(path+"/"+i+".glove","w")
+        for item in embed:
+            gfile.write("%s\n"%item)
+
+        #gfile.close()
+
+		#print(embed[0])
 
