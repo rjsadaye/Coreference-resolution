@@ -47,8 +47,8 @@ for line in f1:
 	vect=[]
 	fdict={}
 	for i in range(0,len(s)-1):
-		vect.append(ifloat(s[i]))
-	featuresets.append((vect,s[20]))
+		fdict[i]=s[i]
+	featuresets.append((fdict,s[20]))
 
 
 #print features
@@ -141,20 +141,21 @@ pickle.dump(LinearSVC_classifier, save_classifier)
 save_classifier.close()
 
 #NuSVC
+'''
 NuSVC_classifier=SklearnClassifier(NuSVC())
 NuSVC_classifier.train(training_set)
 print("Nu SVC Accuracy=",(nltk.classify.accuracy(NuSVC_classifier,testing_set)*100))
-
+'''
 
 
 
 
 
 #Ensemble classifier
-VoteClassifier_classifier=VoteClassifier(classifier,MNB_classifier,Bern_classifier,LogisticRegression_classifier,SGDClassifier_classifier,NuSVC_classifier,LinearSVC_classifier)
+VoteClassifier_classifier=VoteClassifier(classifier,MNB_classifier,Bern_classifier,LogisticRegression_classifier,SGDClassifier_classifier,LinearSVC_classifier)
 print("Vote Classifier Accuracy=",(nltk.classify.accuracy(VoteClassifier_classifier,testing_set)*100))
-print("Classification:",VoteClassifier_classifier.classify(testing_set[0][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[0][0]))
-print("Classification:",VoteClassifier_classifier.classify(testing_set[1][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[1][0]))
-print("Classification:",VoteClassifier_classifier.classify(testing_set[2][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[2][0]))
-print("Classification:",VoteClassifier_classifier.classify(testing_set[3][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[3][0]))
+#print("Classification:",VoteClassifier_classifier.classify(testing_set[0][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[0][0]))
+#print("Classification:",VoteClassifier_classifier.classify(testing_set[1][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[1][0]))
+#print("Classification:",VoteClassifier_classifier.classify(testing_set[2][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[2][0]))
+#print("Classification:",VoteClassifier_classifier.classify(testing_set[3][0]),"Confidence %:",VoteClassifier_classifier.confidence(testing_set[3][0]))
 
