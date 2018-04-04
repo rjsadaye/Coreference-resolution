@@ -45,7 +45,7 @@ for line in f1:
 	s=line.split(",")
 	vect=[]
 	for i in range(0,len(s)-1):
-		vect.append(int(s[i]))
+		vect.append(double(s[i]))
 	featuresets.append((vect,s[20])
 
 print featuresets
