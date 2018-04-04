@@ -14,3 +14,7 @@ python glove.py <Path to the corpus pickle file> <Path to the file containing ph
 python gen_in_out.py <Path to folder containing concept files>
 
 python nn_input.py <Path to path.glove> # path to glove representation of phrases
+
+#For running the ensemble classifier:
+
+python boost_classifier.py <Path to the nn_input.txt file>
