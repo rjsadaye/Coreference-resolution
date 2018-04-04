@@ -1,6 +1,7 @@
 import nltk
 import random
 import pickle
+from random import shuffle
 from nltk.stem import PorterStemmer
 import pickle
 from nltk.tokenize import word_tokenize,sent_tokenize
@@ -14,41 +15,43 @@ import string
 import re
 import sys
 
-f1=open(sys.argv[1],'r')	#reading NN input file
+f1=open(sys.argv[1],'r')    #reading NN input file
 #f2=open(sys.argv[2],'r')
 
 #Class for the ensemble classifier
 class VoteClassifier(ClassifierI):
-    
-    def __init__(self,*classifiers):
-        self._classifiers=classifiers
-        
-    #finds the sentiment by voting   
-    def classify(self,features):
-        votes=[]
-        for c in self._classifiers:
-            v=c.classify(features)
-            votes.append(v)
-        return mode(votes)
-    #Finds the confidence of the assigned sentiment value
-    def confidence(self,features):
-        votes=[]
-        for c in self._classifiers:
-            v=c.classify(features)
-            votes.append(v)
-        choice_votes=votes.count(mode(votes))
-        conf=choice_votes/len(votes)
+	
+	def __init__(self,*classifiers):
+		self._classifiers=classifiers
+		
+	#finds the sentiment by voting   
+	def classify(self,features):
+		votes=[]
+		for c in self._classifiers:
+			v=c.classify(features)
+			votes.append(v)
+		return mode(votes)
+	#Finds the confidence of the assigned sentiment value
+	def confidence(self,features):
+		votes=[]
+		for c in self._classifiers:
+			v=c.classify(features)
+			votes.append(v)
+		choice_votes=votes.count(mode(votes))
+		conf=choice_votes/len(votes)
 		return conf
 
 featuresets=[]
 for line in f1:
 	s=line.split(",")
 	vect=[]
+	fdict={}
 	for i in range(0,len(s)-1):
-		vect.append(double(s[i]))
-	featuresets.append((vect,s[20])
+		vect.append(ifloat(s[i]))
+	featuresets.append((vect,s[20]))
 
-print featuresets
+
+#print features
 
 random.shuffle(featuresets)
 
