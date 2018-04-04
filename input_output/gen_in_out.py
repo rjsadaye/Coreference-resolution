@@ -8,7 +8,7 @@ import pickle
 #with open(pickle_path) as f:
 #	corpus = pickle.load(f)
 
-path=sys.argv[1]
+path = sys.argv[1]
 
 #model = tf_glove.GloVeModel(embedding_size=20, context_size=1)
 #model.fit_to_corpus(corpus)
