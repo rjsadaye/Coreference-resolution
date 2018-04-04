@@ -17,7 +17,7 @@ model.train(num_epochs=100)
 embed=[]
 for i in os.listdir(path):
 	#word
-	if i.endswith('.txt.phrase'):
+	if i.endswith('.txt'):
 		file = open(path+"/"+i, 'r')
 		vector=[0]*20
 		for line in file:
