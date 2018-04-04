@@ -15,6 +15,7 @@ model.fit_to_corpus(corpus)
 model.train(num_epochs=100)
 
 embed=[]
+embedstring=[]
 file = open(path, 'r')
 vector=[0]*20
 for line in file:
@@ -34,15 +35,19 @@ for line in file:
 			continue
 		vector=vector/count
 		embed.append(vector)
-				
+		embedstring.append(line)		
 
 			#phrases.append(line) 
 		#for p in phrases:
 			
 
-gfile=open("path.glove","w+")
-for item in embed:
-    gfile.write("%s\n"%item)
+gfile=open("path.glove","w")
+for j in range(0,len(embed)):
+	for i in embed[j]:
+		gfile.write("%s,"%i)
+
+	gfile.write(embedstring[j]+"\n")
+
 
         #gfile.close()
 
