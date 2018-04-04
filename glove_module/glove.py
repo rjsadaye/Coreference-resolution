@@ -10,7 +10,7 @@ with open(pickle_path) as f:
 
 path=sys.argv[2]
 
-model = tf_glove.GloVeModel(embedding_size=50, context_size=1)
+model = tf_glove.GloVeModel(embedding_size=20, context_size=1)
 model.fit_to_corpus(corpus)
 model.train(num_epochs=100)
 
@@ -19,7 +19,7 @@ for i in os.listdir(path):
 	#word
 	if i.endswith('.txt.phrase'):
 		file = open(path+"/"+i, 'r')
-		vector=[0]*50
+		vector=[0]*20
 		for line in file:
 			s=line.split(" ")
 			count=0
@@ -30,6 +30,7 @@ for i in os.listdir(path):
 					vector+=model.embedding_for(si)
 					count+=1
 				except Exception as e:
+					print e
 					continue
 			if(count==0):
 				continue
