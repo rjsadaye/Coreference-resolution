@@ -18,3 +18,6 @@ python nn_input.py <Path to path.glove> # path to glove representation of phrase
 #For running the ensemble classifier:
 
 python boost_classifier.py <Path to the nn_input.txt file>
+
+Shell Script
+1. input_generation_shell <Path to folder containing concept files>
