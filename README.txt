@@ -13,7 +13,7 @@ python glove_single.py <Path to the corpus pickle file> <Path to the input.txt f
 
 #For generating input and output:
 
-python gen_in_out.py <Path to folder containing concept files>
+python gen_in_out.py <Path to Beth containing concept files> <Path to Partners containing concept files>
 
 python nn_input.py <Path to path.glove> # path to glove representation of phrases
 
@@ -22,4 +22,13 @@ python nn_input.py <Path to path.glove> # path to glove representation of phrase
 python boost_classifier.py <Path to the nn_input.txt file>
 
 Shell Script
-1. input_generation_shell <Path to folder containing concept files>
+1. input_generation_shell <Path to Beth containing concept files> <Path to Partners containing concept files>
+
+running keras implementation
+python tf_nn.py <path to nn_input.txt>
+
+Running order:
+1. gen_in_out.py
+2. glove_single.py
+3. input_generation_shell.sh
+4. tf_nn.py
