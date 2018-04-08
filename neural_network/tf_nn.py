@@ -16,16 +16,16 @@ def mcor(y_true, y_pred):
      #matthews_correlation
     y_pred_pos = K.round(K.clip(y_pred, 0, 1))
     y_pred_neg = 1 - y_pred_pos
- 
- 
+
+
     y_pos = K.round(K.clip(y_true, 0, 1))
     y_neg = 1 - y_pos
     tp = K.sum(y_pos * y_pred_pos)
     tn = K.sum(y_neg * y_pred_neg)
- 
+
     fp = K.sum(y_neg * y_pred_pos)
     fn = K.sum(y_pos * y_pred_neg)
- 
+
     numerator = (tp * tn - fp * fn)
     denominator = K.sqrt((tp + fp) * (tp + fn) * (tn + fp) * (tn + fn))
     return numerator / (denominator + K.epsilon())
@@ -133,11 +133,22 @@ print y_test.shape
 '''
 def nn_model():
 
-    x_train,x_test,y_train,y_test = splitdata(path)    
+    x_train,x_test,y_train,y_test = splitdata(path)
     model = Sequential()
-    model.add(Dense(1000, activation='relu', input_dim=50))
-    model.add(Dense(1000, activation='relu'))
-    model.add(Dense(1000, activation='relu'))
+    model.add(Dense(500, activation='relu', input_dim=50))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+
     model.add(Dense(units = 5, activation='softmax'))
 
     '''
