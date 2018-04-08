@@ -6,7 +6,7 @@ cur_dir=$(pwd)
 # Input is the directory of the concepts file
 # Output is the input to be fed to the neural network
 
-python ${cur_dir%/}/gen_in_out.py "$1"
+python ${cur_dir%/}/gen_in_out.py "$1" "$2"
 
 python ${cur_dir%/}/out_vec_nn.py "${cur_dir%/}/output.txt"
 

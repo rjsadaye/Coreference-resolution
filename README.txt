@@ -23,3 +23,6 @@ python boost_classifier.py <Path to the nn_input.txt file>
 
 Shell Script
 1. input_generation_shell <Path to folder containing concept files>
+
+running keras implementation
+python tf_nn.py <path to nn_input.txt>

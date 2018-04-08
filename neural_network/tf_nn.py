@@ -102,15 +102,15 @@ def splitdata(path):
             vect.append(float(s[i]))
         #featuresets.append((vect,s[20]))
         X.append(vect)
-        if (s[20] == '0'):
+        if (s[50] == '0'):
         	vect2.append([1,0,0,0,0])
-        elif(s[20] == '1'):
+        elif(s[50] == '1'):
         	vect2.append([0,1,0,0,0])
-        elif(s[20] == '2'):
+        elif(s[50] == '2'):
         	vect2.append([0,0,1,0,0])
-        elif(s[20] == '3'):
+        elif(s[50] == '3'):
         	vect2.append([0,0,0,1,0])
-        elif(s[20] == '4'):
+        elif(s[50] == '4'):
         	vect2.append([0,0,0,0,1])
         Y = Y + vect2
 
