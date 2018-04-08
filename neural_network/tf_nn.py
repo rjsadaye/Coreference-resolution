@@ -164,4 +164,9 @@ def nn_model():
     f2.write(prediction)
 
     print score
+    model.save_weights('model_weights.h5')
+    with open('model_architecture.json', 'w') as file:
+        file.write(model.to_json())
 nn_model()
+
+
