@@ -20,19 +20,17 @@ f2=open("output.txt","w+")
 for i in os.listdir(path1):
 	if i.endswith('.txt.con'):
 		file = open(path1+"/"+i, 'r')
-		vector=[0]*50
 		for line in file:
 			s=line.split("\"")
-			f1.write(s[1]+"\n")
+			f1.write(s[1]+"|| "+ s[2].split("||")[0] + "\n")
 			f2.write(s[3]+"\n")
 
 for i in os.listdir(path2):
 	if i.endswith('.txt.con'):
 		file = open(path2+"/"+i, 'r')
-		vector=[0]*50
 		for line in file:
 			s=line.split("\"")
-			f1.write(s[1]+"\n")
+			f1.write(s[1]+"|| "+ s[2].split("||")[0] + "\n")
 			f2.write(s[3]+"\n")
 
 f1.close()

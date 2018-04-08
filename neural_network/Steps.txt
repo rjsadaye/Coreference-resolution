@@ -1,0 +1,9 @@
+Right now we have X (input) to the model a dataset of n x 50 dimensions.
+Y is one-hot representation of the classes.
+
+THINGS THAT WILL CHANGE:
+1. Need to add another class as None
+2. The input file that will be passed to the model needs to be chunked into phrases.
+3. These phrases need to be converted into vectors 
+4. These vectors will be passed to the model to get the corresponding class for each phrase
+5. Output should be a phrase, class file
