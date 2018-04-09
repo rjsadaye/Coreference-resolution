@@ -6,7 +6,7 @@ import numpy as np
 from keras.models import Sequential,Model
 from keras.layers import Dense, Input, Activation,Flatten,Dropout
 from keras.utils import plot_model
-from keras.optimizers import SGD, adam
+from keras.optimizers import SGD, Adam
 from sklearn.model_selection import train_test_split
 
 
@@ -164,7 +164,8 @@ def nn_model():
 
 
     sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
-    model.compile(loss='categorical_crossentropy', optimizer="adam", metrics=['accuracy',mcor,precision,recall, f1])
+    adam = Adam(lr=0.1, beta_1=0.9, beta_2=0.999, epsilon=None, decay=1e-6, amsgrad=False)
+    model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy',mcor,precision,recall, f1])
 
     model.fit(x_train,y_train, batch_size=32, epochs=50)
     score = model.evaluate(x_test, y_test, batch_size=32)

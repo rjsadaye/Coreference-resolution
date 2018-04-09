@@ -10,7 +10,7 @@ with open(path1) as f1, open(path2) as f2:
 		temp1 = l1.split("\n")[0]
 		temp2 = l2.split("\n")[0]
 
-		f3.write(temp1.split("|| ")[0] + "|| " + temp2 + "\n")
+		f3.write(temp1.split("|")[0] + "|" + temp2 + "\n")
 	
 
 f1.close()
