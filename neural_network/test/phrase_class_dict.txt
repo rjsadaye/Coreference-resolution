@@ -1,0 +1,265 @@
+creat|2
+prior cardiac surgery|3
+wbc|2
+colace|3
+k|2
+cnis|2
+glucose|2
+levoxyl|3
+urean|2
+acute intracranial hemorrhage|4
+inr|2
+diabetes mellitus|4
+epicardial pacing wires|3
+heparin|3
+hco3|2
+na|2
+elevated|4
+extubated|3
+cardiac enzymes|2
+coronary artery bypass graft|3
+complex (> 4 mm ) atheroma in the descending thoracic aorta|4
+citalopram|3
+left carotid stenting|3
+simvastatin|3
+ascorbic acid|3
+total abdominal hysterectomy|3
+incisions|4
+hypertension|4
+k|2
+angap|2
+total abdominal hysterectomy|3
+glucose|2
+gastritis|4
+coronary artery disease|4
+c/r/m/g|4
+varicosities|4
+bilateral dvt|4
+edema|4
+hgb|2
+hct|2
+creams|3
+some rashes on acw|4
+mchc|2
+80-99% stenosis of the left internal carotid artery|4
+complications|4
+aortic regurgitation|4
+rbc|2
+stenosis|4
+mild tricuspid regurgitation|4
+trivial mr|4
+chronic renal insufficiency|4
+coronary artery disease|4
+nt/nt|4
+aspirin|3
+chronic coumadin therapy|3
+bilateral dvt|4
+gastritis|4
+lovenox|3
+b12 deficiency|4
+sarcoidosis|4
+coarse|4
+pantoprazole|3
+b12|3
+pt|2
+pt|2
+angap|2
+hco3|2
+cl|2
+acute infarction|4
+cnis|2
+chest discomfort|4
+angap|2
+slight irregularity|4
+atherosclerotic|4
+urean|2
+malignancy|4
+hyperlipidemia|4
+mild stenosis of the proximal right internal carotid artery|4
+hypothyroid|4
+lasix|3
+na|2
+cl|2
+a cardiac cath|2
+shortness of breath|4
+docusate sodium|3
+three vessel coronary artery disease|4
+metoprolol tartrate|3
+surgery|3
+signs of infection|4
+coumadin|3
+creat|2
+dr. ruby von der smith|1
+theresa leonore np|1
+an immediate head ct|2
+cad|4
+lopressor|3
+wbc|2
+mild apical hypokinesis|4
+meds|3
+hct -|2
+levoxyl|3
+hgb|2
+rdw|2
+lasix|3
+pt|2
+mchc|2
+she|1
+she|1
+she|1
+ms. bridge|1
+dr royer|1
+peterson ver vasquez md|1
+creat|2
+mri|2
+sedation|3
+plt ct|2
+tia|4
+k|2
+lisinopril|3
+aphasia|4
+ct|2
+left carotid stenting|3
+carotid stenosis|4
+colace|3
+the procedure|3
+a coronary artery bypass graft|3
+carotid stenosis|4
+ms. bridge|1
+lotions|3
+left carotid stenting|3
+mother|1
+she|1
+lasix|3
+aneurysm in the intracranial circulation|4
+zocor|3
+the left common/internal carotid artery stent|3
+lima to lad|3
+vomiting|4
+clopidogrel|3
+plt ct|2
+son|1
+inr(pt)|2
+patient|1
+bilateral pleural effusions|4
+wounds|4
+folate|3
+folic acid|3
+small vessel ischemic changes|4
+lap cholectomy|3
+levothyroxine|3
+appendectomy|3
+creat|2
+her|1
+cardiac surgery|3
+coumadin|3
+she|1
+invasive monitoring|2
+bilateral dvt|4
+diabetes mellitus|4
+change in neuro status|4
+verapamil|3
+carotid ultrasound|2
+lap cholectomy|3
+mch|2
+mch|2
+bruits|4
+inr(pt)|2
+b12 deficiency|4
+celexa|3
+glucose|2
+she|1
+lisinopril|3
+na|2
+left-sided subclavian line|3
+chronic renal insufficiency|4
+she|1
+benadryl|3
+urean|2
+surgical intervention|3
+major adverse interval change|4
+svg to om|3
+dr. lynn|1
+inr|2
+bibasilar subsegmental atelectasis|4
+she|1
+dr. von sampson|1
+mi|4
+asd|4
+she|1
+ferrous gluconate|3
+husband|1
+brother|1
+ct angiogram|2
+ointments|3
+jvd|4
+initial ekg|2
+she|1
+she|1
+protonix|3
+deficits|4
+coumadin|3
+lvef>55%|2
+chest discomfort|4
+hypothyroid|4
+trivial mitral regurgitation|4
+ms. bridge|1
+meds|3
+mcv|2
+resting regional wall motion abnormalities|4
+ct|2
+this|0
+diuretics|3
+coronary disease|4
+riss|3
+folate|3
+she|1
+she|1
+rdw|2
+echo|2
+appendectomy|3
+verapamil|3
+she|1
+rbc|2
+pedal pulses|2
+pravachol|3
+chest tubes|3
+this|0
+plt ct|2
+she|1
+surgery|3
+ekg leads|3
+nexium|3
+sarcoidosis|4
+pleural disorder|4
+beta blockers|3
+hyperlipidemia|4
+cl|2
+post-operative transient ischemic attack|4
+ptt|2
+inr(pt)|2
+:jordan u kostohryz , m.d.|1
+coronary artery bypass graft|3
+ptt|2
+celexa|3
+k|2
+4 mm left upper lobe lung nodule|4
+tramadol|3
+pleural disorder|4
+she|1
+cxr|2
+episode|4
+byetta|3
+ptt|2
+mcv|2
+usual pre-operative testing|2
+st depressions|4
+coronary artery bypass surgery|3
+she|1
+nad|4
+60-69% stenosis of the right internal carotid artery|4
+hco3|2
+which|0
+hypertension|4
+attending|1
+neuro|1

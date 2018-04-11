@@ -34,7 +34,19 @@ i2b2 input output
 1. gen_in_out.py
 2. glove_single.py
 3. input_vector_nn.py
-4. tf_nn.py
+
+mimic_data
+1. glove_single.py
+2. input_vector_nn.py
+
+neural_network
+1. merge_inputs.py
+2. tf_nn.py
+test
+test.1. gen_in_out.py 
+test.2. input_vector_nn.py
+3. classify_concepts.py
+
 
 
 Packages required:

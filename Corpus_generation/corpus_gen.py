@@ -26,4 +26,17 @@ for files in onlyfiles1:
 		for line in f:
 			tokens = nltk.word_tokenize(line)
 			corpus.append(tokens)
+			
+			
+			
+#mimic data corpus generation
+directory_path3 = sys.argv[3] #third directory for mimic data
+onlyfiles2 = [f for f in listdir(directory_path3) if isfile(join(directory_path3, f))] # Lists all the files in the directory
+for files in onlyfiles2:
+    filename = directory_path3 + '/' + files
+    with open(filename) as f:
+        for line in f:
+            token = nltk.word_tokenize(line)
+            corpus.append(tokens)
+            
 pickle.dump(corpus, open( "corpus.pkl", "wb" ),protocol=2)
