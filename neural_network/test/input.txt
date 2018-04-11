@@ -1,0 +1,265 @@
+creat| 78:4 78:4
+prior cardiac surgery| 69:4 69:6
+wbc| 70:4 70:4
+colace| 104:10 104:10
+k| 78:8 78:8
+cnis| 42:0 42:0
+glucose| 79:4 79:4
+levoxyl| 104:6 104:6
+urean| 79:7 79:7
+acute intracranial hemorrhage| 55:4 55:6
+inr| 98:12 98:12
+diabetes mellitus| 24:8 24:9
+epicardial pacing wires| 96:0 96:2
+heparin| 98:5 98:5
+hco3| 77:23 77:23
+na| 77:14 77:14
+elevated| 20:11 20:11
+extubated| 88:14 88:14
+cardiac enzymes| 20:7 20:8
+coronary artery bypass graft| 17:1 17:4
+complex (> 4 mm ) atheroma in the descending thoracic aorta| 49:2 49:12
+citalopram| 115:1 115:1
+left carotid stenting| 16:1 16:3
+simvastatin| 113:1 113:1
+ascorbic acid| 121:1 121:2
+total abdominal hysterectomy| 24:45 24:47
+incisions| 146:7 146:7
+hypertension| 24:4 24:4
+k| 77:17 77:17
+angap| 77:26 77:26
+total abdominal hysterectomy| 141:37 141:39
+glucose| 77:4 77:4
+gastritis| 141:20 141:20
+coronary artery disease| 138:0 138:2
+c/r/m/g| 35:4 35:4
+varicosities| 38:10 38:10
+bilateral dvt| 141:12 141:13
+edema| 38:13 38:13
+hgb| 70:11 70:11
+hct| 70:15 70:15
+creams| 146:1 146:1
+some rashes on acw| 40:0 40:3
+mchc| 70:25 70:25
+80-99% stenosis of the left internal carotid artery| 44:1 44:8
+complications| 101:0 101:0
+aortic regurgitation| 47:16 47:17
+rbc| 70:7 70:7
+stenosis| 58:4 58:4
+mild tricuspid regurgitation| 50:0 50:2
+trivial mr| 52:0 52:1
+chronic renal insufficiency| 141:25 141:27
+coronary artery disease| 24:0 24:2
+nt/nt| 37:4 37:4
+aspirin| 107:1 107:1
+chronic coumadin therapy| 24:19 24:21
+bilateral dvt| 24:14 24:15
+gastritis| 24:28 24:28
+lovenox| 105:26 105:26
+b12 deficiency| 24:30 24:31
+sarcoidosis| 24:26 24:26
+coarse| 36:4 36:4
+pantoprazole| 109:1 109:1
+b12| 105:16 105:16
+pt| 74:4 74:4
+pt| 73:4 73:4
+angap| 79:27 79:27
+hco3| 79:24 79:24
+cl| 79:21 79:21
+acute infarction| 57:9 57:10
+cnis| 83:0 83:0
+chest discomfort| 14:0 14:1
+angap| 76:26 76:26
+slight irregularity| 59:0 59:1
+atherosclerotic| 59:12 59:12
+urean| 76:7 76:7
+malignancy| 63:6 63:6
+hyperlipidemia| 141:4 141:4
+mild stenosis of the proximal right internal carotid artery| 61:0 61:8
+hypothyroid| 141:9 141:9
+lasix| 133:1 133:1
+na| 76:14 76:14
+cl| 76:20 76:20
+a cardiac cath| 21:3 21:5
+shortness of breath| 19:19 19:21
+docusate sodium| 127:1 127:2
+three vessel coronary artery disease| 21:12 21:16
+metoprolol tartrate| 125:1 125:2
+surgery| 148:15 148:15
+signs of infection| 149:3 149:5
+coumadin| 104:4 104:4
+creat| 79:11 79:11
+dr. ruby von der smith| 156:4 156:8
+theresa leonore np| 155:3 155:5
+an immediate head ct| 93:2 93:5
+cad| 30:2 30:2
+lopressor| 105:10 105:10
+wbc| 71:4 71:4
+mild apical hypokinesis| 46:6 46:8
+meds| 105:0 105:0
+hct -| 71:15 71:16
+levoxyl| 105:4 105:4
+hgb| 71:11 71:11
+rdw| 71:28 71:28
+lasix| 104:22 104:22
+pt| 75:4 75:4
+mchc| 71:25 71:25
+she| 85:2 85:2
+she| 82:0 82:0
+she| 88:8 88:8
+ms. bridge| 81:0 81:1
+dr royer| 152:0 152:1
+peterson ver vasquez md| 154:0 154:3
+creat| 76:10 76:10
+mri| 57:0 57:0
+sedation| 88:4 88:4
+plt ct| 72:4 72:5
+tia| 95:7 95:7
+k| 79:18 79:18
+lisinopril| 105:28 105:28
+aphasia| 92:11 92:11
+ct| 94:0 94:0
+left carotid stenting| 140:3 140:5
+carotid stenosis| 140:0 140:1
+colace| 105:12 105:12
+the procedure| 87:2 87:3
+a coronary artery bypass graft| 85:12 85:16
+carotid stenosis| 83:2 83:3
+ms. bridge| 92:5 92:6
+lotions| 146:3 146:3
+left carotid stenting| 83:8 83:10
+mother| 29:0 29:0
+she| 100:0 100:0
+lasix| 105:20 105:20
+aneurysm in the intracranial circulation| 58:6 58:10
+zocor| 105:22 105:22
+the left common/internal carotid artery stent| 60:5 60:10
+lima to lad| 17:8 17:10
+vomiting| 19:17 19:17
+clopidogrel| 117:1 117:1
+plt ct| 70:32 70:33
+son| 31:0 31:0
+inr(pt)| 73:12 73:12
+patient| 145:0 145:0
+bilateral pleural effusions| 66:5 66:7
+wounds| 149:1 149:1
+folate| 104:8 104:8
+folic acid| 123:1 123:2
+small vessel ischemic changes| 56:3 56:6
+lap cholectomy| 141:33 141:34
+levothyroxine| 111:1 111:1
+appendectomy| 141:30 141:30
+creat| 77:10 77:10
+her| 90:5 90:5
+cardiac surgery| 30:12 30:13
+coumadin| 129:1 129:1
+she| 94:4 94:4
+invasive monitoring| 87:12 87:13
+bilateral dvt| 98:18 98:19
+diabetes mellitus| 141:6 141:7
+change in neuro status| 97:10 97:13
+verapamil| 104:14 104:14
+carotid ultrasound| 82:7 82:8
+lap cholectomy| 24:41 24:42
+mch| 70:22 70:22
+mch| 71:22 71:22
+bruits| 34:8 34:8
+inr(pt)| 75:12 75:12
+b12 deficiency| 141:22 141:23
+celexa| 105:6 105:6
+glucose| 76:4 76:4
+she| 98:0 98:0
+lisinopril| 104:16 104:16
+na| 79:15 79:15
+left-sided subclavian line| 68:0 68:2
+chronic renal insufficiency| 24:33 24:35
+she| 87:0 87:0
+benadryl| 11:2 11:2
+urean| 77:7 77:7
+surgical intervention| 22:10 22:11
+major adverse interval change| 65:9 65:12
+svg to om| 17:12 17:14
+dr. lynn| 153:0 153:1
+inr| 129:18 129:18
+bibasilar subsegmental atelectasis| 66:0 66:2
+she| 91:4 91:4
+dr. von sampson| 151:0 151:2
+mi| 29:3 29:3
+asd| 31:5 31:5
+she| 22:0 22:0
+ferrous gluconate| 119:1 119:2
+husband| 27:2 27:2
+brother| 30:0 30:0
+ct angiogram| 58:0 58:1
+ointments| 146:5 146:5
+jvd| 34:5 34:5
+initial ekg| 20:0 20:1
+she| 102:0 102:0
+she| 99:4 99:4
+protonix| 105:18 105:18
+deficits| 94:11 94:11
+coumadin| 98:9 98:9
+lvef>55%| 45:19 45:19
+chest discomfort| 19:14 19:15
+hypothyroid| 24:11 24:11
+trivial mitral regurgitation| 48:7 48:9
+ms. bridge| 19:0 19:1
+meds| 104:0 104:0
+mcv| 70:19 70:19
+resting regional wall motion abnormalities| 46:0 46:4
+ct| 55:0 55:0
+this| 91:2 91:2
+diuretics| 89:12 89:12
+coronary disease| 21:8 21:9
+riss| 105:14 105:14
+folate| 105:8 105:8
+she| 90:0 90:0
+she| 97:14 97:14
+rdw| 70:28 70:28
+echo| 45:0 45:0
+appendectomy| 24:38 24:38
+verapamil| 105:24 105:24
+she| 21:0 21:0
+rbc| 71:7 71:7
+pedal pulses| 38:6 38:7
+pravachol| 104:18 104:18
+chest tubes| 89:4 89:5
+this| 63:8 63:8
+plt ct| 71:31 71:32
+she| 93:0 93:0
+surgery| 133:32 133:32
+ekg leads| 40:5 40:6
+nexium| 104:20 104:20
+sarcoidosis| 141:18 141:18
+pleural disorder| 24:23 24:24
+beta blockers| 89:9 89:10
+hyperlipidemia| 24:6 24:6
+cl| 77:20 77:20
+post-operative transient ischemic attack| 139:0 139:3
+ptt| 73:8 73:8
+inr(pt)| 74:12 74:12
+:jordan u kostohryz , m.d.| 12:1 12:5
+coronary artery bypass graft| 138:4 138:7
+ptt| 75:8 75:8
+celexa| 104:24 104:24
+k| 76:17 76:17
+4 mm left upper lobe lung nodule| 62:0 62:6
+tramadol| 131:1 131:1
+pleural disorder| 141:15 141:16
+she| 83:5 83:5
+cxr| 65:0 65:0
+episode| 95:2 95:2
+byetta| 104:12 104:12
+ptt| 74:8 74:8
+mcv| 71:19 71:19
+usual pre-operative testing| 82:2 82:4
+st depressions| 20:3 20:4
+coronary artery bypass surgery| 81:7 81:10
+she| 85:10 85:10
+nad| 33:2 33:2
+60-69% stenosis of the right internal carotid artery| 43:1 43:8
+hco3| 76:23 76:23
+which| 21:10 21:10
+hypertension| 141:2 141:2
+attending| 12:0 12:0
+neuro| 93:7 93:7
