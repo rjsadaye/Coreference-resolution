@@ -10,6 +10,8 @@ with open(pickle_path) as f:
 
 path=sys.argv[2]
 
+data = sys.argv[3]
+
 model = tf_glove.GloVeModel(embedding_size=50, context_size=1)
 model.fit_to_corpus(corpus)
 model.train(num_epochs=100)
@@ -41,7 +43,7 @@ for line in file:
 		#for p in phrases:
 			
 
-gfile=open("path.glove","w")
+gfile=open(data+"path.glove","w")
 for j in range(0,len(embed)):
 	for i in embed[j]:
 		gfile.write("%s,"%i)

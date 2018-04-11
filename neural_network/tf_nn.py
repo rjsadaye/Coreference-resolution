@@ -141,14 +141,6 @@ def nn_model():
     model.add(Dense(500, activation='relu'))
     model.add(Dense(500, activation='relu'))
     model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-    model.add(Dense(500, activation='relu'))
-
     model.add(Dense(units = 5, activation='softmax'))
 
     '''
