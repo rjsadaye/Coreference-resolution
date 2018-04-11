@@ -1,6 +1,6 @@
 import keras
 from keras import backend as K
-import tensorflow as tf
+#import tensorflow as tf
 import sys
 import numpy as np
 from keras.models import Sequential,Model
@@ -8,6 +8,7 @@ from keras.layers import Dense, Input, Activation,Flatten,Dropout
 from keras.utils import plot_model
 from keras.optimizers import SGD, Adam
 from sklearn.model_selection import train_test_split
+import pickle
 
 
 path = sys.argv[1]
@@ -116,7 +117,7 @@ def splitdata(path):
 
     print len(X)
     print len(Y)
-
+    print "Splitting data random"
     x_train, x_test, y_train, y_test = train_test_split(np.asarray(X), np.asarray(Y), test_size=0.33, random_state=None)
     return x_train,x_test,y_train,y_test
 '''
@@ -132,10 +133,19 @@ print y_train.shape
 print y_test.shape
 '''
 def nn_model():
-
-    x_train,x_test,y_train,y_test = splitdata(path)
+    with open("X.pkl") as f:
+        X = pickle.load(f)
+    with open("Y.pkl") as f2:
+        Y = pickle.load(f2)
+    print "Splitting data random"
+    x_train, x_test, y_train, y_test = train_test_split(np.asarray(X), np.asarray(Y), test_size=0.33, random_state=None)
     model = Sequential()
     model.add(Dense(500, activation='relu', input_dim=50))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
+    model.add(Dense(500, activation='relu'))
     model.add(Dense(500, activation='relu'))
     model.add(Dense(500, activation='relu'))
     model.add(Dense(500, activation='relu'))
@@ -156,10 +166,10 @@ def nn_model():
 
 
     sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
-    adam = Adam(lr=0.1, beta_1=0.9, beta_2=0.999, epsilon=None, decay=1e-6, amsgrad=False)
-    model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy',mcor,precision,recall, f1])
+    adam = Adam(lr=0.01, beta_1=0.9, beta_2=0.999, epsilon=None, decay=1e-6, amsgrad=False)
+    model.compile(loss='categorical_crossentropy', optimizer=adam, metrics=['accuracy',mcor,precision,recall, f1])
 
-    model.fit(x_train,y_train, batch_size=32, epochs=50)
+    model.fit(x_train,y_train, batch_size=32, epochs=75)
     score = model.evaluate(x_test, y_test, batch_size=32)
     prediction = model.predict_classes(x_test)
     print list(prediction.shape)

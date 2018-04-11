@@ -35,7 +35,7 @@ for line in file:
 			continue
 		if(count==0):
 			continue
-		vector=vector/count
+		#vector=vector/count
 		embed.append(vector)
 		embedstring.append(line)		
 
