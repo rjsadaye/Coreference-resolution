@@ -51,7 +51,7 @@ def concept_lookup(apikey,version,string):
       #query['includeSuppressible'] = 'true'
       #query['returnIdType'] = "sourceConcept"
       #query['sabs'] = "SNOMEDCT_US"
-      query['searchType']='exact'
+      query['searchType']='leftTruncation'
       r = requests.get(uri+content_endpoint,params=query)
       r.encoding = 'utf-8'
       items  = json.loads(r.text)
@@ -93,9 +93,9 @@ def concept_lookup(apikey,version,string):
 name_l1=concept_lookup(apikey,version,string1)
 name_l2=concept_lookup(apikey,version,string2)    
 print(len(name_l1))
-with open('exact_name_l1.pickle','wb') as p:
+with open('leftTruncation_name_l1.pickle','wb') as p:
   pickle.dump(name_l1,p,protocol=2)
-with open('exact_name_l2.pickle','wb') as p:
+with open('leftTruncation_name_l2.pickle','wb') as p:
   pickle.dump(name_l2,p,protocol=2)
 print(len(name_l2))
 

@@ -40,6 +40,7 @@ while True:
     #query['includeSuppressible'] = 'true'
     #query['returnIdType'] = "sourceConcept"
     #query['sabs'] = "SNOMEDCT_US"
+    query['searchType']=exact
     r = requests.get(uri+content_endpoint,params=query)
     r.encoding = 'utf-8'
     items  = json.loads(r.text)
