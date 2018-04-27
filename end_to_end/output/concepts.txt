@@ -1,0 +1,143 @@
+HIV positive|16:8 16:9|4
+HIV|16:8 16:8|4
+left upper quadrant pain|17:3 17:6|4
+nausea|17:10 17:10|4
+vomiting|17:12 17:12|4
+a long-standing complaint|17:15 17:17|4
+HIV positive|19:9 19:10|4
+HIV|19:9 19:9|4
+blood transfusions|20:8 20:9|3
+heterosexual transmission|20:20 20:21|4
+cat scratch fever|21:7 21:9|4
+resection|21:13 21:13|3
+an abscess in the left lower extremity|21:15 21:21|4
+vomiting|22:15 22:15|4
+any anti retroviral therapy|22:4 22:7|3
+pancytopenia|22:13 22:13|4
+DDI|22:17 22:17|3
+left upper quadrant pain|23:10 23:13|4
+nausea|23:4 23:4|4
+vomiting|23:6 23:6|4
+similar pain|24:3 24:4|4
+the pain|25:2 25:3|4
+a burning pain|25:5 25:7|4
+antacids|26:5 26:5|3
+H2 blockers|26:7 26:8|3
+a CT scan|27:5 27:7|2
+fatty infiltration of her liver diffusely|27:10 27:15|4
+a 1 cm cyst in the right lobe of the liver|27:17 27:27|4
+hyperdense kidneys|28:11 28:12|4
+Her alkaline phosphatase|29:0 29:2|2
+slightly elevated|29:4 29:5|4
+elevated|29:5 29:5|4
+Her amylase|30:0 30:1|2
+mildly elevated|30:3 30:4|4
+elevated|30:4 30:4|4
+progressive failure to thrive|31:4 31:7|4
+steady weight loss|31:9 31:11|4
+an esophagogastroduodenoscopy|32:5 32:6|2
+sedated|32:15 32:15|3
+a GI work-up|32:22 32:24|2
+an evaluation|32:28 32:29|2
+new abscess in her left lower calf|32:31 32:37|4
+HIV|33:12 33:12|4
+BACTRIM|37:0 37:0|3
+Percocet|39:3 39:3|3
+Prinovil|39:5 39:5|3
+Dapsone|39:7 39:7|3
+Mycelex troches|39:9 39:10|3
+acute distress|45:8 45:9|4
+afebrile|46:2 46:2|4
+orthostatic|47:3 47:3|4
+Blood pressure|48:0 48:1|2
+HEENT exam|49:0 49:1|2
+auscultation|50:4 50:4|2
+percussion|50:6 50:6|2
+Cardiovascular exam|51:0 51:1|2
+rhythm|51:7 51:7|2
+murmur|51:9 51:9|4
+nontender|52:4 52:4|4
+nondistended|52:6 52:6|4
+hepatosplenomegaly|53:3 53:3|4
+a 2 x 3 cm tender mass in the lateral left calf|54:2 54:13|4
+medial 1 cm mass above her knee|54:15 54:21|4
+edema|55:5 55:5|4
+BUN|57:3 57:3|2
+creatinine|57:5 57:5|2
+Sodium|58:0 58:0|2
+Potassium|59:0 59:0|2
+Hematocrit|60:0 60:0|2
+White blood cell count|61:0 61:3|2
+56 polys|61:7 61:8|2
+1 band|61:10 61:11|2
+Platelet count|62:0 62:1|2
+Amylase|63:0 63:0|2
+Lipase|64:0 64:0|2
+elevated|64:2 64:2|4
+ESR|65:0 65:0|2
+Alkaline phosphatase|66:0 66:1|2
+ALT|67:0 67:0|2
+AST|68:0 68:0|2
+Beta hCG|69:0 69:1|2
+Urinalysis|70:0 70:0|2
+positive for protein|70:2 70:4|4
+Bilirubin|71:0 71:0|2
+Chest x-ray|72:0 72:1|2
+rib fracture|73:5 73:6|4
+many cultures|75:5 75:6|2
+her pain|76:6 76:7|4
+Percocet|77:15 77:15|3
+some pain|77:9 77:10|4
+a debridement|78:3 78:4|3
+her left calf lesion|78:6 78:9|4
+IV ceftriaxone|78:17 78:18|3
+po doxycycline|78:23 78:24|3
+A follow-up CT scan|79:0 79:3|2
+splenomegaly|79:13 79:13|4
+hepatomegaly|79:15 79:15|4
+The 1 cm cyst|80:0 80:3|4
+a cyst in her kidney|81:5 81:9|4
+a stone|81:11 81:12|4
+the cyst|81:15 81:16|4
+po doxycycline|84:11 84:12|3
+Cultures|84:0 84:0|2
+her aspirate|84:4 84:5|2
+BUN|86:2 86:2|2
+BUN|88:1 88:1|2
+patient|16:1 16:1|1
+woman|16:5 16:5|1
+child|18:10 18:10|1
+patient|31:1 31:1|1
+patient|41:1 41:1|1
+woman|45:5 45:5|1
+patient|75:1 75:1|1
+patient|83:1 83:1|1
+Abdomen|52:0 52:0|1
+She|17:0 17:0|1
+She|18:0 18:0|1
+She|19:0 19:0|1
+she|19:2 19:2|1
+she|19:7 19:7|1
+She|20:0 20:0|1
+it|20:16 20:16|1
+she|21:3 21:3|1
+she|21:10 21:10|1
+She|22:0 22:0|1
+She|23:0 23:0|1
+She|24:0 24:0|1
+She|25:0 25:0|1
+she|25:13 25:13|1
+She|26:0 26:0|1
+she|27:3 27:3|1
+She|28:0 28:0|1
+She|32:0 32:0|1
+she|32:11 32:11|1
+She|33:0 33:0|1
+She|42:0 42:0|1
+She|43:0 43:0|1
+She|46:0 46:0|1
+She|47:0 47:0|1
+She|76:0 76:0|1
+she|77:5 77:5|1
+She|78:0 78:0|1
+I|88:0 88:0|1

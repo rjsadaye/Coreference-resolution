@@ -1,0 +1,449 @@
+treatment,Codeine
+problem,Skull defect
+treatment,cranioplasty
+problem,left frontal AVM in the supplementary
+treatment,The AVM
+treatment,stereotactic radiosurgery
+problem,a seizure
+problem,disorder
+problem,headaches
+test,an MRI
+test,a digital angiogram
+problem,residual pathological vessels
+problem,a contrast enhancing lesion
+problem,massive focal residual edema
+problem,radionecrosis
+problem,mass effect
+treatment,a left craniotomy
+treatment,resection of the radionecrosis
+problem,increased left facial swelling
+problem,incision
+problem,drainage
+problem,a wound washout
+treatment,craniectomy
+treatment,a cranioplasty
+treatment,outpatient IV antibiotic therapy
+problem,seizures
+treatment,radio therapy
+problem,avm
+problem,resid edema
+problem,seizures
+problem,Dysrhythmia
+problem,panic attacks
+problem,Respiratory Infection
+problem,Palpitations
+problem,panic attacks
+problem,Panic
+problem,anxiety
+problem,Depression
+problem,nephrolithiasis
+problem,TB
+problem,nystagmus
+problem,Incision
+test,CT Head
+treatment,left frontal cranioplasty
+problem,vasogenic edema in the left frontal lobe
+problem,acute hemorrhage
+test,WBC
+test,RBC
+test,HGB
+test,HCT
+test,MCV
+test,MCH
+test,MCHC
+test,RDW
+test,PLT COUNT
+test,CALCIUM
+test,PHOSPHATE
+test,MAGNESIUM
+test,estGFR
+test,GLUCOSE
+test,CREAT
+test,SODIUM
+test,POTASSIUM
+test,CHLORIDE
+test,TOTAL CO2
+test,ANION GAP
+treatment,a cranioplasty
+treatment,1L NS bolus
+problem,low BP
+problem,low urine output
+treatment,NS
+treatment,FLUTICASONE [FLONASE
+problem,nasal congestion
+treatment,LEVETIRACETAM [KEPPRA
+treatment,LEVETIRACETAM [KEPPRA
+treatment,LEVETIRACETAM [KEPPRA
+treatment,OSELTAMIVIR
+treatment,VENLAFAXINE
+treatment,ACETAMINOPHEN [TYLENOL
+treatment,IBUPROFEN [ADVIL
+problem,headache
+treatment,Acetaminophen
+problem,pain/t>100/HA
+treatment,Bisacodyl
+problem,constipation
+treatment,Docusate Sodium
+treatment,Hydromorphone
+problem,pain
+treatment,Venlafaxine
+treatment,Fluticasone
+problem,nasal congestion
+treatment,Dexamethasone
+treatment,Levetiracetam
+problem,Skull defect
+treatment,cranioplasty
+problem,your incision
+problem,infection
+treatment,your pain medicine
+problem,excessive bending
+treatment,sutures
+treatment,staples
+treatment,fluids
+problem,narcotic pain
+problem,constipation
+treatment,an over the counter stool softener
+treatment,Docusate (Colace)
+treatment,narcotic pain medication
+treatment,anti-inflammatory medicines
+treatment,Motrin
+treatment,Aspirin
+treatment,Advil
+treatment,Ibuprofen
+problem,tremors
+problem,seizures
+problem,Any confusion
+problem,change in mental status
+problem,Any numbness
+problem,tingling
+problem,weakness in your extremities
+problem,Pain
+problem,headache
+treatment,pain medication
+problem,Any signs of infection at the wound site
+problem,redness
+problem,swelling
+problem,tenderness
+problem,drainage
+problem,Fever
+treatment,suture removal
+test,Head CT of the brain
+
+patient|21:6 21:6|person
+patient|26:4 26:4|person
+child|43:3 43:3|person
+
+Fluticasone|121:1 121:1|person
+she|22:4 22:4|person
+she|27:8 27:8|person
+she|27:8 27:8|person
+She|28:4 28:4|person
+she|30:1 30:1|person
+she|30:1 30:1|person
+she|30:1 30:1|person
+She|31:1 31:1|person
+She|31:1 31:1|person
+I|59:9 59:9|person
+she|81:7 81:7|person
+she|81:7 81:7|person
+she|81:7 81:7|person
+she|81:7 81:7|person
+she|82:2 82:2|person
+she|82:2 82:2|person
+she|82:2 82:2|person
+she|82:2 82:2|person
+she|82:2 82:2|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|83:1 83:1|person
+she|83:10 83:10|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+she|85:7 85:7|person
+She|86:4 86:4|person
+She|86:4 86:4|person
+She|86:4 86:4|person
+your|146:6 146:6|pronoun
+your|147:6 147:6|pronoun
+your|148:1 148:1|pronoun
+your|148:1 148:1|pronoun
+your|149:1 149:1|pronoun
+your|149:1 149:1|pronoun
+your|150:1 150:1|pronoun
+your|150:1 150:1|pronoun
+your|151:3 151:3|pronoun
+your|151:3 151:3|pronoun
+your|151:3 151:3|pronoun
+You|151:0 151:0|person
+your|152:0 152:0|pronoun
+your|152:0 152:0|pronoun
+your|152:0 152:0|pronoun
+your|153:0 153:0|pronoun
+your|153:0 153:0|pronoun
+your|153:0 153:0|pronoun
+You|153:0 153:0|person
+You|153:0 153:0|person
+your|154:0 154:0|pronoun
+your|154:0 154:0|pronoun
+your|154:0 154:0|pronoun
+your|154:0 154:0|pronoun
+your|155:1 155:1|pronoun
+your|155:1 155:1|pronoun
+your|155:1 155:1|pronoun
+your|155:1 155:1|pronoun
+your|155:1 155:1|pronoun
+your|156:1 156:1|pronoun
+your|156:1 156:1|pronoun
+your|156:1 156:1|pronoun
+your|156:1 156:1|pronoun
+your|156:1 156:1|pronoun
+We|156:4 156:4|person
+your|157:4 157:4|pronoun
+your|157:4 157:4|pronoun
+your|157:4 157:4|pronoun
+your|157:4 157:4|pronoun
+your|157:4 157:4|pronoun
+your|158:4 158:4|pronoun
+your|158:4 158:4|pronoun
+your|158:4 158:4|pronoun
+your|158:4 158:4|pronoun
+your|158:4 158:4|pronoun
+your|159:3 159:3|pronoun
+your|159:3 159:3|pronoun
+your|159:3 159:3|pronoun
+your|159:3 159:3|pronoun
+your|159:3 159:3|pronoun
+your|159:3 159:3|pronoun
+your|160:3 160:3|pronoun
+your|160:3 160:3|pronoun
+your|160:3 160:3|pronoun
+your|160:3 160:3|pronoun
+your|160:3 160:3|pronoun
+your|160:3 160:3|pronoun
+your|161:3 161:3|pronoun
+your|161:3 161:3|pronoun
+your|161:3 161:3|pronoun
+your|161:3 161:3|pronoun
+your|161:3 161:3|pronoun
+your|161:3 161:3|pronoun
+your|162:3 162:3|pronoun
+your|162:3 162:3|pronoun
+your|162:3 162:3|pronoun
+your|162:3 162:3|pronoun
+your|162:3 162:3|pronoun
+your|162:3 162:3|pronoun
+your|163:0 163:0|pronoun
+your|163:0 163:0|pronoun
+your|163:0 163:0|pronoun
+your|163:0 163:0|pronoun
+your|163:0 163:0|pronoun
+your|163:0 163:0|pronoun
+your|163:0 163:0|pronoun
+your|164:0 164:0|pronoun
+your|164:0 164:0|pronoun
+your|164:0 164:0|pronoun
+your|164:0 164:0|pronoun
+your|164:0 164:0|pronoun
+your|164:0 164:0|pronoun
+your|164:0 164:0|pronoun
+your|165:0 165:0|pronoun
+your|165:0 165:0|pronoun
+your|165:0 165:0|pronoun
+your|165:0 165:0|pronoun
+your|165:0 165:0|pronoun
+your|165:0 165:0|pronoun
+your|165:0 165:0|pronoun
+your|166:0 166:0|pronoun
+your|166:0 166:0|pronoun
+your|166:0 166:0|pronoun
+your|166:0 166:0|pronoun
+your|166:0 166:0|pronoun
+your|166:0 166:0|pronoun
+your|166:0 166:0|pronoun
+your|167:0 167:0|pronoun
+your|167:0 167:0|pronoun
+your|167:0 167:0|pronoun
+your|167:0 167:0|pronoun
+your|167:0 167:0|pronoun
+your|167:0 167:0|pronoun
+your|167:0 167:0|pronoun
+your|168:0 168:0|pronoun
+your|168:0 168:0|pronoun
+your|168:0 168:0|pronoun
+your|168:0 168:0|pronoun
+your|168:0 168:0|pronoun
+your|168:0 168:0|pronoun
+your|168:0 168:0|pronoun
+your|169:0 169:0|pronoun
+your|169:0 169:0|pronoun
+your|169:0 169:0|pronoun
+your|169:0 169:0|pronoun
+your|169:0 169:0|pronoun
+your|169:0 169:0|pronoun
+your|169:0 169:0|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|170:5 170:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|171:5 171:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|172:5 172:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|173:5 173:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|174:5 174:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|175:5 175:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|176:5 176:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|177:5 177:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|178:5 178:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+your|179:5 179:5|pronoun
+You|179:0 179:0|person
+You|179:0 179:0|person
+You|179:0 179:0|person
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|180:0 180:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|181:0 181:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+your|182:0 182:0|pronoun
+You|182:0 182:0|person
+You|182:0 182:0|person
+You|182:0 182:0|person
+You|182:0 182:0|person
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|183:0 183:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|184:0 184:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|185:0 185:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|186:0 186:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun
+your|187:0 187:0|pronoun

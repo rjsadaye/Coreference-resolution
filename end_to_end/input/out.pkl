@@ -1,0 +1,283 @@
+(lp0
+S'\n'
+p1
+aS'004668411\tNUMBER\tCTMC\n'
+p2
+aS'68299235 763052\tNUMBER\n'
+p3
+aS'9/29/1993 12:00:00 AM\tTIME\tDischarge Summary Signed DIS Admission Date :\n'
+p4
+aS'09/29/1993\tDATE\tReport Status : Signed Discharge Date :\n'
+p5
+aS'10/04/1993\tDATE\tHISTORY OF\n'
+p6
+aS'PRESENT\tDATE\tILLNESS : The patient is a\n'
+p7
+aS'28-year-old\tDURATION\twoman who is HIV positive for\n'
+p8
+aS'two years\tDURATION\t.\n'
+p9
+ag1
+aS'\t\tShe presented with left upper quadrant pain as well as nausea and vomiting which is a long-standing complaint .\n'
+p10
+ag1
+aS'\t\tShe was diagnosed in\n'
+p11
+aS'1991\tDATE\tduring the birth of her child .\n'
+p12
+ag1
+aS'\t\tShe claims she does not know why she is HIV positive .\n'
+p13
+ag1
+aS'\t\tShe is from\n'
+p14
+aS'Maryland\tLOCATION\t, apparently had no blood transfusions before the birth of her children so it is presumed heterosexual transmission .\n'
+p15
+ag1
+aS'\t\tAt that time , she also had cat scratch fever and she had resection of an abscess in the left lower extremity .\n'
+p16
+ag1
+aS'\t\tShe has not used any anti retroviral therapy since then , because of pancytopenia and vomiting on DDI .\n'
+p17
+ag1
+aS'\t\tShe has complaints of nausea and vomiting as well as left upper quadrant pain on and off getting progressively worse over\n'
+p18
+aS'the past month\tDATE\t.\n'
+p19
+ag1
+aS'\t\tShe has had similar pain intermittently for\n'
+p20
+aS'last year\tDATE\t.\n'
+p21
+ag1
+aS'\t\tShe described the pain as a burning pain which is positional , worse when she walks or does any type of exercise .\n'
+p22
+ag1
+aS'\t\tShe has no relief from antacids or H2 blockers .\n'
+p23
+ag1
+aS'\t\tIn 10/92 , she had a CT scan which showed fatty infiltration of her liver diffusely with a\n'
+p24
+aS'1\tNUMBER\tcm cyst in the right lobe of the liver .\n'
+p25
+ag1
+aS'\t\tShe had a normal pancreas at that time , however , hyperdense kidneys .\n'
+p26
+ag1
+aS'\t\tHer alkaline phosphatase was slightly elevated but otherwise relatively normal .\n'
+p27
+ag1
+aS'\t\tHer amylase was mildly elevated but has been down since then .\n'
+p28
+ag1
+aS'\t\tThe patient has had progressive failure to thrive and steady weight loss .\n'
+p29
+ag1
+aS'\t\tShe was brought in for an esophagogastroduodenoscopy on 9/26 but she basically was not sufficiently sedated and readmitted at this time for a GI work-up as well as an evaluation of new abscess in her left lower calf and right medial lower extremity quadriceps muscle .\n'
+p30
+ag1
+aS'\t\tShe was also admitted to be connected up with social services for HIV patients .\n'
+p31
+ag1
+ag1
+aS'PAST\tDATE\tMEDICAL HISTORY : As above .\n'
+p32
+ag1
+aS'\t\tALLERGIES : BACTRIM .\n'
+p33
+ag1
+aS'\t\tMEDICATIONS : On admission included Percocet ,\n'
+p34
+aS'Prinovil\tLOCATION\t,\n'
+p35
+aS'Dapsone\tLOCATION\t, Mycelex troches .\n'
+p36
+ag1
+aS'\t\tSOCIAL HISTORY : The patient was\n'
+p37
+aS'recently\tDATE\tseparated from her husband .\n'
+p38
+ag1
+aS'\t\tShe lives with her daughter .\n'
+p39
+ag1
+aS'\t\tShe does not drink , use IV drugs or smoke .\n'
+p40
+ag1
+aS'\t\tPHYSICAL EXAMINATION : On admission revealed a cachetic woman in no acute distress with stable vital signs .\n'
+p41
+ag1
+aS'\t\tShe was afebrile .\n'
+p42
+ag1
+aS'\t\tShe was not orthostatic .\n'
+p43
+ag1
+aS'\t\tBlood pressure 110/80 .\n'
+p44
+ag1
+aS'\t\tHEENT exam was within normal limits .\n'
+p45
+ag1
+aS'\t\tLungs were clear to auscultation and percussion bilaterally .\n'
+p46
+ag1
+aS'\t\tCardiovascular exam revealed a regular rate and rhythm without murmur .\n'
+p47
+ag1
+ag1
+aS'Abdomen\tPERSON\twas soft , nontender , nondistended with positive bowel sounds .\n'
+p48
+ag1
+aS'\t\tThere was no hepatosplenomegaly .\n'
+p49
+ag1
+aS'\t\tExtremities revealed a\n'
+p50
+aS'2\tNUMBER\tx\n'
+p51
+aS'3\tNUMBER\tcm tender mass in the lateral left calf , medial\n'
+p52
+aS'1\tNUMBER\tcm mass above her knee .\n'
+p53
+ag1
+aS'\t\tThere was no evidence of edema .\n'
+p54
+ag1
+aS'\t\tLABORATORY DATA : On admission included BUN / creatinine of 33/2\n'
+p55
+aS'.1\tNUMBER\t.\n'
+p56
+ag1
+aS'\t\tSodium\n'
+p57
+aS'141\tNUMBER\t.\n'
+p58
+ag1
+aS'\t\tPotassium\n'
+p59
+aS'4.2\tNUMBER\t.\n'
+p60
+ag1
+aS'\t\tHematocrit\n'
+p61
+aS'23\tNUMBER\t.\n'
+p62
+ag1
+aS'\t\tWhite blood cell count was\n'
+p63
+aS'2.1\tNUMBER\twith\n'
+p64
+aS'56\tNUMBER\tpolys and\n'
+p65
+aS'1\tNUMBER\tband .\n'
+p66
+ag1
+aS'\t\tPlatelet count\n'
+p67
+aS'411,000\tNUMBER\t.\n'
+p68
+ag1
+aS'\t\tAmylase\n'
+p69
+aS'143\tNUMBER\t.\n'
+p70
+ag1
+aS'\t\tLipase was elevated to\n'
+p71
+aS'600\tNUMBER\t.\n'
+p72
+ag1
+ag1
+aS'ESR\tORGANIZATION\twas greater than\n'
+p73
+aS'140\tNUMBER\t.\n'
+p74
+ag1
+aS'\t\tAlkaline phosphatase\n'
+p75
+aS'190\tNUMBER\t.\n'
+p76
+ag1
+aS'\t\tALT\n'
+p77
+aS'52\tNUMBER\t.\n'
+p78
+ag1
+ag1
+aS'AST\tORGANIZATION\n'
+p79
+aS'65\tNUMBER\t.\n'
+p80
+ag1
+aS'\t\tBeta hCG was negative .\n'
+p81
+ag1
+aS'\t\tUrinalysis was positive for protein .\n'
+p82
+ag1
+aS'\t\tBilirubin\n'
+p83
+aS'0.4\tNUMBER\t.\n'
+p84
+ag1
+aS'\t\tChest x-ray revealed clear lung fields .\n'
+p85
+ag1
+aS'\t\tThere was no evidence of rib fracture .\n'
+p86
+ag1
+aS'\t\tHOSPITAL COURSE : The patient was admitted and many cultures were sent which were all negative .\n'
+p87
+ag1
+aS'\t\tShe did not have any of her pain in the hospital .\n'
+p88
+ag1
+aS'\t\tOn the\n'
+p89
+aS'third\tORDINAL\thospital\n'
+p90
+aS'day\tDURATION\t, she did have some pain and was treated with Percocet .\n'
+p91
+ag1
+aS'\t\tShe went for a debridement of her left calf lesion on\n'
+p92
+aS'10/2/93\tDATE\tand was started empirically on IV ceftriaxone which was changed to po doxycycline on\n'
+p93
+aS'the day\tDATE\tof discharge .\n'
+p94
+ag1
+aS'\t\tA follow-up CT scan was done which did not show any evidence for splenomegaly or hepatomegaly .\n'
+p95
+ag1
+aS'\t\tThe\n'
+p96
+aS'1\tNUMBER\tcm cyst which was seen in 10/92 was still\n'
+p97
+aS'present\tDATE\t.\n'
+p98
+ag1
+aS'\t\tThere was a question of a cyst in her kidney with a stone right below the cyst , although this did not seem to be clinically significant .\n'
+p99
+ag1
+aS'\t\tDISPOSITION : The patient was discharged to home in stable condition .\n'
+p100
+ag1
+aS'\t\tCultures were pending on her aspirate and will be treated with po doxycycline .\n'
+p101
+ag1
+aS'\t\tDictated By :\n'
+p102
+aS'JIMCHARL B. BUN\tPERSON\t, M.D. OC33 Attending : I BUN , M.D. GR67 EF283/9675 Batch :\n'
+p103
+aS'2027\tDATE\tIndex No .\n'
+p104
+ag1
+aS'\t\tBOKMII88JZ D :\n'
+p105
+aS'10/03/93\tDATE\tT :\n'
+p106
+aS'10/07/93\tDATE\n'
+p107
+ag1
+a.

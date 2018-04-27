@@ -1,0 +1,6 @@
+pronouns :0
+person :21
+treatment :3
+problem :28
+tests :40
+temporal :0

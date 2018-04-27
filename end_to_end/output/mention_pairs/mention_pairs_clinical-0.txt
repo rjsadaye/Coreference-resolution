@@ -1,0 +1,21 @@
+Radiologic studies|7:2 7:3|Head CT|12:2 12:3|2
+Radiologic studies|7:2 7:3|Abdominal CT|16:2 16:3|2
+Radiologic studies|7:2 7:3|repeat imaging|18:3 18:4|2
+cavitary lesions in the left lung apex|8:3 8:9|lesions|8:4 8:4|4
+cavitary lesions in the left lung apex|8:3 8:9|intracranial hemorrhage|12:6 12:7|4
+cavitary lesions in the left lung apex|8:3 8:9|mass|12:9 12:9|4
+cavitary lesions in the left lung apex|8:3 8:9|old infarction|13:2 13:3|4
+cavitary lesions in the left lung apex|8:3 8:9|lesions|16:5 16:5|4
+lesions|8:4 8:4|intracranial hemorrhage|12:6 12:7|4
+lesions|8:4 8:4|mass|12:9 12:9|4
+lesions|8:4 8:4|old infarction|13:2 13:3|4
+lesions|8:4 8:4|lesions|16:5 16:5|4
+Head CT|12:2 12:3|Abdominal CT|16:2 16:3|2
+Head CT|12:2 12:3|repeat imaging|18:3 18:4|2
+intracranial hemorrhage|12:6 12:7|mass|12:9 12:9|4
+intracranial hemorrhage|12:6 12:7|old infarction|13:2 13:3|4
+intracranial hemorrhage|12:6 12:7|lesions|16:5 16:5|4
+mass|12:9 12:9|old infarction|13:2 13:3|4
+mass|12:9 12:9|lesions|16:5 16:5|4
+old infarction|13:2 13:3|lesions|16:5 16:5|4
+Abdominal CT|16:2 16:3|repeat imaging|18:3 18:4|2

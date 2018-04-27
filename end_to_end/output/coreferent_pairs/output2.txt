@@ -1,0 +1,188 @@
+patient|34:1|34:1|patient|35:1|35:1|1|1
+patient|45:1|45:1|patient|46:1|46:1|1|1
+patient|104:1|104:1|patient|109:3|109:3|1|1
+patient|37:1|37:1|patient|45:1|45:1|1|1
+patient|32:1|32:1|He|31:0|31:0|1|1
+patient|101:1|101:1|patient|105:1|105:1|1|1
+patient|34:1|34:1|He|31:0|31:0|1|1
+patient|102:7|102:7|patient|105:1|105:1|1|1
+patient|37:1|37:1|He|31:0|31:0|1|1
+patient|103:1|103:1|patient|105:1|105:1|1|1
+it|105:17|105:17|It|107:0|107:0|1|1
+patient|33:1|33:1|patient|37:1|37:1|1|1
+patient|33:1|33:1|He|31:0|31:0|1|1
+patient|102:7|102:7|patient|104:1|104:1|1|1
+he|107:5|107:5|he|107:13|107:13|1|1
+patient|32:1|32:1|patient|37:1|37:1|1|1
+physical therapy|107:17|107:18|Xalatan|122:1|122:1|3|1
+patient|36:6|36:6|patient|37:1|37:1|1|1
+He|68:0|68:0|He|70:0|70:0|1|1
+patient|109:3|109:3|patient|111:1|111:1|1|1
+He|66:0|66:0|He|68:0|68:0|1|1
+physical therapy|107:17|107:18|Prednisone|121:1|121:1|3|1
+patient|35:1|35:1|patient|37:1|37:1|1|1
+patient|36:6|36:6|He|39:0|39:0|1|1
+patient|32:1|32:1|patient|34:1|34:1|1|1
+red blood cells|83:9|83:11|Electrocardiogram|84:0|84:0|2|1
+patient|104:1|104:1|patient|105:1|105:1|1|1
+patient|35:1|35:1|patient|45:1|45:1|1|1
+patient|42:1|42:1|patient|43:4|43:4|1|1
+Levaquin|119:1|119:1|Lasix|120:1|120:1|3|1
+patient|45:1|45:1|he|47:1|47:1|1|1
+Atonic bladder|53:1|53:2|colon cancer|56:3|56:4|4|1
+patient|42:1|42:1|He|39:0|39:0|1|1
+patient|32:1|32:1|patient|35:1|35:1|1|1
+patient|86:1|86:1|He|87:0|87:0|1|1
+He|67:0|67:0|He|68:0|68:0|1|1
+patient|103:1|103:1|patient|104:1|104:1|1|1
+patient|37:1|37:1|He|39:0|39:0|1|1
+patient|37:1|37:1|patient|46:1|46:1|1|1
+patient|111:1|111:1|He|113:0|113:0|1|1
+patient|91:10|91:10|He|90:0|90:0|1|1
+patient|36:6|36:6|he|34:14|34:14|1|1
+the opacities|94:6|94:7|pneumonia|95:8|95:8|4|1
+patient|105:1|105:1|patient|109:3|109:3|1|1
+patient|101:1|101:1|patient|102:7|102:7|1|1
+patient|46:1|46:1|he|47:1|47:1|1|1
+patient|93:2|93:2|patient|95:1|95:1|1|1
+patient|32:1|32:1|patient|33:1|33:1|1|1
+He|67:0|67:0|He|70:0|70:0|1|1
+He|90:0|90:0|he|90:8|90:8|1|1
+patient|33:1|33:1|patient|34:1|34:1|1|1
+patient|42:1|42:1|he|47:1|47:1|1|1
+patient|34:1|34:1|patient|37:1|37:1|1|1
+patient|33:1|33:1|patient|35:1|35:1|1|1
+patient|42:1|42:1|patient|45:1|45:1|1|1
+patient|91:10|91:10|He|89:0|89:0|1|1
+patient|35:1|35:1|patient|46:1|46:1|1|1
+patient|101:1|101:1|patient|104:1|104:1|1|1
+patient|35:1|35:1|He|31:0|31:0|1|1
+patient|102:7|102:7|patient|103:1|103:1|1|1
+Severe chronic obstructive pulmonary disease|21:0|21:4|Coronary artery disease|27:0|27:2|4
+Severe chronic obstructive pulmonary disease|21:0|21:4|severe chronic obstructive pulmonary disease|30:9|30:13|4
+Respiratory failure|22:0|22:1|Congestive heart failure|23:0|23:2|4
+Right lower lobe pneumonia|24:0|24:3|pneumonia|24:3|24:3|4
+Right lower lobe pneumonia|24:0|24:3|pneumonia|30:31|30:31|4
+pneumonia|24:3|24:3|pneumonia|30:31|30:31|4
+suprapubic catheter|25:3|25:4|suprapubic catheter|32:18|32:19|3
+suprapubic catheter|25:3|25:4|a suprapubic catheter area|32:17|32:20|3
+suprapubic catheter|25:3|25:4|suprapubic catheter|33:10|33:11|3
+suprapubic catheter|25:3|25:4|his suprapubic catheter|33:9|33:11|3
+suprapubic catheter|25:3|25:4|his catheter|34:21|34:22|3
+Coronary artery disease|27:0|27:2|severe chronic obstructive pulmonary disease|30:9|30:13|4
+respiratory insuffiencey|30:25|30:26|recent upper respiratory infections|38:4|38:7|4
+respiratory insuffiencey|30:25|30:26|moderate respiratory distress|43:16|43:18|4
+suprapubic catheter|32:18|32:19|a suprapubic catheter area|32:17|32:20|3
+suprapubic catheter|32:18|32:19|suprapubic catheter|33:10|33:11|3
+suprapubic catheter|32:18|32:19|his suprapubic catheter|33:9|33:11|3
+suprapubic catheter|32:18|32:19|his catheter|34:21|34:22|3
+discomfort|32:15|32:15|discomfort|33:14|33:14|4
+a suprapubic catheter area|32:17|32:20|suprapubic catheter|33:10|33:11|3
+a suprapubic catheter area|32:17|32:20|his suprapubic catheter|33:9|33:11|3
+a suprapubic catheter area|32:17|32:20|his catheter|34:21|34:22|3
+suprapubic catheter|33:10|33:11|his suprapubic catheter|33:9|33:11|3
+suprapubic catheter|33:10|33:11|his catheter|34:21|34:22|3
+his suprapubic catheter|33:9|33:11|his catheter|34:21|34:22|3
+his suprapubic catheter|33:9|33:11|his usual medications|42:5|42:7|3
+his suprapubic catheter|33:9|33:11|his nasal oxygen at home|42:10|42:14|3
+his catheter|34:21|34:22|his usual medications|42:5|42:7|3
+his catheter|34:21|34:22|his nasal oxygen at home|42:10|42:14|3
+slight shortness of breath|35:6|35:9|shortness of breath|35:7|35:9|4
+slight shortness of breath|35:6|35:9|increasing shortness of breath|36:8|36:11|4
+slight shortness of breath|35:6|35:9|shortness of breath|36:9|36:11|4
+slight shortness of breath|35:6|35:9|shortness of breath|37:20|37:22|4
+shortness of breath|35:7|35:9|increasing shortness of breath|36:8|36:11|4
+shortness of breath|35:7|35:9|shortness of breath|36:9|36:11|4
+shortness of breath|35:7|35:9|shortness of breath|37:20|37:22|4
+increasing shortness of breath|36:8|36:11|shortness of breath|36:9|36:11|4
+increasing shortness of breath|36:8|36:11|shortness of breath|37:20|37:22|4
+shortness of breath|36:9|36:11|shortness of breath|37:20|37:22|4
+recent upper respiratory infections|38:4|38:7|moderate respiratory distress|43:16|43:18|4
+change in cough|38:16|38:18|scarring in both lungs|48:26|48:29|4
+change in cough|38:16|38:18|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4
+his usual medications|42:5|42:7|his nasal oxygen at home|42:10|42:14|3
+his nasal oxygen at home|42:10|42:14|nasal oxygen|42:11|42:12|3
+his nasal oxygen at home|42:10|42:14|nasal oxygen|47:24|47:25|3
+nasal oxygen|42:11|42:12|nasal oxygen|47:24|47:25|3
+respiratory therapy|45:4|45:5|respiratory therapy|47:14|47:15|3
+respiratory therapy|45:4|45:5|continuous respiratory therapy|47:13|47:15|3
+respiratory therapy|47:14|47:15|continuous respiratory therapy|47:13|47:15|3
+Albuterol nebulizers|47:19|47:20|Albuterol|47:19|47:19|3
+intravenous steroids|47:27|47:28|intravenous antibiotics|47:30|47:31|3
+intravenous antibiotics|47:30|47:31|antibiotics|47:31|47:31|3
+A chest x ray|48:0|48:2|his chest x ray|48:14|48:16|2
+new changes|48:11|48:12|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4
+scarring in both lungs|48:26|48:29|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4
+asymmetric pulmonary edema|50:10|50:12|pulmonary edema|50:11|50:12|4
+a suprapubic tube|53:4|53:6|a colectomy|56:6|56:7|3
+moderate respiratory distress|66:7|66:9|moderate respiratory distress|68:3|68:5|4
+a blood pressure|67:2|67:4|white blood cell count|82:25|82:28|2
+heart rate|67:7|67:8|respiratory rate|67:16|67:17|2
+head   eyes   ears   nose and throat exam|70:4|70:13|Neck exam|71:0|71:1|2
+head   eyes   ears   nose and throat exam|70:4|70:13|Lung exam|72:0|72:1|2
+head   eyes   ears   nose and throat exam|70:4|70:13|Heart exam|74:0|74:1|2
+head   eyes   ears   nose and throat exam|70:4|70:13|Rectal exam|76:0|76:1|2
+head   eyes   ears   nose and throat exam|70:4|70:13|Neurological exam|77:0|77:1|2
+Neck exam|71:0|71:1|Lung exam|72:0|72:1|2
+Neck exam|71:0|71:1|Heart exam|74:0|74:1|2
+Neck exam|71:0|71:1|Rectal exam|76:0|76:1|2
+Neck exam|71:0|71:1|Neurological exam|77:0|77:1|2
+masses|71:9|71:9|masses|75:7|75:7|4
+masses|71:9|71:9|masses palpable|75:7|75:8|4
+Lung exam|72:0|72:1|Heart exam|74:0|74:1|2
+Lung exam|72:0|72:1|Rectal exam|76:0|76:1|2
+Lung exam|72:0|72:1|Neurological exam|77:0|77:1|2
+Heart exam|74:0|74:1|Rectal exam|76:0|76:1|2
+Heart exam|74:0|74:1|Neurological exam|77:0|77:1|2
+masses|75:7|75:7|masses palpable|75:7|75:8|4
+Rectal exam|76:0|76:1|Neurological exam|77:0|77:1|2
+white blood cell count|82:25|82:28|white blood cells|83:4|83:6|2
+white blood cell count|82:25|82:28|red blood cells|83:9|83:11|2
+white blood cells|83:4|83:6|red blood cells|83:9|83:11|2
+nebulizer treatments|88:7|88:8|nebulizer treatments|92:4|92:5|3
+pneumonia|89:11|89:11|gram negative pneumonia|89:9|89:11|4
+pneumonia|89:11|89:11|pneumonia|95:8|95:8|4
+pneumonia|89:11|89:11|pneumonia|98:18|98:18|4
+pneumonia|89:11|89:11|a serious pneumonia|98:16|98:18|4
+intravenous Ticarcillin|89:5|89:6|intravenous Lasix|90:4|90:5|3
+intravenous Ticarcillin|89:5|89:6|intravenous antibiotics|92:9|92:10|3
+intravenous Ticarcillin|89:5|89:6|intravenous Solu Medrol|92:12|92:13|3
+intravenous Ticarcillin|89:5|89:6|The Ticarcillin|98:0|98:1|3
+gram negative pneumonia|89:9|89:11|pneumonia|95:8|95:8|4
+gram negative pneumonia|89:9|89:11|pneumonia|98:18|98:18|4
+gram negative pneumonia|89:9|89:11|a serious pneumonia|98:16|98:18|4
+intravenous Lasix|90:4|90:5|Lasix|90:5|90:5|3
+intravenous Lasix|90:4|90:5|intravenous antibiotics|92:9|92:10|3
+intravenous Lasix|90:4|90:5|intravenous Solu Medrol|92:12|92:13|3
+intravenous Lasix|90:4|90:5|Lasix|101:15|101:15|3
+Lasix|90:5|90:5|Lasix|101:15|101:15|3
+intravenous antibiotics|92:9|92:10|intravenous Solu Medrol|92:12|92:13|3
+intravenous antibiotics|92:9|92:10|antibiotics|92:10|92:10|3
+intravenous antibiotics|92:9|92:10|antibiotics|95:5|95:5|3
+antibiotics|92:10|92:10|antibiotics|95:5|95:5|3
+the patient  apos s diuresis|93:1|93:4|brisk diuresis|101:12|101:13|3
+his respiratory status|93:6|93:8|The patient  apos s respiratory status|99:0|99:4|4
+his respiratory status|93:6|93:8|his respiratory status|100:4|100:6|4
+A chest x ray|94:0|94:2|the chest x ray|94:9|94:11|2
+the opacities|94:6|94:7|some abnormality in the right lower lobe|94:23|94:29|4
+pneumonia|95:8|95:8|pneumonia|98:18|98:18|4
+pneumonia|95:8|95:8|a serious pneumonia|98:16|98:18|4
+The antibiotic|96:0|96:1|The Ticarcillin|98:0|98:1|3
+pneumonia|98:18|98:18|a serious pneumonia|98:16|98:18|4
+The patient  apos s respiratory status|99:0|99:4|his respiratory status|100:4|100:6|4
+The patient  apos s respiratory status|99:0|99:4|The patient  apos s abdominal pain|105:0|105:4|4
+The patient  apos s respiratory status|99:0|99:4|The patient  apos s respiratory status|111:0|111:4|4
+his respiratory status|100:4|100:6|The patient  apos s respiratory status|111:0|111:4|4
+discomfort|102:14|102:14|mild epigastric discomfort|102:12|102:14|4
+peptic ulcer disease|102:30|102:32|gastroesophageal reflux disease|103:16|103:18|4
+peptic ulcer disease|102:30|102:32|severe chronic obstructive pulmonary disease|112:15|112:19|4
+Prilosec|103:5|103:5|Prilosec|105:21|105:21|3
+gastroesophageal reflux disease|103:16|103:18|severe chronic obstructive pulmonary disease|112:15|112:19|4
+The patient  apos s abdominal pain|105:0|105:4|The patient  apos s respiratory status|111:0|111:4|4
+physical therapy|107:17|107:18|respiratory therapy|113:10|113:11|3
+physical therapy|107:17|107:18|continued respiratory therapy|113:9|113:11|3
+a rehab facility|107:9|107:11|a rehab facility|109:13|109:15|3
+a rehab facility|107:9|107:11|a rehab facility|113:5|113:7|3
+a rehab facility|109:13|109:15|a rehab facility|113:5|113:7|3
+respiratory therapy|113:10|113:11|continued respiratory therapy|113:9|113:11|3
+Xalatan|122:1|122:1|Xalatan eyedrops|122:1|122:2|3

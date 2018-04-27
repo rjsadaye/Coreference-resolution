@@ -1,0 +1,2723 @@
+patient|32:1|32:1|patient|33:1|33:1|1|1
+patient|32:1|32:1|patient|34:1|34:1|1|1
+patient|32:1|32:1|patient|35:1|35:1|1|1
+patient|32:1|32:1|patient|36:6|36:6|1|0
+patient|32:1|32:1|patient|37:1|37:1|1|1
+patient|32:1|32:1|patient|42:1|42:1|1|0
+patient|32:1|32:1|patient|43:4|43:4|1|0
+patient|32:1|32:1|patient|45:1|45:1|1|0
+patient|32:1|32:1|patient|46:1|46:1|1|0
+patient|32:1|32:1|He|31:0|31:0|1|1
+patient|32:1|32:1|he|31:24|31:24|1|0
+patient|32:1|32:1|he|32:13|32:13|1|0
+patient|32:1|32:1|he|34:14|34:14|1|0
+patient|32:1|32:1|He|39:0|39:0|1|0
+patient|32:1|32:1|he|43:13|43:13|1|0
+patient|32:1|32:1|he|47:1|47:1|1|0
+patient|32:1|32:1|he|47:11|47:11|1|0
+patient|33:1|33:1|patient|34:1|34:1|1|1
+patient|33:1|33:1|patient|35:1|35:1|1|1
+patient|33:1|33:1|patient|36:6|36:6|1|0
+patient|33:1|33:1|patient|37:1|37:1|1|1
+patient|33:1|33:1|patient|42:1|42:1|1|0
+patient|33:1|33:1|patient|43:4|43:4|1|0
+patient|33:1|33:1|patient|45:1|45:1|1|0
+patient|33:1|33:1|patient|46:1|46:1|1|0
+patient|33:1|33:1|He|31:0|31:0|1|1
+patient|33:1|33:1|he|31:24|31:24|1|0
+patient|33:1|33:1|he|32:13|32:13|1|0
+patient|33:1|33:1|he|34:14|34:14|1|0
+patient|33:1|33:1|He|39:0|39:0|1|0
+patient|33:1|33:1|he|43:13|43:13|1|0
+patient|33:1|33:1|he|47:1|47:1|1|0
+patient|33:1|33:1|he|47:11|47:11|1|0
+patient|34:1|34:1|patient|35:1|35:1|1|1
+patient|34:1|34:1|patient|36:6|36:6|1|0
+patient|34:1|34:1|patient|37:1|37:1|1|1
+patient|34:1|34:1|patient|42:1|42:1|1|0
+patient|34:1|34:1|patient|43:4|43:4|1|0
+patient|34:1|34:1|patient|45:1|45:1|1|0
+patient|34:1|34:1|patient|46:1|46:1|1|0
+patient|34:1|34:1|He|31:0|31:0|1|1
+patient|34:1|34:1|he|31:24|31:24|1|0
+patient|34:1|34:1|he|32:13|32:13|1|0
+patient|34:1|34:1|he|34:14|34:14|1|0
+patient|34:1|34:1|He|39:0|39:0|1|0
+patient|34:1|34:1|he|43:13|43:13|1|0
+patient|34:1|34:1|he|47:1|47:1|1|0
+patient|34:1|34:1|he|47:11|47:11|1|0
+patient|35:1|35:1|patient|36:6|36:6|1|0
+patient|35:1|35:1|patient|37:1|37:1|1|1
+patient|35:1|35:1|patient|42:1|42:1|1|0
+patient|35:1|35:1|patient|43:4|43:4|1|0
+patient|35:1|35:1|patient|45:1|45:1|1|1
+patient|35:1|35:1|patient|46:1|46:1|1|1
+patient|35:1|35:1|He|31:0|31:0|1|1
+patient|35:1|35:1|he|31:24|31:24|1|0
+patient|35:1|35:1|he|32:13|32:13|1|0
+patient|35:1|35:1|he|34:14|34:14|1|0
+patient|35:1|35:1|He|39:0|39:0|1|0
+patient|35:1|35:1|he|43:13|43:13|1|0
+patient|35:1|35:1|he|47:1|47:1|1|0
+patient|35:1|35:1|he|47:11|47:11|1|0
+patient|36:6|36:6|patient|37:1|37:1|1|1
+patient|36:6|36:6|patient|42:1|42:1|1|0
+patient|36:6|36:6|patient|43:4|43:4|1|0
+patient|36:6|36:6|patient|45:1|45:1|1|0
+patient|36:6|36:6|patient|46:1|46:1|1|0
+patient|36:6|36:6|He|31:0|31:0|1|0
+patient|36:6|36:6|he|31:24|31:24|1|0
+patient|36:6|36:6|he|32:13|32:13|1|0
+patient|36:6|36:6|he|34:14|34:14|1|1
+patient|36:6|36:6|He|39:0|39:0|1|1
+patient|36:6|36:6|he|43:13|43:13|1|0
+patient|36:6|36:6|he|47:1|47:1|1|0
+patient|36:6|36:6|he|47:11|47:11|1|0
+patient|37:1|37:1|patient|42:1|42:1|1|0
+patient|37:1|37:1|patient|43:4|43:4|1|0
+patient|37:1|37:1|patient|45:1|45:1|1|1
+patient|37:1|37:1|patient|46:1|46:1|1|1
+patient|37:1|37:1|He|31:0|31:0|1|1
+patient|37:1|37:1|he|31:24|31:24|1|0
+patient|37:1|37:1|he|32:13|32:13|1|0
+patient|37:1|37:1|he|34:14|34:14|1|0
+patient|37:1|37:1|He|39:0|39:0|1|1
+patient|37:1|37:1|he|43:13|43:13|1|0
+patient|37:1|37:1|he|47:1|47:1|1|0
+patient|37:1|37:1|he|47:11|47:11|1|0
+patient|42:1|42:1|patient|43:4|43:4|1|1
+patient|42:1|42:1|patient|45:1|45:1|1|1
+patient|42:1|42:1|patient|46:1|46:1|1|0
+patient|42:1|42:1|He|31:0|31:0|1|0
+patient|42:1|42:1|he|31:24|31:24|1|0
+patient|42:1|42:1|he|32:13|32:13|1|0
+patient|42:1|42:1|he|34:14|34:14|1|0
+patient|42:1|42:1|He|39:0|39:0|1|1
+patient|42:1|42:1|he|43:13|43:13|1|0
+patient|42:1|42:1|he|47:1|47:1|1|1
+patient|42:1|42:1|he|47:11|47:11|1|0
+patient|43:4|43:4|patient|45:1|45:1|1|0
+patient|43:4|43:4|patient|46:1|46:1|1|0
+patient|43:4|43:4|He|31:0|31:0|1|0
+patient|43:4|43:4|he|31:24|31:24|1|0
+patient|43:4|43:4|he|32:13|32:13|1|0
+patient|43:4|43:4|he|34:14|34:14|1|0
+patient|43:4|43:4|He|39:0|39:0|1|0
+patient|43:4|43:4|he|43:13|43:13|1|0
+patient|43:4|43:4|he|47:1|47:1|1|0
+patient|43:4|43:4|he|47:11|47:11|1|0
+patient|45:1|45:1|patient|46:1|46:1|1|1
+patient|45:1|45:1|He|31:0|31:0|1|0
+patient|45:1|45:1|he|31:24|31:24|1|0
+patient|45:1|45:1|he|32:13|32:13|1|0
+patient|45:1|45:1|he|34:14|34:14|1|0
+patient|45:1|45:1|He|39:0|39:0|1|0
+patient|45:1|45:1|he|43:13|43:13|1|0
+patient|45:1|45:1|he|47:1|47:1|1|1
+patient|45:1|45:1|he|47:11|47:11|1|0
+patient|46:1|46:1|He|31:0|31:0|1|0
+patient|46:1|46:1|he|31:24|31:24|1|0
+patient|46:1|46:1|he|32:13|32:13|1|0
+patient|46:1|46:1|he|34:14|34:14|1|0
+patient|46:1|46:1|He|39:0|39:0|1|0
+patient|46:1|46:1|he|43:13|43:13|1|0
+patient|46:1|46:1|he|47:1|47:1|1|1
+patient|46:1|46:1|he|47:11|47:11|1|0
+patient|86:1|86:1|patient|91:10|91:10|1|0
+patient|86:1|86:1|patient|93:2|93:2|1|0
+patient|86:1|86:1|patient|95:1|95:1|1|0
+patient|86:1|86:1|patient|99:1|99:1|1|0
+patient|86:1|86:1|patient|101:1|101:1|1|0
+patient|86:1|86:1|Ticarcillin|89:6|89:6|1|0
+patient|86:1|86:1|Ticarcillin|98:1|98:1|1|0
+patient|86:1|86:1|He|78:0|78:0|1|0
+patient|86:1|86:1|He|87:0|87:0|1|1
+patient|86:1|86:1|he|88:5|88:5|1|0
+patient|86:1|86:1|He|89:0|89:0|1|0
+patient|86:1|86:1|He|90:0|90:0|1|0
+patient|86:1|86:1|he|90:8|90:8|1|0
+patient|86:1|86:1|he|91:20|91:20|1|0
+patient|86:1|86:1|he|94:21|94:21|1|0
+patient|86:1|86:1|he|98:12|98:12|1|0
+patient|91:10|91:10|patient|93:2|93:2|1|0
+patient|91:10|91:10|patient|95:1|95:1|1|0
+patient|91:10|91:10|patient|99:1|99:1|1|0
+patient|91:10|91:10|patient|101:1|101:1|1|0
+patient|91:10|91:10|patient|102:7|102:7|1|0
+patient|91:10|91:10|patient|103:1|103:1|1|0
+patient|91:10|91:10|patient|104:1|104:1|1|0
+patient|91:10|91:10|patient|105:1|105:1|1|0
+patient|91:10|91:10|patient|106:6|106:6|1|0
+patient|91:10|91:10|Ticarcillin|89:6|89:6|1|0
+patient|91:10|91:10|Ticarcillin|98:1|98:1|1|0
+patient|91:10|91:10|He|78:0|78:0|1|0
+patient|91:10|91:10|He|87:0|87:0|1|0
+patient|91:10|91:10|he|88:5|88:5|1|0
+patient|91:10|91:10|He|89:0|89:0|1|1
+patient|91:10|91:10|He|90:0|90:0|1|1
+patient|91:10|91:10|he|90:8|90:8|1|0
+patient|91:10|91:10|he|91:20|91:20|1|0
+patient|91:10|91:10|he|94:21|94:21|1|0
+patient|91:10|91:10|he|98:12|98:12|1|0
+patient|91:10|91:10|he|102:18|102:18|1|0
+patient|93:2|93:2|patient|95:1|95:1|1|1
+patient|93:2|93:2|patient|99:1|99:1|1|0
+patient|93:2|93:2|patient|101:1|101:1|1|0
+patient|93:2|93:2|patient|102:7|102:7|1|0
+patient|93:2|93:2|patient|103:1|103:1|1|0
+patient|93:2|93:2|patient|104:1|104:1|1|0
+patient|93:2|93:2|patient|105:1|105:1|1|0
+patient|93:2|93:2|patient|106:6|106:6|1|0
+patient|93:2|93:2|Ticarcillin|89:6|89:6|1|0
+patient|93:2|93:2|Ticarcillin|98:1|98:1|1|0
+patient|93:2|93:2|He|78:0|78:0|1|0
+patient|93:2|93:2|He|87:0|87:0|1|0
+patient|93:2|93:2|he|88:5|88:5|1|0
+patient|93:2|93:2|He|89:0|89:0|1|0
+patient|93:2|93:2|He|90:0|90:0|1|0
+patient|93:2|93:2|he|90:8|90:8|1|0
+patient|93:2|93:2|he|91:20|91:20|1|0
+patient|93:2|93:2|he|94:21|94:21|1|0
+patient|93:2|93:2|he|98:12|98:12|1|0
+patient|93:2|93:2|he|102:18|102:18|1|0
+patient|93:2|93:2|he|107:5|107:5|1|0
+patient|93:2|93:2|he|107:13|107:13|1|0
+patient|93:2|93:2|him|108:9|108:9|1|0
+patient|93:2|93:2|him|108:23|108:23|1|0
+patient|95:1|95:1|patient|99:1|99:1|1|0
+patient|95:1|95:1|patient|101:1|101:1|1|0
+patient|95:1|95:1|patient|102:7|102:7|1|0
+patient|95:1|95:1|patient|103:1|103:1|1|0
+patient|95:1|95:1|patient|104:1|104:1|1|0
+patient|95:1|95:1|patient|105:1|105:1|1|0
+patient|95:1|95:1|patient|106:6|106:6|1|0
+patient|95:1|95:1|patient|109:3|109:3|1|0
+patient|95:1|95:1|Ticarcillin|89:6|89:6|1|0
+patient|95:1|95:1|Ticarcillin|98:1|98:1|1|0
+patient|95:1|95:1|He|87:0|87:0|1|0
+patient|95:1|95:1|he|88:5|88:5|1|0
+patient|95:1|95:1|He|89:0|89:0|1|0
+patient|95:1|95:1|He|90:0|90:0|1|0
+patient|95:1|95:1|he|90:8|90:8|1|0
+patient|95:1|95:1|he|91:20|91:20|1|0
+patient|95:1|95:1|he|94:21|94:21|1|0
+patient|95:1|95:1|he|98:12|98:12|1|0
+patient|95:1|95:1|he|102:18|102:18|1|0
+patient|95:1|95:1|he|107:5|107:5|1|0
+patient|95:1|95:1|he|107:13|107:13|1|0
+patient|95:1|95:1|him|108:9|108:9|1|0
+patient|95:1|95:1|him|108:23|108:23|1|0
+patient|99:1|99:1|patient|101:1|101:1|1|0
+patient|99:1|99:1|patient|102:7|102:7|1|0
+patient|99:1|99:1|patient|103:1|103:1|1|0
+patient|99:1|99:1|patient|104:1|104:1|1|0
+patient|99:1|99:1|patient|105:1|105:1|1|0
+patient|99:1|99:1|patient|106:6|106:6|1|0
+patient|99:1|99:1|patient|109:3|109:3|1|0
+patient|99:1|99:1|patient|111:1|111:1|1|0
+patient|99:1|99:1|Ticarcillin|89:6|89:6|1|0
+patient|99:1|99:1|Ticarcillin|98:1|98:1|1|0
+patient|99:1|99:1|He|87:0|87:0|1|0
+patient|99:1|99:1|he|88:5|88:5|1|0
+patient|99:1|99:1|He|89:0|89:0|1|0
+patient|99:1|99:1|He|90:0|90:0|1|0
+patient|99:1|99:1|he|90:8|90:8|1|0
+patient|99:1|99:1|he|91:20|91:20|1|0
+patient|99:1|99:1|he|94:21|94:21|1|0
+patient|99:1|99:1|he|98:12|98:12|1|0
+patient|99:1|99:1|he|102:18|102:18|1|0
+patient|99:1|99:1|he|107:5|107:5|1|0
+patient|99:1|99:1|he|107:13|107:13|1|0
+patient|99:1|99:1|him|108:9|108:9|1|0
+patient|99:1|99:1|him|108:23|108:23|1|0
+patient|99:1|99:1|he|112:20|112:20|1|0
+patient|99:1|99:1|He|113:0|113:0|1|0
+patient|101:1|101:1|patient|102:7|102:7|1|1
+patient|101:1|101:1|patient|103:1|103:1|1|0
+patient|101:1|101:1|patient|104:1|104:1|1|1
+patient|101:1|101:1|patient|105:1|105:1|1|1
+patient|101:1|101:1|patient|106:6|106:6|1|0
+patient|101:1|101:1|patient|109:3|109:3|1|0
+patient|101:1|101:1|patient|111:1|111:1|1|0
+patient|101:1|101:1|Ticarcillin|89:6|89:6|1|0
+patient|101:1|101:1|Ticarcillin|98:1|98:1|1|0
+patient|101:1|101:1|He|87:0|87:0|1|0
+patient|101:1|101:1|he|88:5|88:5|1|0
+patient|101:1|101:1|He|89:0|89:0|1|0
+patient|101:1|101:1|He|90:0|90:0|1|0
+patient|101:1|101:1|he|90:8|90:8|1|0
+patient|101:1|101:1|he|91:20|91:20|1|0
+patient|101:1|101:1|he|94:21|94:21|1|0
+patient|101:1|101:1|he|98:12|98:12|1|0
+patient|101:1|101:1|he|102:18|102:18|1|0
+patient|101:1|101:1|he|107:5|107:5|1|0
+patient|101:1|101:1|he|107:13|107:13|1|0
+patient|101:1|101:1|him|108:9|108:9|1|0
+patient|101:1|101:1|him|108:23|108:23|1|0
+patient|101:1|101:1|he|112:20|112:20|1|0
+patient|101:1|101:1|He|113:0|113:0|1|0
+patient|102:7|102:7|patient|103:1|103:1|1|1
+patient|102:7|102:7|patient|104:1|104:1|1|1
+patient|102:7|102:7|patient|105:1|105:1|1|1
+patient|102:7|102:7|patient|106:6|106:6|1|0
+patient|102:7|102:7|patient|109:3|109:3|1|0
+patient|102:7|102:7|patient|111:1|111:1|1|0
+patient|102:7|102:7|Ticarcillin|89:6|89:6|1|0
+patient|102:7|102:7|Ticarcillin|98:1|98:1|1|0
+patient|102:7|102:7|He|87:0|87:0|1|0
+patient|102:7|102:7|he|88:5|88:5|1|0
+patient|102:7|102:7|He|89:0|89:0|1|0
+patient|102:7|102:7|He|90:0|90:0|1|0
+patient|102:7|102:7|he|90:8|90:8|1|0
+patient|102:7|102:7|he|91:20|91:20|1|0
+patient|102:7|102:7|he|94:21|94:21|1|0
+patient|102:7|102:7|he|98:12|98:12|1|0
+patient|102:7|102:7|he|102:18|102:18|1|0
+patient|102:7|102:7|he|107:5|107:5|1|0
+patient|102:7|102:7|he|107:13|107:13|1|0
+patient|102:7|102:7|him|108:9|108:9|1|0
+patient|102:7|102:7|him|108:23|108:23|1|0
+patient|102:7|102:7|he|112:20|112:20|1|0
+patient|102:7|102:7|He|113:0|113:0|1|0
+patient|103:1|103:1|patient|104:1|104:1|1|1
+patient|103:1|103:1|patient|105:1|105:1|1|1
+patient|103:1|103:1|patient|106:6|106:6|1|0
+patient|103:1|103:1|patient|109:3|109:3|1|0
+patient|103:1|103:1|patient|111:1|111:1|1|0
+patient|103:1|103:1|Ticarcillin|89:6|89:6|1|0
+patient|103:1|103:1|Ticarcillin|98:1|98:1|1|0
+patient|103:1|103:1|he|88:5|88:5|1|0
+patient|103:1|103:1|He|89:0|89:0|1|0
+patient|103:1|103:1|He|90:0|90:0|1|0
+patient|103:1|103:1|he|90:8|90:8|1|0
+patient|103:1|103:1|he|91:20|91:20|1|0
+patient|103:1|103:1|he|94:21|94:21|1|0
+patient|103:1|103:1|he|98:12|98:12|1|0
+patient|103:1|103:1|he|102:18|102:18|1|0
+patient|103:1|103:1|he|107:5|107:5|1|0
+patient|103:1|103:1|he|107:13|107:13|1|0
+patient|103:1|103:1|him|108:9|108:9|1|0
+patient|103:1|103:1|him|108:23|108:23|1|0
+patient|103:1|103:1|he|112:20|112:20|1|0
+patient|103:1|103:1|He|113:0|113:0|1|0
+patient|104:1|104:1|patient|105:1|105:1|1|1
+patient|104:1|104:1|patient|106:6|106:6|1|0
+patient|104:1|104:1|patient|109:3|109:3|1|1
+patient|104:1|104:1|patient|111:1|111:1|1|0
+patient|104:1|104:1|Ticarcillin|89:6|89:6|1|0
+patient|104:1|104:1|Ticarcillin|98:1|98:1|1|0
+patient|104:1|104:1|He|89:0|89:0|1|0
+patient|104:1|104:1|He|90:0|90:0|1|0
+patient|104:1|104:1|he|90:8|90:8|1|0
+patient|104:1|104:1|he|91:20|91:20|1|0
+patient|104:1|104:1|he|94:21|94:21|1|0
+patient|104:1|104:1|he|98:12|98:12|1|0
+patient|104:1|104:1|he|102:18|102:18|1|0
+patient|104:1|104:1|he|107:5|107:5|1|0
+patient|104:1|104:1|he|107:13|107:13|1|0
+patient|104:1|104:1|him|108:9|108:9|1|0
+patient|104:1|104:1|him|108:23|108:23|1|0
+patient|104:1|104:1|he|112:20|112:20|1|0
+patient|104:1|104:1|He|113:0|113:0|1|0
+patient|105:1|105:1|patient|106:6|106:6|1|0
+patient|105:1|105:1|patient|109:3|109:3|1|1
+patient|105:1|105:1|patient|111:1|111:1|1|0
+patient|105:1|105:1|Ticarcillin|98:1|98:1|1|0
+patient|105:1|105:1|He|90:0|90:0|1|0
+patient|105:1|105:1|he|90:8|90:8|1|0
+patient|105:1|105:1|he|91:20|91:20|1|0
+patient|105:1|105:1|he|94:21|94:21|1|0
+patient|105:1|105:1|he|98:12|98:12|1|0
+patient|105:1|105:1|he|102:18|102:18|1|0
+patient|105:1|105:1|he|107:5|107:5|1|0
+patient|105:1|105:1|he|107:13|107:13|1|0
+patient|105:1|105:1|him|108:9|108:9|1|0
+patient|105:1|105:1|him|108:23|108:23|1|0
+patient|105:1|105:1|he|112:20|112:20|1|0
+patient|105:1|105:1|He|113:0|113:0|1|0
+patient|106:6|106:6|patient|109:3|109:3|1|0
+patient|106:6|106:6|patient|111:1|111:1|1|0
+patient|106:6|106:6|Ticarcillin|98:1|98:1|1|0
+patient|106:6|106:6|he|91:20|91:20|1|0
+patient|106:6|106:6|he|94:21|94:21|1|0
+patient|106:6|106:6|he|98:12|98:12|1|0
+patient|106:6|106:6|he|102:18|102:18|1|0
+patient|106:6|106:6|he|107:5|107:5|1|0
+patient|106:6|106:6|he|107:13|107:13|1|0
+patient|106:6|106:6|him|108:9|108:9|1|0
+patient|106:6|106:6|him|108:23|108:23|1|0
+patient|106:6|106:6|he|112:20|112:20|1|0
+patient|106:6|106:6|He|113:0|113:0|1|0
+patient|109:3|109:3|patient|111:1|111:1|1|1
+patient|109:3|109:3|Ticarcillin|98:1|98:1|1|0
+patient|109:3|109:3|Alphagan|123:1|123:1|1|0
+patient|109:3|109:3|he|94:21|94:21|1|0
+patient|109:3|109:3|he|98:12|98:12|1|0
+patient|109:3|109:3|he|102:18|102:18|1|0
+patient|109:3|109:3|he|107:5|107:5|1|0
+patient|109:3|109:3|he|107:13|107:13|1|0
+patient|109:3|109:3|him|108:9|108:9|1|0
+patient|109:3|109:3|him|108:23|108:23|1|0
+patient|109:3|109:3|he|112:20|112:20|1|0
+patient|109:3|109:3|He|113:0|113:0|1|0
+patient|111:1|111:1|Ticarcillin|98:1|98:1|1|0
+patient|111:1|111:1|Alphagan|123:1|123:1|1|0
+patient|111:1|111:1|he|98:12|98:12|1|0
+patient|111:1|111:1|he|102:18|102:18|1|0
+patient|111:1|111:1|he|107:5|107:5|1|0
+patient|111:1|111:1|he|107:13|107:13|1|0
+patient|111:1|111:1|him|108:9|108:9|1|0
+patient|111:1|111:1|him|108:23|108:23|1|0
+patient|111:1|111:1|he|112:20|112:20|1|0
+patient|111:1|111:1|He|113:0|113:0|1|1
+patient|127:1|127:1|Alphagan|123:1|123:1|1|0
+patient|127:1|127:1|he|112:20|112:20|1|0
+patient|127:1|127:1|He|113:0|113:0|1|0
+Ticarcillin|89:6|89:6|Ticarcillin|98:1|98:1|1|0
+Ticarcillin|89:6|89:6|He|78:0|78:0|1|0
+Ticarcillin|89:6|89:6|He|87:0|87:0|1|0
+Ticarcillin|89:6|89:6|he|88:5|88:5|1|0
+Ticarcillin|89:6|89:6|He|89:0|89:0|1|0
+Ticarcillin|89:6|89:6|He|90:0|90:0|1|0
+Ticarcillin|89:6|89:6|he|90:8|90:8|1|0
+Ticarcillin|89:6|89:6|he|91:20|91:20|1|0
+Ticarcillin|89:6|89:6|he|94:21|94:21|1|0
+Ticarcillin|89:6|89:6|he|98:12|98:12|1|0
+Ticarcillin|89:6|89:6|he|102:18|102:18|1|0
+Ticarcillin|98:1|98:1|He|87:0|87:0|1|0
+Ticarcillin|98:1|98:1|he|88:5|88:5|1|0
+Ticarcillin|98:1|98:1|He|89:0|89:0|1|0
+Ticarcillin|98:1|98:1|He|90:0|90:0|1|0
+Ticarcillin|98:1|98:1|he|90:8|90:8|1|0
+Ticarcillin|98:1|98:1|he|91:20|91:20|1|0
+Ticarcillin|98:1|98:1|he|94:21|94:21|1|0
+Ticarcillin|98:1|98:1|he|98:12|98:12|1|0
+Ticarcillin|98:1|98:1|he|102:18|102:18|1|0
+Ticarcillin|98:1|98:1|he|107:5|107:5|1|0
+Ticarcillin|98:1|98:1|he|107:13|107:13|1|0
+Ticarcillin|98:1|98:1|him|108:9|108:9|1|0
+Ticarcillin|98:1|98:1|him|108:23|108:23|1|0
+Ticarcillin|98:1|98:1|he|112:20|112:20|1|0
+Ticarcillin|98:1|98:1|He|113:0|113:0|1|0
+Alphagan|123:1|123:1|him|108:9|108:9|1|0
+Alphagan|123:1|123:1|him|108:23|108:23|1|0
+Alphagan|123:1|123:1|he|112:20|112:20|1|0
+Alphagan|123:1|123:1|He|113:0|113:0|1|0
+He|31:0|31:0|he|31:24|31:24|1|0
+He|31:0|31:0|he|32:13|32:13|1|0
+He|31:0|31:0|he|34:14|34:14|1|0
+He|31:0|31:0|He|39:0|39:0|1|0
+He|31:0|31:0|he|43:13|43:13|1|0
+he|31:24|31:24|he|32:13|32:13|1|0
+he|31:24|31:24|he|34:14|34:14|1|0
+he|31:24|31:24|He|39:0|39:0|1|0
+he|31:24|31:24|he|43:13|43:13|1|0
+he|32:13|32:13|he|34:14|34:14|1|0
+he|32:13|32:13|He|39:0|39:0|1|0
+he|32:13|32:13|he|43:13|43:13|1|0
+he|32:13|32:13|he|47:1|47:1|1|0
+he|32:13|32:13|he|47:11|47:11|1|0
+he|34:14|34:14|He|39:0|39:0|1|0
+he|34:14|34:14|he|43:13|43:13|1|0
+he|34:14|34:14|he|47:1|47:1|1|0
+he|34:14|34:14|he|47:11|47:11|1|0
+He|39:0|39:0|he|43:13|43:13|1|0
+He|39:0|39:0|he|47:1|47:1|1|0
+He|39:0|39:0|he|47:11|47:11|1|0
+he|43:13|43:13|he|47:1|47:1|1|0
+he|43:13|43:13|he|47:11|47:11|1|0
+he|47:1|47:1|he|47:11|47:11|1|0
+He|66:0|66:0|He|67:0|67:0|1|0
+He|66:0|66:0|He|68:0|68:0|1|1
+He|66:0|66:0|He|70:0|70:0|1|0
+He|66:0|66:0|He|78:0|78:0|1|0
+He|67:0|67:0|He|68:0|68:0|1|1
+He|67:0|67:0|He|70:0|70:0|1|1
+He|67:0|67:0|He|78:0|78:0|1|0
+He|68:0|68:0|He|70:0|70:0|1|1
+He|68:0|68:0|He|78:0|78:0|1|0
+He|70:0|70:0|He|78:0|78:0|1|0
+He|78:0|78:0|He|87:0|87:0|1|0
+He|78:0|78:0|he|88:5|88:5|1|0
+He|78:0|78:0|He|89:0|89:0|1|0
+He|78:0|78:0|He|90:0|90:0|1|0
+He|78:0|78:0|he|90:8|90:8|1|0
+He|78:0|78:0|he|91:20|91:20|1|0
+He|87:0|87:0|he|88:5|88:5|1|0
+He|87:0|87:0|He|89:0|89:0|1|0
+He|87:0|87:0|He|90:0|90:0|1|0
+He|87:0|87:0|he|90:8|90:8|1|0
+He|87:0|87:0|he|91:20|91:20|1|0
+He|87:0|87:0|he|94:21|94:21|1|0
+He|87:0|87:0|he|98:12|98:12|1|0
+He|87:0|87:0|he|102:18|102:18|1|0
+he|88:5|88:5|He|89:0|89:0|1|0
+he|88:5|88:5|He|90:0|90:0|1|0
+he|88:5|88:5|he|90:8|90:8|1|0
+he|88:5|88:5|he|91:20|91:20|1|0
+he|88:5|88:5|he|94:21|94:21|1|0
+he|88:5|88:5|he|98:12|98:12|1|0
+he|88:5|88:5|he|102:18|102:18|1|0
+He|89:0|89:0|He|90:0|90:0|1|0
+He|89:0|89:0|he|90:8|90:8|1|0
+He|89:0|89:0|he|91:20|91:20|1|0
+He|89:0|89:0|he|94:21|94:21|1|0
+He|89:0|89:0|he|98:12|98:12|1|0
+He|89:0|89:0|he|102:18|102:18|1|0
+He|90:0|90:0|he|90:8|90:8|1|1
+He|90:0|90:0|he|91:20|91:20|1|0
+He|90:0|90:0|he|94:21|94:21|1|0
+He|90:0|90:0|he|98:12|98:12|1|0
+He|90:0|90:0|he|102:18|102:18|1|0
+he|90:8|90:8|he|91:20|91:20|1|0
+he|90:8|90:8|he|94:21|94:21|1|0
+he|90:8|90:8|he|98:12|98:12|1|0
+he|90:8|90:8|he|102:18|102:18|1|0
+he|91:20|91:20|he|94:21|94:21|1|0
+he|91:20|91:20|he|98:12|98:12|1|0
+he|91:20|91:20|he|102:18|102:18|1|0
+he|94:21|94:21|he|98:12|98:12|1|0
+he|94:21|94:21|he|102:18|102:18|1|0
+he|94:21|94:21|he|107:5|107:5|1|0
+he|94:21|94:21|he|107:13|107:13|1|0
+he|94:21|94:21|him|108:9|108:9|1|0
+he|94:21|94:21|him|108:23|108:23|1|0
+he|98:12|98:12|he|102:18|102:18|1|0
+he|98:12|98:12|he|107:5|107:5|1|0
+he|98:12|98:12|he|107:13|107:13|1|0
+he|98:12|98:12|him|108:9|108:9|1|0
+he|98:12|98:12|him|108:23|108:23|1|0
+he|98:12|98:12|he|112:20|112:20|1|0
+he|98:12|98:12|He|113:0|113:0|1|0
+it|98:8|98:8|It|100:0|100:0|1|0
+it|98:8|98:8|it|105:17|105:17|1|0
+it|98:8|98:8|It|107:0|107:0|1|0
+it|98:8|98:8|I|112:0|112:0|1|0
+It|100:0|100:0|it|105:17|105:17|1|0
+It|100:0|100:0|It|107:0|107:0|1|0
+It|100:0|100:0|I|112:0|112:0|1|0
+he|102:18|102:18|he|107:5|107:5|1|0
+he|102:18|102:18|he|107:13|107:13|1|0
+he|102:18|102:18|him|108:9|108:9|1|0
+he|102:18|102:18|him|108:23|108:23|1|0
+he|102:18|102:18|he|112:20|112:20|1|0
+he|102:18|102:18|He|113:0|113:0|1|0
+it|105:17|105:17|It|107:0|107:0|1|1
+it|105:17|105:17|I|112:0|112:0|1|0
+he|107:5|107:5|he|107:13|107:13|1|1
+he|107:5|107:5|him|108:9|108:9|1|0
+he|107:5|107:5|him|108:23|108:23|1|0
+he|107:5|107:5|he|112:20|112:20|1|0
+he|107:5|107:5|He|113:0|113:0|1|0
+he|107:13|107:13|him|108:9|108:9|1|0
+he|107:13|107:13|him|108:23|108:23|1|0
+he|107:13|107:13|he|112:20|112:20|1|0
+he|107:13|107:13|He|113:0|113:0|1|0
+It|107:0|107:0|I|112:0|112:0|1|0
+him|108:9|108:9|him|108:23|108:23|1|0
+him|108:9|108:9|he|112:20|112:20|1|0
+him|108:9|108:9|He|113:0|113:0|1|0
+him|108:23|108:23|he|112:20|112:20|1|0
+him|108:23|108:23|He|113:0|113:0|1|0
+he|112:20|112:20|He|113:0|113:0|1|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|Respiratory failure|22:0|22:1|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|Congestive heart failure|23:0|23:2|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|Right lower lobe pneumonia|24:0|24:3|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|pneumonia|24:3|24:3|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|Atonic bladder|25:0|25:1|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|Anxiety|26:0|26:0|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|Coronary artery disease|27:0|27:2|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|colon cancer|28:2|28:3|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|respiratory insuffiencey|30:25|30:26|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|pneumonia|30:31|30:31|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|discomfort|32:15|32:15|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|discomfort|33:14|33:14|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|some blood at the site|33:17|33:21|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|slight shortness of breath|35:6|35:9|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|shortness of breath|35:7|35:9|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|increasing shortness of breath|36:8|36:11|4|0
+Severe chronic obstructive pulmonary disease|21:0|21:4|shortness of breath|36:9|36:11|4|0
+Respiratory failure|22:0|22:1|Congestive heart failure|23:0|23:2|4|0
+Respiratory failure|22:0|22:1|Right lower lobe pneumonia|24:0|24:3|4|0
+Respiratory failure|22:0|22:1|pneumonia|24:3|24:3|4|0
+Respiratory failure|22:0|22:1|Atonic bladder|25:0|25:1|4|0
+Respiratory failure|22:0|22:1|Anxiety|26:0|26:0|4|0
+Respiratory failure|22:0|22:1|Coronary artery disease|27:0|27:2|4|0
+Respiratory failure|22:0|22:1|colon cancer|28:2|28:3|4|0
+Respiratory failure|22:0|22:1|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Respiratory failure|22:0|22:1|respiratory insuffiencey|30:25|30:26|4|0
+Respiratory failure|22:0|22:1|pneumonia|30:31|30:31|4|0
+Respiratory failure|22:0|22:1|discomfort|32:15|32:15|4|0
+Respiratory failure|22:0|22:1|discomfort|33:14|33:14|4|0
+Respiratory failure|22:0|22:1|some blood at the site|33:17|33:21|4|0
+Respiratory failure|22:0|22:1|slight shortness of breath|35:6|35:9|4|0
+Respiratory failure|22:0|22:1|shortness of breath|35:7|35:9|4|0
+Respiratory failure|22:0|22:1|increasing shortness of breath|36:8|36:11|4|0
+Respiratory failure|22:0|22:1|shortness of breath|36:9|36:11|4|0
+Respiratory failure|22:0|22:1|confused|37:6|37:6|4|0
+Respiratory failure|22:0|22:1|disoriented|37:10|37:10|4|0
+Respiratory failure|22:0|22:1|shortness of breath|37:20|37:22|4|0
+Congestive heart failure|23:0|23:2|Right lower lobe pneumonia|24:0|24:3|4|0
+Congestive heart failure|23:0|23:2|pneumonia|24:3|24:3|4|0
+Congestive heart failure|23:0|23:2|Atonic bladder|25:0|25:1|4|0
+Congestive heart failure|23:0|23:2|Anxiety|26:0|26:0|4|0
+Congestive heart failure|23:0|23:2|Coronary artery disease|27:0|27:2|4|0
+Congestive heart failure|23:0|23:2|colon cancer|28:2|28:3|4|0
+Congestive heart failure|23:0|23:2|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Congestive heart failure|23:0|23:2|respiratory insuffiencey|30:25|30:26|4|0
+Congestive heart failure|23:0|23:2|pneumonia|30:31|30:31|4|0
+Congestive heart failure|23:0|23:2|discomfort|32:15|32:15|4|0
+Congestive heart failure|23:0|23:2|discomfort|33:14|33:14|4|0
+Congestive heart failure|23:0|23:2|some blood at the site|33:17|33:21|4|0
+Congestive heart failure|23:0|23:2|slight shortness of breath|35:6|35:9|4|0
+Congestive heart failure|23:0|23:2|shortness of breath|35:7|35:9|4|0
+Congestive heart failure|23:0|23:2|increasing shortness of breath|36:8|36:11|4|0
+Congestive heart failure|23:0|23:2|shortness of breath|36:9|36:11|4|0
+Congestive heart failure|23:0|23:2|confused|37:6|37:6|4|0
+Congestive heart failure|23:0|23:2|disoriented|37:10|37:10|4|0
+Congestive heart failure|23:0|23:2|shortness of breath|37:20|37:22|4|0
+Congestive heart failure|23:0|23:2|recent upper respiratory infections|38:4|38:7|4|0
+Congestive heart failure|23:0|23:2|fevers|38:10|38:10|4|0
+Congestive heart failure|23:0|23:2|chills|38:13|38:13|4|0
+Congestive heart failure|23:0|23:2|change in cough|38:16|38:18|4|0
+Congestive heart failure|23:0|23:2|sputum|38:20|38:20|4|0
+Right lower lobe pneumonia|24:0|24:3|pneumonia|24:3|24:3|4|0
+Right lower lobe pneumonia|24:0|24:3|Atonic bladder|25:0|25:1|4|0
+Right lower lobe pneumonia|24:0|24:3|Anxiety|26:0|26:0|4|0
+Right lower lobe pneumonia|24:0|24:3|Coronary artery disease|27:0|27:2|4|0
+Right lower lobe pneumonia|24:0|24:3|colon cancer|28:2|28:3|4|0
+Right lower lobe pneumonia|24:0|24:3|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Right lower lobe pneumonia|24:0|24:3|respiratory insuffiencey|30:25|30:26|4|0
+Right lower lobe pneumonia|24:0|24:3|pneumonia|30:31|30:31|4|0
+Right lower lobe pneumonia|24:0|24:3|discomfort|32:15|32:15|4|0
+Right lower lobe pneumonia|24:0|24:3|discomfort|33:14|33:14|4|0
+Right lower lobe pneumonia|24:0|24:3|some blood at the site|33:17|33:21|4|0
+Right lower lobe pneumonia|24:0|24:3|slight shortness of breath|35:6|35:9|4|0
+Right lower lobe pneumonia|24:0|24:3|shortness of breath|35:7|35:9|4|0
+Right lower lobe pneumonia|24:0|24:3|increasing shortness of breath|36:8|36:11|4|0
+Right lower lobe pneumonia|24:0|24:3|shortness of breath|36:9|36:11|4|0
+Right lower lobe pneumonia|24:0|24:3|confused|37:6|37:6|4|0
+Right lower lobe pneumonia|24:0|24:3|disoriented|37:10|37:10|4|0
+Right lower lobe pneumonia|24:0|24:3|shortness of breath|37:20|37:22|4|0
+Right lower lobe pneumonia|24:0|24:3|recent upper respiratory infections|38:4|38:7|4|0
+Right lower lobe pneumonia|24:0|24:3|fevers|38:10|38:10|4|0
+Right lower lobe pneumonia|24:0|24:3|chills|38:13|38:13|4|0
+Right lower lobe pneumonia|24:0|24:3|change in cough|38:16|38:18|4|0
+Right lower lobe pneumonia|24:0|24:3|sputum|38:20|38:20|4|0
+Right lower lobe pneumonia|24:0|24:3|any chest pain|39:3|39:5|4|0
+pneumonia|24:3|24:3|Atonic bladder|25:0|25:1|4|0
+pneumonia|24:3|24:3|Anxiety|26:0|26:0|4|0
+pneumonia|24:3|24:3|Coronary artery disease|27:0|27:2|4|0
+pneumonia|24:3|24:3|colon cancer|28:2|28:3|4|0
+pneumonia|24:3|24:3|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+pneumonia|24:3|24:3|respiratory insuffiencey|30:25|30:26|4|0
+pneumonia|24:3|24:3|pneumonia|30:31|30:31|4|0
+pneumonia|24:3|24:3|discomfort|32:15|32:15|4|0
+pneumonia|24:3|24:3|discomfort|33:14|33:14|4|0
+pneumonia|24:3|24:3|some blood at the site|33:17|33:21|4|0
+pneumonia|24:3|24:3|slight shortness of breath|35:6|35:9|4|0
+pneumonia|24:3|24:3|shortness of breath|35:7|35:9|4|0
+pneumonia|24:3|24:3|increasing shortness of breath|36:8|36:11|4|0
+pneumonia|24:3|24:3|shortness of breath|36:9|36:11|4|0
+pneumonia|24:3|24:3|confused|37:6|37:6|4|0
+pneumonia|24:3|24:3|disoriented|37:10|37:10|4|0
+pneumonia|24:3|24:3|shortness of breath|37:20|37:22|4|0
+pneumonia|24:3|24:3|recent upper respiratory infections|38:4|38:7|4|0
+pneumonia|24:3|24:3|fevers|38:10|38:10|4|0
+pneumonia|24:3|24:3|chills|38:13|38:13|4|0
+pneumonia|24:3|24:3|change in cough|38:16|38:18|4|0
+pneumonia|24:3|24:3|sputum|38:20|38:20|4|0
+pneumonia|24:3|24:3|any chest pain|39:3|39:5|4|0
+Atonic bladder|25:0|25:1|Anxiety|26:0|26:0|4|0
+Atonic bladder|25:0|25:1|Coronary artery disease|27:0|27:2|4|0
+Atonic bladder|25:0|25:1|colon cancer|28:2|28:3|4|0
+Atonic bladder|25:0|25:1|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Atonic bladder|25:0|25:1|respiratory insuffiencey|30:25|30:26|4|0
+Atonic bladder|25:0|25:1|pneumonia|30:31|30:31|4|0
+Atonic bladder|25:0|25:1|discomfort|32:15|32:15|4|0
+Atonic bladder|25:0|25:1|discomfort|33:14|33:14|4|0
+Atonic bladder|25:0|25:1|some blood at the site|33:17|33:21|4|0
+Atonic bladder|25:0|25:1|slight shortness of breath|35:6|35:9|4|0
+Atonic bladder|25:0|25:1|shortness of breath|35:7|35:9|4|0
+Atonic bladder|25:0|25:1|increasing shortness of breath|36:8|36:11|4|0
+Atonic bladder|25:0|25:1|shortness of breath|36:9|36:11|4|0
+Atonic bladder|25:0|25:1|confused|37:6|37:6|4|0
+Atonic bladder|25:0|25:1|disoriented|37:10|37:10|4|0
+Atonic bladder|25:0|25:1|shortness of breath|37:20|37:22|4|0
+Atonic bladder|25:0|25:1|recent upper respiratory infections|38:4|38:7|4|0
+Atonic bladder|25:0|25:1|fevers|38:10|38:10|4|0
+Atonic bladder|25:0|25:1|chills|38:13|38:13|4|0
+Atonic bladder|25:0|25:1|change in cough|38:16|38:18|4|0
+Atonic bladder|25:0|25:1|sputum|38:20|38:20|4|0
+Atonic bladder|25:0|25:1|any chest pain|39:3|39:5|4|0
+Atonic bladder|25:0|25:1|orthopnea|40:1|40:1|4|0
+suprapubic catheter|25:3|25:4|hemicolectomy|28:6|28:6|3|0
+suprapubic catheter|25:3|25:4|suprapubic catheter|32:18|32:19|3|0
+suprapubic catheter|25:3|25:4|a suprapubic catheter area|32:17|32:20|3|0
+suprapubic catheter|25:3|25:4|suprapubic catheter|33:10|33:11|3|0
+suprapubic catheter|25:3|25:4|his suprapubic catheter|33:9|33:11|3|0
+suprapubic catheter|25:3|25:4|his catheter|34:21|34:22|3|0
+Anxiety|26:0|26:0|Coronary artery disease|27:0|27:2|4|0
+Anxiety|26:0|26:0|colon cancer|28:2|28:3|4|0
+Anxiety|26:0|26:0|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Anxiety|26:0|26:0|respiratory insuffiencey|30:25|30:26|4|0
+Anxiety|26:0|26:0|pneumonia|30:31|30:31|4|0
+Anxiety|26:0|26:0|discomfort|32:15|32:15|4|0
+Anxiety|26:0|26:0|discomfort|33:14|33:14|4|0
+Anxiety|26:0|26:0|some blood at the site|33:17|33:21|4|0
+Anxiety|26:0|26:0|slight shortness of breath|35:6|35:9|4|0
+Anxiety|26:0|26:0|shortness of breath|35:7|35:9|4|0
+Anxiety|26:0|26:0|increasing shortness of breath|36:8|36:11|4|0
+Anxiety|26:0|26:0|shortness of breath|36:9|36:11|4|0
+Anxiety|26:0|26:0|confused|37:6|37:6|4|0
+Anxiety|26:0|26:0|disoriented|37:10|37:10|4|0
+Anxiety|26:0|26:0|shortness of breath|37:20|37:22|4|0
+Anxiety|26:0|26:0|recent upper respiratory infections|38:4|38:7|4|0
+Anxiety|26:0|26:0|fevers|38:10|38:10|4|0
+Anxiety|26:0|26:0|chills|38:13|38:13|4|0
+Anxiety|26:0|26:0|change in cough|38:16|38:18|4|0
+Anxiety|26:0|26:0|sputum|38:20|38:20|4|0
+Anxiety|26:0|26:0|any chest pain|39:3|39:5|4|0
+Anxiety|26:0|26:0|orthopnea|40:1|40:1|4|0
+Anxiety|26:0|26:0|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+Coronary artery disease|27:0|27:2|colon cancer|28:2|28:3|4|0
+Coronary artery disease|27:0|27:2|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+Coronary artery disease|27:0|27:2|respiratory insuffiencey|30:25|30:26|4|0
+Coronary artery disease|27:0|27:2|pneumonia|30:31|30:31|4|0
+Coronary artery disease|27:0|27:2|discomfort|32:15|32:15|4|0
+Coronary artery disease|27:0|27:2|discomfort|33:14|33:14|4|0
+Coronary artery disease|27:0|27:2|some blood at the site|33:17|33:21|4|0
+Coronary artery disease|27:0|27:2|slight shortness of breath|35:6|35:9|4|0
+Coronary artery disease|27:0|27:2|shortness of breath|35:7|35:9|4|0
+Coronary artery disease|27:0|27:2|increasing shortness of breath|36:8|36:11|4|0
+Coronary artery disease|27:0|27:2|shortness of breath|36:9|36:11|4|0
+Coronary artery disease|27:0|27:2|confused|37:6|37:6|4|0
+Coronary artery disease|27:0|27:2|disoriented|37:10|37:10|4|0
+Coronary artery disease|27:0|27:2|shortness of breath|37:20|37:22|4|0
+Coronary artery disease|27:0|27:2|recent upper respiratory infections|38:4|38:7|4|0
+Coronary artery disease|27:0|27:2|fevers|38:10|38:10|4|0
+Coronary artery disease|27:0|27:2|chills|38:13|38:13|4|0
+Coronary artery disease|27:0|27:2|change in cough|38:16|38:18|4|0
+Coronary artery disease|27:0|27:2|sputum|38:20|38:20|4|0
+Coronary artery disease|27:0|27:2|any chest pain|39:3|39:5|4|0
+Coronary artery disease|27:0|27:2|orthopnea|40:1|40:1|4|0
+Coronary artery disease|27:0|27:2|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+colon cancer|28:2|28:3|severe chronic obstructive pulmonary disease|30:9|30:13|4|0
+colon cancer|28:2|28:3|respiratory insuffiencey|30:25|30:26|4|0
+colon cancer|28:2|28:3|pneumonia|30:31|30:31|4|0
+colon cancer|28:2|28:3|discomfort|32:15|32:15|4|0
+colon cancer|28:2|28:3|discomfort|33:14|33:14|4|0
+colon cancer|28:2|28:3|some blood at the site|33:17|33:21|4|0
+colon cancer|28:2|28:3|slight shortness of breath|35:6|35:9|4|0
+colon cancer|28:2|28:3|shortness of breath|35:7|35:9|4|0
+colon cancer|28:2|28:3|increasing shortness of breath|36:8|36:11|4|0
+colon cancer|28:2|28:3|shortness of breath|36:9|36:11|4|0
+colon cancer|28:2|28:3|confused|37:6|37:6|4|0
+colon cancer|28:2|28:3|disoriented|37:10|37:10|4|0
+colon cancer|28:2|28:3|shortness of breath|37:20|37:22|4|0
+colon cancer|28:2|28:3|recent upper respiratory infections|38:4|38:7|4|0
+colon cancer|28:2|28:3|fevers|38:10|38:10|4|0
+colon cancer|28:2|28:3|chills|38:13|38:13|4|0
+colon cancer|28:2|28:3|change in cough|38:16|38:18|4|0
+colon cancer|28:2|28:3|sputum|38:20|38:20|4|0
+colon cancer|28:2|28:3|any chest pain|39:3|39:5|4|0
+colon cancer|28:2|28:3|orthopnea|40:1|40:1|4|0
+colon cancer|28:2|28:3|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+colon cancer|28:2|28:3|moderate respiratory distress|43:16|43:18|4|0
+hemicolectomy|28:6|28:6|suprapubic catheter|32:18|32:19|3|0
+hemicolectomy|28:6|28:6|a suprapubic catheter area|32:17|32:20|3|0
+hemicolectomy|28:6|28:6|suprapubic catheter|33:10|33:11|3|0
+hemicolectomy|28:6|28:6|his suprapubic catheter|33:9|33:11|3|0
+hemicolectomy|28:6|28:6|his catheter|34:21|34:22|3|0
+hemicolectomy|28:6|28:6|his usual medications|42:5|42:7|3|0
+hemicolectomy|28:6|28:6|his nasal oxygen at home|42:10|42:14|3|0
+hemicolectomy|28:6|28:6|nasal oxygen|42:11|42:12|3|0
+severe chronic obstructive pulmonary disease|30:9|30:13|respiratory insuffiencey|30:25|30:26|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|pneumonia|30:31|30:31|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|discomfort|32:15|32:15|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|discomfort|33:14|33:14|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|some blood at the site|33:17|33:21|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|slight shortness of breath|35:6|35:9|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|shortness of breath|35:7|35:9|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|increasing shortness of breath|36:8|36:11|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|shortness of breath|36:9|36:11|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|confused|37:6|37:6|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|disoriented|37:10|37:10|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|shortness of breath|37:20|37:22|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|recent upper respiratory infections|38:4|38:7|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|fevers|38:10|38:10|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|chills|38:13|38:13|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|change in cough|38:16|38:18|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|sputum|38:20|38:20|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|any chest pain|39:3|39:5|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|orthopnea|40:1|40:1|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+severe chronic obstructive pulmonary disease|30:9|30:13|moderate respiratory distress|43:16|43:18|4|0
+respiratory insuffiencey|30:25|30:26|pneumonia|30:31|30:31|4|0
+respiratory insuffiencey|30:25|30:26|discomfort|32:15|32:15|4|0
+respiratory insuffiencey|30:25|30:26|discomfort|33:14|33:14|4|0
+respiratory insuffiencey|30:25|30:26|some blood at the site|33:17|33:21|4|0
+respiratory insuffiencey|30:25|30:26|slight shortness of breath|35:6|35:9|4|0
+respiratory insuffiencey|30:25|30:26|shortness of breath|35:7|35:9|4|0
+respiratory insuffiencey|30:25|30:26|increasing shortness of breath|36:8|36:11|4|0
+respiratory insuffiencey|30:25|30:26|shortness of breath|36:9|36:11|4|0
+respiratory insuffiencey|30:25|30:26|confused|37:6|37:6|4|0
+respiratory insuffiencey|30:25|30:26|disoriented|37:10|37:10|4|0
+respiratory insuffiencey|30:25|30:26|shortness of breath|37:20|37:22|4|0
+respiratory insuffiencey|30:25|30:26|recent upper respiratory infections|38:4|38:7|4|0
+respiratory insuffiencey|30:25|30:26|fevers|38:10|38:10|4|0
+respiratory insuffiencey|30:25|30:26|chills|38:13|38:13|4|0
+respiratory insuffiencey|30:25|30:26|change in cough|38:16|38:18|4|0
+respiratory insuffiencey|30:25|30:26|sputum|38:20|38:20|4|0
+respiratory insuffiencey|30:25|30:26|any chest pain|39:3|39:5|4|0
+respiratory insuffiencey|30:25|30:26|orthopnea|40:1|40:1|4|0
+respiratory insuffiencey|30:25|30:26|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+respiratory insuffiencey|30:25|30:26|moderate respiratory distress|43:16|43:18|4|0
+pneumonia|30:31|30:31|discomfort|32:15|32:15|4|0
+pneumonia|30:31|30:31|discomfort|33:14|33:14|4|0
+pneumonia|30:31|30:31|some blood at the site|33:17|33:21|4|0
+pneumonia|30:31|30:31|slight shortness of breath|35:6|35:9|4|0
+pneumonia|30:31|30:31|shortness of breath|35:7|35:9|4|0
+pneumonia|30:31|30:31|increasing shortness of breath|36:8|36:11|4|0
+pneumonia|30:31|30:31|shortness of breath|36:9|36:11|4|0
+pneumonia|30:31|30:31|confused|37:6|37:6|4|0
+pneumonia|30:31|30:31|disoriented|37:10|37:10|4|0
+pneumonia|30:31|30:31|shortness of breath|37:20|37:22|4|0
+pneumonia|30:31|30:31|recent upper respiratory infections|38:4|38:7|4|0
+pneumonia|30:31|30:31|fevers|38:10|38:10|4|0
+pneumonia|30:31|30:31|chills|38:13|38:13|4|0
+pneumonia|30:31|30:31|change in cough|38:16|38:18|4|0
+pneumonia|30:31|30:31|sputum|38:20|38:20|4|0
+pneumonia|30:31|30:31|any chest pain|39:3|39:5|4|0
+pneumonia|30:31|30:31|orthopnea|40:1|40:1|4|0
+pneumonia|30:31|30:31|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+pneumonia|30:31|30:31|moderate respiratory distress|43:16|43:18|4|0
+suprapubic catheter|32:18|32:19|a suprapubic catheter area|32:17|32:20|3|0
+suprapubic catheter|32:18|32:19|suprapubic catheter|33:10|33:11|3|0
+suprapubic catheter|32:18|32:19|his suprapubic catheter|33:9|33:11|3|0
+suprapubic catheter|32:18|32:19|his catheter|34:21|34:22|3|0
+suprapubic catheter|32:18|32:19|his usual medications|42:5|42:7|3|0
+suprapubic catheter|32:18|32:19|his nasal oxygen at home|42:10|42:14|3|0
+suprapubic catheter|32:18|32:19|nasal oxygen|42:11|42:12|3|0
+suprapubic catheter|32:18|32:19|respiratory therapy|45:4|45:5|3|0
+suprapubic catheter|32:18|32:19|nebulizer treatments|45:10|45:11|3|0
+suprapubic catheter|32:18|32:19|intubation|45:31|45:31|3|0
+suprapubic catheter|32:18|32:19|respiratory therapy|47:14|47:15|3|0
+suprapubic catheter|32:18|32:19|continuous respiratory therapy|47:13|47:15|3|0
+suprapubic catheter|32:18|32:19|Albuterol nebulizers|47:19|47:20|3|0
+suprapubic catheter|32:18|32:19|nasal oxygen|47:24|47:25|3|0
+suprapubic catheter|32:18|32:19|intravenous steroids|47:27|47:28|3|0
+suprapubic catheter|32:18|32:19|intravenous antibiotics|47:30|47:31|3|0
+suprapubic catheter|32:18|32:19|Albuterol|47:19|47:19|3|0
+suprapubic catheter|32:18|32:19|antibiotics|47:31|47:31|3|0
+discomfort|32:15|32:15|discomfort|33:14|33:14|4|0
+discomfort|32:15|32:15|some blood at the site|33:17|33:21|4|0
+discomfort|32:15|32:15|slight shortness of breath|35:6|35:9|4|0
+discomfort|32:15|32:15|shortness of breath|35:7|35:9|4|0
+discomfort|32:15|32:15|increasing shortness of breath|36:8|36:11|4|0
+discomfort|32:15|32:15|shortness of breath|36:9|36:11|4|0
+discomfort|32:15|32:15|confused|37:6|37:6|4|0
+discomfort|32:15|32:15|disoriented|37:10|37:10|4|0
+discomfort|32:15|32:15|shortness of breath|37:20|37:22|4|0
+discomfort|32:15|32:15|recent upper respiratory infections|38:4|38:7|4|0
+discomfort|32:15|32:15|fevers|38:10|38:10|4|0
+discomfort|32:15|32:15|chills|38:13|38:13|4|0
+discomfort|32:15|32:15|change in cough|38:16|38:18|4|0
+discomfort|32:15|32:15|sputum|38:20|38:20|4|0
+discomfort|32:15|32:15|any chest pain|39:3|39:5|4|0
+discomfort|32:15|32:15|orthopnea|40:1|40:1|4|0
+discomfort|32:15|32:15|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+discomfort|32:15|32:15|moderate respiratory distress|43:16|43:18|4|0
+a suprapubic catheter area|32:17|32:20|suprapubic catheter|33:10|33:11|3|0
+a suprapubic catheter area|32:17|32:20|his suprapubic catheter|33:9|33:11|3|0
+a suprapubic catheter area|32:17|32:20|his catheter|34:21|34:22|3|0
+a suprapubic catheter area|32:17|32:20|his usual medications|42:5|42:7|3|0
+a suprapubic catheter area|32:17|32:20|his nasal oxygen at home|42:10|42:14|3|0
+a suprapubic catheter area|32:17|32:20|nasal oxygen|42:11|42:12|3|0
+a suprapubic catheter area|32:17|32:20|respiratory therapy|45:4|45:5|3|0
+a suprapubic catheter area|32:17|32:20|nebulizer treatments|45:10|45:11|3|0
+a suprapubic catheter area|32:17|32:20|intubation|45:31|45:31|3|0
+a suprapubic catheter area|32:17|32:20|respiratory therapy|47:14|47:15|3|0
+a suprapubic catheter area|32:17|32:20|continuous respiratory therapy|47:13|47:15|3|0
+a suprapubic catheter area|32:17|32:20|Albuterol nebulizers|47:19|47:20|3|0
+a suprapubic catheter area|32:17|32:20|nasal oxygen|47:24|47:25|3|0
+a suprapubic catheter area|32:17|32:20|intravenous steroids|47:27|47:28|3|0
+a suprapubic catheter area|32:17|32:20|intravenous antibiotics|47:30|47:31|3|0
+a suprapubic catheter area|32:17|32:20|Albuterol|47:19|47:19|3|0
+a suprapubic catheter area|32:17|32:20|antibiotics|47:31|47:31|3|0
+suprapubic catheter|33:10|33:11|his suprapubic catheter|33:9|33:11|3|0
+suprapubic catheter|33:10|33:11|his catheter|34:21|34:22|3|0
+suprapubic catheter|33:10|33:11|his usual medications|42:5|42:7|3|0
+suprapubic catheter|33:10|33:11|his nasal oxygen at home|42:10|42:14|3|0
+suprapubic catheter|33:10|33:11|nasal oxygen|42:11|42:12|3|0
+suprapubic catheter|33:10|33:11|respiratory therapy|45:4|45:5|3|0
+suprapubic catheter|33:10|33:11|nebulizer treatments|45:10|45:11|3|0
+suprapubic catheter|33:10|33:11|intubation|45:31|45:31|3|0
+suprapubic catheter|33:10|33:11|respiratory therapy|47:14|47:15|3|0
+suprapubic catheter|33:10|33:11|continuous respiratory therapy|47:13|47:15|3|0
+suprapubic catheter|33:10|33:11|Albuterol nebulizers|47:19|47:20|3|0
+suprapubic catheter|33:10|33:11|nasal oxygen|47:24|47:25|3|0
+suprapubic catheter|33:10|33:11|intravenous steroids|47:27|47:28|3|0
+suprapubic catheter|33:10|33:11|intravenous antibiotics|47:30|47:31|3|0
+suprapubic catheter|33:10|33:11|Albuterol|47:19|47:19|3|0
+suprapubic catheter|33:10|33:11|antibiotics|47:31|47:31|3|0
+discomfort|33:14|33:14|some blood at the site|33:17|33:21|4|0
+discomfort|33:14|33:14|slight shortness of breath|35:6|35:9|4|0
+discomfort|33:14|33:14|shortness of breath|35:7|35:9|4|0
+discomfort|33:14|33:14|increasing shortness of breath|36:8|36:11|4|0
+discomfort|33:14|33:14|shortness of breath|36:9|36:11|4|0
+discomfort|33:14|33:14|confused|37:6|37:6|4|0
+discomfort|33:14|33:14|disoriented|37:10|37:10|4|0
+discomfort|33:14|33:14|shortness of breath|37:20|37:22|4|0
+discomfort|33:14|33:14|recent upper respiratory infections|38:4|38:7|4|0
+discomfort|33:14|33:14|fevers|38:10|38:10|4|0
+discomfort|33:14|33:14|chills|38:13|38:13|4|0
+discomfort|33:14|33:14|change in cough|38:16|38:18|4|0
+discomfort|33:14|33:14|sputum|38:20|38:20|4|0
+discomfort|33:14|33:14|any chest pain|39:3|39:5|4|0
+discomfort|33:14|33:14|orthopnea|40:1|40:1|4|0
+discomfort|33:14|33:14|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+discomfort|33:14|33:14|moderate respiratory distress|43:16|43:18|4|0
+discomfort|33:14|33:14|new changes|48:11|48:12|4|0
+discomfort|33:14|33:14|scarring in both lungs|48:26|48:29|4|0
+his suprapubic catheter|33:9|33:11|his catheter|34:21|34:22|3|0
+his suprapubic catheter|33:9|33:11|his usual medications|42:5|42:7|3|0
+his suprapubic catheter|33:9|33:11|his nasal oxygen at home|42:10|42:14|3|0
+his suprapubic catheter|33:9|33:11|nasal oxygen|42:11|42:12|3|0
+his suprapubic catheter|33:9|33:11|respiratory therapy|45:4|45:5|3|0
+his suprapubic catheter|33:9|33:11|nebulizer treatments|45:10|45:11|3|0
+his suprapubic catheter|33:9|33:11|intubation|45:31|45:31|3|0
+his suprapubic catheter|33:9|33:11|respiratory therapy|47:14|47:15|3|0
+his suprapubic catheter|33:9|33:11|continuous respiratory therapy|47:13|47:15|3|0
+his suprapubic catheter|33:9|33:11|Albuterol nebulizers|47:19|47:20|3|0
+his suprapubic catheter|33:9|33:11|nasal oxygen|47:24|47:25|3|0
+his suprapubic catheter|33:9|33:11|intravenous steroids|47:27|47:28|3|0
+his suprapubic catheter|33:9|33:11|intravenous antibiotics|47:30|47:31|3|0
+his suprapubic catheter|33:9|33:11|Albuterol|47:19|47:19|3|0
+his suprapubic catheter|33:9|33:11|antibiotics|47:31|47:31|3|0
+some blood at the site|33:17|33:21|slight shortness of breath|35:6|35:9|4|0
+some blood at the site|33:17|33:21|shortness of breath|35:7|35:9|4|0
+some blood at the site|33:17|33:21|increasing shortness of breath|36:8|36:11|4|0
+some blood at the site|33:17|33:21|shortness of breath|36:9|36:11|4|0
+some blood at the site|33:17|33:21|confused|37:6|37:6|4|0
+some blood at the site|33:17|33:21|disoriented|37:10|37:10|4|0
+some blood at the site|33:17|33:21|shortness of breath|37:20|37:22|4|0
+some blood at the site|33:17|33:21|recent upper respiratory infections|38:4|38:7|4|0
+some blood at the site|33:17|33:21|fevers|38:10|38:10|4|0
+some blood at the site|33:17|33:21|chills|38:13|38:13|4|0
+some blood at the site|33:17|33:21|change in cough|38:16|38:18|4|0
+some blood at the site|33:17|33:21|sputum|38:20|38:20|4|0
+some blood at the site|33:17|33:21|any chest pain|39:3|39:5|4|0
+some blood at the site|33:17|33:21|orthopnea|40:1|40:1|4|0
+some blood at the site|33:17|33:21|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+some blood at the site|33:17|33:21|moderate respiratory distress|43:16|43:18|4|0
+some blood at the site|33:17|33:21|new changes|48:11|48:12|4|0
+some blood at the site|33:17|33:21|scarring in both lungs|48:26|48:29|4|0
+his catheter|34:21|34:22|his usual medications|42:5|42:7|3|0
+his catheter|34:21|34:22|his nasal oxygen at home|42:10|42:14|3|0
+his catheter|34:21|34:22|nasal oxygen|42:11|42:12|3|0
+his catheter|34:21|34:22|respiratory therapy|45:4|45:5|3|0
+his catheter|34:21|34:22|nebulizer treatments|45:10|45:11|3|0
+his catheter|34:21|34:22|intubation|45:31|45:31|3|0
+his catheter|34:21|34:22|respiratory therapy|47:14|47:15|3|0
+his catheter|34:21|34:22|continuous respiratory therapy|47:13|47:15|3|0
+his catheter|34:21|34:22|Albuterol nebulizers|47:19|47:20|3|0
+his catheter|34:21|34:22|nasal oxygen|47:24|47:25|3|0
+his catheter|34:21|34:22|intravenous steroids|47:27|47:28|3|0
+his catheter|34:21|34:22|intravenous antibiotics|47:30|47:31|3|0
+his catheter|34:21|34:22|Albuterol|47:19|47:19|3|0
+his catheter|34:21|34:22|antibiotics|47:31|47:31|3|0
+slight shortness of breath|35:6|35:9|shortness of breath|35:7|35:9|4|0
+slight shortness of breath|35:6|35:9|increasing shortness of breath|36:8|36:11|4|0
+slight shortness of breath|35:6|35:9|shortness of breath|36:9|36:11|4|0
+slight shortness of breath|35:6|35:9|confused|37:6|37:6|4|0
+slight shortness of breath|35:6|35:9|disoriented|37:10|37:10|4|0
+slight shortness of breath|35:6|35:9|shortness of breath|37:20|37:22|4|0
+slight shortness of breath|35:6|35:9|recent upper respiratory infections|38:4|38:7|4|0
+slight shortness of breath|35:6|35:9|fevers|38:10|38:10|4|0
+slight shortness of breath|35:6|35:9|chills|38:13|38:13|4|0
+slight shortness of breath|35:6|35:9|change in cough|38:16|38:18|4|0
+slight shortness of breath|35:6|35:9|sputum|38:20|38:20|4|0
+slight shortness of breath|35:6|35:9|any chest pain|39:3|39:5|4|0
+slight shortness of breath|35:6|35:9|orthopnea|40:1|40:1|4|0
+slight shortness of breath|35:6|35:9|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+slight shortness of breath|35:6|35:9|moderate respiratory distress|43:16|43:18|4|0
+slight shortness of breath|35:6|35:9|new changes|48:11|48:12|4|0
+slight shortness of breath|35:6|35:9|scarring in both lungs|48:26|48:29|4|0
+slight shortness of breath|35:6|35:9|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+slight shortness of breath|35:6|35:9|pneumonia|50:8|50:8|4|0
+slight shortness of breath|35:6|35:9|asymmetric pulmonary edema|50:10|50:12|4|0
+slight shortness of breath|35:6|35:9|pulmonary edema|50:11|50:12|4|0
+shortness of breath|35:7|35:9|increasing shortness of breath|36:8|36:11|4|0
+shortness of breath|35:7|35:9|shortness of breath|36:9|36:11|4|0
+shortness of breath|35:7|35:9|confused|37:6|37:6|4|0
+shortness of breath|35:7|35:9|disoriented|37:10|37:10|4|0
+shortness of breath|35:7|35:9|shortness of breath|37:20|37:22|4|0
+shortness of breath|35:7|35:9|recent upper respiratory infections|38:4|38:7|4|0
+shortness of breath|35:7|35:9|fevers|38:10|38:10|4|0
+shortness of breath|35:7|35:9|chills|38:13|38:13|4|0
+shortness of breath|35:7|35:9|change in cough|38:16|38:18|4|0
+shortness of breath|35:7|35:9|sputum|38:20|38:20|4|0
+shortness of breath|35:7|35:9|any chest pain|39:3|39:5|4|0
+shortness of breath|35:7|35:9|orthopnea|40:1|40:1|4|0
+shortness of breath|35:7|35:9|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+shortness of breath|35:7|35:9|moderate respiratory distress|43:16|43:18|4|0
+shortness of breath|35:7|35:9|new changes|48:11|48:12|4|0
+shortness of breath|35:7|35:9|scarring in both lungs|48:26|48:29|4|0
+shortness of breath|35:7|35:9|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+shortness of breath|35:7|35:9|pneumonia|50:8|50:8|4|0
+shortness of breath|35:7|35:9|asymmetric pulmonary edema|50:10|50:12|4|0
+shortness of breath|35:7|35:9|pulmonary edema|50:11|50:12|4|0
+increasing shortness of breath|36:8|36:11|shortness of breath|36:9|36:11|4|0
+increasing shortness of breath|36:8|36:11|confused|37:6|37:6|4|0
+increasing shortness of breath|36:8|36:11|disoriented|37:10|37:10|4|0
+increasing shortness of breath|36:8|36:11|shortness of breath|37:20|37:22|4|0
+increasing shortness of breath|36:8|36:11|recent upper respiratory infections|38:4|38:7|4|0
+increasing shortness of breath|36:8|36:11|fevers|38:10|38:10|4|0
+increasing shortness of breath|36:8|36:11|chills|38:13|38:13|4|0
+increasing shortness of breath|36:8|36:11|change in cough|38:16|38:18|4|0
+increasing shortness of breath|36:8|36:11|sputum|38:20|38:20|4|0
+increasing shortness of breath|36:8|36:11|any chest pain|39:3|39:5|4|0
+increasing shortness of breath|36:8|36:11|orthopnea|40:1|40:1|4|0
+increasing shortness of breath|36:8|36:11|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+increasing shortness of breath|36:8|36:11|moderate respiratory distress|43:16|43:18|4|0
+increasing shortness of breath|36:8|36:11|new changes|48:11|48:12|4|0
+increasing shortness of breath|36:8|36:11|scarring in both lungs|48:26|48:29|4|0
+increasing shortness of breath|36:8|36:11|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+increasing shortness of breath|36:8|36:11|pneumonia|50:8|50:8|4|0
+increasing shortness of breath|36:8|36:11|asymmetric pulmonary edema|50:10|50:12|4|0
+increasing shortness of breath|36:8|36:11|pulmonary edema|50:11|50:12|4|0
+shortness of breath|36:9|36:11|confused|37:6|37:6|4|0
+shortness of breath|36:9|36:11|disoriented|37:10|37:10|4|0
+shortness of breath|36:9|36:11|shortness of breath|37:20|37:22|4|0
+shortness of breath|36:9|36:11|recent upper respiratory infections|38:4|38:7|4|0
+shortness of breath|36:9|36:11|fevers|38:10|38:10|4|0
+shortness of breath|36:9|36:11|chills|38:13|38:13|4|0
+shortness of breath|36:9|36:11|change in cough|38:16|38:18|4|0
+shortness of breath|36:9|36:11|sputum|38:20|38:20|4|0
+shortness of breath|36:9|36:11|any chest pain|39:3|39:5|4|0
+shortness of breath|36:9|36:11|orthopnea|40:1|40:1|4|0
+shortness of breath|36:9|36:11|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+shortness of breath|36:9|36:11|moderate respiratory distress|43:16|43:18|4|0
+shortness of breath|36:9|36:11|new changes|48:11|48:12|4|0
+shortness of breath|36:9|36:11|scarring in both lungs|48:26|48:29|4|0
+shortness of breath|36:9|36:11|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+shortness of breath|36:9|36:11|pneumonia|50:8|50:8|4|0
+shortness of breath|36:9|36:11|asymmetric pulmonary edema|50:10|50:12|4|0
+shortness of breath|36:9|36:11|pulmonary edema|50:11|50:12|4|0
+confused|37:6|37:6|disoriented|37:10|37:10|4|0
+confused|37:6|37:6|shortness of breath|37:20|37:22|4|0
+confused|37:6|37:6|recent upper respiratory infections|38:4|38:7|4|0
+confused|37:6|37:6|fevers|38:10|38:10|4|0
+confused|37:6|37:6|chills|38:13|38:13|4|0
+confused|37:6|37:6|change in cough|38:16|38:18|4|0
+confused|37:6|37:6|sputum|38:20|38:20|4|0
+confused|37:6|37:6|any chest pain|39:3|39:5|4|0
+confused|37:6|37:6|orthopnea|40:1|40:1|4|0
+confused|37:6|37:6|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+confused|37:6|37:6|moderate respiratory distress|43:16|43:18|4|0
+confused|37:6|37:6|new changes|48:11|48:12|4|0
+confused|37:6|37:6|scarring in both lungs|48:26|48:29|4|0
+confused|37:6|37:6|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+confused|37:6|37:6|pneumonia|50:8|50:8|4|0
+confused|37:6|37:6|asymmetric pulmonary edema|50:10|50:12|4|0
+confused|37:6|37:6|pulmonary edema|50:11|50:12|4|0
+confused|37:6|37:6|Associated medical problems|52:0|52:2|4|0
+disoriented|37:10|37:10|shortness of breath|37:20|37:22|4|0
+disoriented|37:10|37:10|recent upper respiratory infections|38:4|38:7|4|0
+disoriented|37:10|37:10|fevers|38:10|38:10|4|0
+disoriented|37:10|37:10|chills|38:13|38:13|4|0
+disoriented|37:10|37:10|change in cough|38:16|38:18|4|0
+disoriented|37:10|37:10|sputum|38:20|38:20|4|0
+disoriented|37:10|37:10|any chest pain|39:3|39:5|4|0
+disoriented|37:10|37:10|orthopnea|40:1|40:1|4|0
+disoriented|37:10|37:10|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+disoriented|37:10|37:10|moderate respiratory distress|43:16|43:18|4|0
+disoriented|37:10|37:10|new changes|48:11|48:12|4|0
+disoriented|37:10|37:10|scarring in both lungs|48:26|48:29|4|0
+disoriented|37:10|37:10|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+disoriented|37:10|37:10|pneumonia|50:8|50:8|4|0
+disoriented|37:10|37:10|asymmetric pulmonary edema|50:10|50:12|4|0
+disoriented|37:10|37:10|pulmonary edema|50:11|50:12|4|0
+disoriented|37:10|37:10|Associated medical problems|52:0|52:2|4|0
+shortness of breath|37:20|37:22|recent upper respiratory infections|38:4|38:7|4|0
+shortness of breath|37:20|37:22|fevers|38:10|38:10|4|0
+shortness of breath|37:20|37:22|chills|38:13|38:13|4|0
+shortness of breath|37:20|37:22|change in cough|38:16|38:18|4|0
+shortness of breath|37:20|37:22|sputum|38:20|38:20|4|0
+shortness of breath|37:20|37:22|any chest pain|39:3|39:5|4|0
+shortness of breath|37:20|37:22|orthopnea|40:1|40:1|4|0
+shortness of breath|37:20|37:22|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+shortness of breath|37:20|37:22|moderate respiratory distress|43:16|43:18|4|0
+shortness of breath|37:20|37:22|new changes|48:11|48:12|4|0
+shortness of breath|37:20|37:22|scarring in both lungs|48:26|48:29|4|0
+shortness of breath|37:20|37:22|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+shortness of breath|37:20|37:22|pneumonia|50:8|50:8|4|0
+shortness of breath|37:20|37:22|asymmetric pulmonary edema|50:10|50:12|4|0
+shortness of breath|37:20|37:22|pulmonary edema|50:11|50:12|4|0
+shortness of breath|37:20|37:22|Associated medical problems|52:0|52:2|4|0
+recent upper respiratory infections|38:4|38:7|fevers|38:10|38:10|4|0
+recent upper respiratory infections|38:4|38:7|chills|38:13|38:13|4|0
+recent upper respiratory infections|38:4|38:7|change in cough|38:16|38:18|4|0
+recent upper respiratory infections|38:4|38:7|sputum|38:20|38:20|4|0
+recent upper respiratory infections|38:4|38:7|any chest pain|39:3|39:5|4|0
+recent upper respiratory infections|38:4|38:7|orthopnea|40:1|40:1|4|0
+recent upper respiratory infections|38:4|38:7|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+recent upper respiratory infections|38:4|38:7|moderate respiratory distress|43:16|43:18|4|0
+recent upper respiratory infections|38:4|38:7|new changes|48:11|48:12|4|0
+recent upper respiratory infections|38:4|38:7|scarring in both lungs|48:26|48:29|4|0
+recent upper respiratory infections|38:4|38:7|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+recent upper respiratory infections|38:4|38:7|pneumonia|50:8|50:8|4|0
+recent upper respiratory infections|38:4|38:7|asymmetric pulmonary edema|50:10|50:12|4|0
+recent upper respiratory infections|38:4|38:7|pulmonary edema|50:11|50:12|4|0
+recent upper respiratory infections|38:4|38:7|Associated medical problems|52:0|52:2|4|0
+recent upper respiratory infections|38:4|38:7|Atonic bladder|53:1|53:2|4|0
+fevers|38:10|38:10|chills|38:13|38:13|4|0
+fevers|38:10|38:10|change in cough|38:16|38:18|4|0
+fevers|38:10|38:10|sputum|38:20|38:20|4|0
+fevers|38:10|38:10|any chest pain|39:3|39:5|4|0
+fevers|38:10|38:10|orthopnea|40:1|40:1|4|0
+fevers|38:10|38:10|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+fevers|38:10|38:10|moderate respiratory distress|43:16|43:18|4|0
+fevers|38:10|38:10|new changes|48:11|48:12|4|0
+fevers|38:10|38:10|scarring in both lungs|48:26|48:29|4|0
+fevers|38:10|38:10|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+fevers|38:10|38:10|pneumonia|50:8|50:8|4|0
+fevers|38:10|38:10|asymmetric pulmonary edema|50:10|50:12|4|0
+fevers|38:10|38:10|pulmonary edema|50:11|50:12|4|0
+fevers|38:10|38:10|Associated medical problems|52:0|52:2|4|0
+fevers|38:10|38:10|Atonic bladder|53:1|53:2|4|0
+chills|38:13|38:13|change in cough|38:16|38:18|4|0
+chills|38:13|38:13|sputum|38:20|38:20|4|0
+chills|38:13|38:13|any chest pain|39:3|39:5|4|0
+chills|38:13|38:13|orthopnea|40:1|40:1|4|0
+chills|38:13|38:13|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+chills|38:13|38:13|moderate respiratory distress|43:16|43:18|4|0
+chills|38:13|38:13|new changes|48:11|48:12|4|0
+chills|38:13|38:13|scarring in both lungs|48:26|48:29|4|0
+chills|38:13|38:13|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+chills|38:13|38:13|pneumonia|50:8|50:8|4|0
+chills|38:13|38:13|asymmetric pulmonary edema|50:10|50:12|4|0
+chills|38:13|38:13|pulmonary edema|50:11|50:12|4|0
+chills|38:13|38:13|Associated medical problems|52:0|52:2|4|0
+chills|38:13|38:13|Atonic bladder|53:1|53:2|4|0
+change in cough|38:16|38:18|sputum|38:20|38:20|4|0
+change in cough|38:16|38:18|any chest pain|39:3|39:5|4|0
+change in cough|38:16|38:18|orthopnea|40:1|40:1|4|0
+change in cough|38:16|38:18|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+change in cough|38:16|38:18|moderate respiratory distress|43:16|43:18|4|0
+change in cough|38:16|38:18|new changes|48:11|48:12|4|0
+change in cough|38:16|38:18|scarring in both lungs|48:26|48:29|4|0
+change in cough|38:16|38:18|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+change in cough|38:16|38:18|pneumonia|50:8|50:8|4|0
+change in cough|38:16|38:18|asymmetric pulmonary edema|50:10|50:12|4|0
+change in cough|38:16|38:18|pulmonary edema|50:11|50:12|4|0
+change in cough|38:16|38:18|Associated medical problems|52:0|52:2|4|0
+change in cough|38:16|38:18|Atonic bladder|53:1|53:2|4|0
+sputum|38:20|38:20|any chest pain|39:3|39:5|4|0
+sputum|38:20|38:20|orthopnea|40:1|40:1|4|0
+sputum|38:20|38:20|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+sputum|38:20|38:20|moderate respiratory distress|43:16|43:18|4|0
+sputum|38:20|38:20|new changes|48:11|48:12|4|0
+sputum|38:20|38:20|scarring in both lungs|48:26|48:29|4|0
+sputum|38:20|38:20|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+sputum|38:20|38:20|pneumonia|50:8|50:8|4|0
+sputum|38:20|38:20|asymmetric pulmonary edema|50:10|50:12|4|0
+sputum|38:20|38:20|pulmonary edema|50:11|50:12|4|0
+sputum|38:20|38:20|Associated medical problems|52:0|52:2|4|0
+sputum|38:20|38:20|Atonic bladder|53:1|53:2|4|0
+any chest pain|39:3|39:5|orthopnea|40:1|40:1|4|0
+any chest pain|39:3|39:5|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+any chest pain|39:3|39:5|moderate respiratory distress|43:16|43:18|4|0
+any chest pain|39:3|39:5|new changes|48:11|48:12|4|0
+any chest pain|39:3|39:5|scarring in both lungs|48:26|48:29|4|0
+any chest pain|39:3|39:5|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+any chest pain|39:3|39:5|pneumonia|50:8|50:8|4|0
+any chest pain|39:3|39:5|asymmetric pulmonary edema|50:10|50:12|4|0
+any chest pain|39:3|39:5|pulmonary edema|50:11|50:12|4|0
+any chest pain|39:3|39:5|Associated medical problems|52:0|52:2|4|0
+any chest pain|39:3|39:5|Atonic bladder|53:1|53:2|4|0
+any chest pain|39:3|39:5|Anxiety|54:1|54:1|4|0
+orthopnea|40:1|40:1|paroxysmal nocturnal dyspnea|41:1|41:3|4|0
+orthopnea|40:1|40:1|moderate respiratory distress|43:16|43:18|4|0
+orthopnea|40:1|40:1|new changes|48:11|48:12|4|0
+orthopnea|40:1|40:1|scarring in both lungs|48:26|48:29|4|0
+orthopnea|40:1|40:1|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+orthopnea|40:1|40:1|pneumonia|50:8|50:8|4|0
+orthopnea|40:1|40:1|asymmetric pulmonary edema|50:10|50:12|4|0
+orthopnea|40:1|40:1|pulmonary edema|50:11|50:12|4|0
+orthopnea|40:1|40:1|Associated medical problems|52:0|52:2|4|0
+orthopnea|40:1|40:1|Atonic bladder|53:1|53:2|4|0
+orthopnea|40:1|40:1|Anxiety|54:1|54:1|4|0
+orthopnea|40:1|40:1|Coronary artery disease|55:1|55:3|4|0
+orthopnea|40:1|40:1|angina|55:8|55:8|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|moderate respiratory distress|43:16|43:18|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|new changes|48:11|48:12|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|scarring in both lungs|48:26|48:29|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|pneumonia|50:8|50:8|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|asymmetric pulmonary edema|50:10|50:12|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|pulmonary edema|50:11|50:12|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|Associated medical problems|52:0|52:2|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|Atonic bladder|53:1|53:2|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|Anxiety|54:1|54:1|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|Coronary artery disease|55:1|55:3|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|angina|55:8|55:8|4|0
+paroxysmal nocturnal dyspnea|41:1|41:3|colon cancer|56:3|56:4|4|0
+his usual medications|42:5|42:7|his nasal oxygen at home|42:10|42:14|3|0
+his usual medications|42:5|42:7|nasal oxygen|42:11|42:12|3|0
+his usual medications|42:5|42:7|respiratory therapy|45:4|45:5|3|0
+his usual medications|42:5|42:7|nebulizer treatments|45:10|45:11|3|0
+his usual medications|42:5|42:7|intubation|45:31|45:31|3|0
+his usual medications|42:5|42:7|respiratory therapy|47:14|47:15|3|0
+his usual medications|42:5|42:7|continuous respiratory therapy|47:13|47:15|3|0
+his usual medications|42:5|42:7|Albuterol nebulizers|47:19|47:20|3|0
+his usual medications|42:5|42:7|nasal oxygen|47:24|47:25|3|0
+his usual medications|42:5|42:7|intravenous steroids|47:27|47:28|3|0
+his usual medications|42:5|42:7|intravenous antibiotics|47:30|47:31|3|0
+his usual medications|42:5|42:7|Albuterol|47:19|47:19|3|0
+his usual medications|42:5|42:7|antibiotics|47:31|47:31|3|0
+his usual medications|42:5|42:7|a suprapubic tube|53:4|53:6|3|0
+his usual medications|42:5|42:7|a colectomy|56:6|56:7|3|0
+his nasal oxygen at home|42:10|42:14|nasal oxygen|42:11|42:12|3|0
+his nasal oxygen at home|42:10|42:14|respiratory therapy|45:4|45:5|3|0
+his nasal oxygen at home|42:10|42:14|nebulizer treatments|45:10|45:11|3|0
+his nasal oxygen at home|42:10|42:14|intubation|45:31|45:31|3|0
+his nasal oxygen at home|42:10|42:14|respiratory therapy|47:14|47:15|3|0
+his nasal oxygen at home|42:10|42:14|continuous respiratory therapy|47:13|47:15|3|0
+his nasal oxygen at home|42:10|42:14|Albuterol nebulizers|47:19|47:20|3|0
+his nasal oxygen at home|42:10|42:14|nasal oxygen|47:24|47:25|3|0
+his nasal oxygen at home|42:10|42:14|intravenous steroids|47:27|47:28|3|0
+his nasal oxygen at home|42:10|42:14|intravenous antibiotics|47:30|47:31|3|0
+his nasal oxygen at home|42:10|42:14|Albuterol|47:19|47:19|3|0
+his nasal oxygen at home|42:10|42:14|antibiotics|47:31|47:31|3|0
+his nasal oxygen at home|42:10|42:14|a suprapubic tube|53:4|53:6|3|0
+his nasal oxygen at home|42:10|42:14|a colectomy|56:6|56:7|3|0
+nasal oxygen|42:11|42:12|respiratory therapy|45:4|45:5|3|0
+nasal oxygen|42:11|42:12|nebulizer treatments|45:10|45:11|3|0
+nasal oxygen|42:11|42:12|intubation|45:31|45:31|3|0
+nasal oxygen|42:11|42:12|respiratory therapy|47:14|47:15|3|0
+nasal oxygen|42:11|42:12|continuous respiratory therapy|47:13|47:15|3|0
+nasal oxygen|42:11|42:12|Albuterol nebulizers|47:19|47:20|3|0
+nasal oxygen|42:11|42:12|nasal oxygen|47:24|47:25|3|0
+nasal oxygen|42:11|42:12|intravenous steroids|47:27|47:28|3|0
+nasal oxygen|42:11|42:12|intravenous antibiotics|47:30|47:31|3|0
+nasal oxygen|42:11|42:12|Albuterol|47:19|47:19|3|0
+nasal oxygen|42:11|42:12|antibiotics|47:31|47:31|3|0
+nasal oxygen|42:11|42:12|a suprapubic tube|53:4|53:6|3|0
+nasal oxygen|42:11|42:12|a colectomy|56:6|56:7|3|0
+moderate respiratory distress|43:16|43:18|new changes|48:11|48:12|4|0
+moderate respiratory distress|43:16|43:18|scarring in both lungs|48:26|48:29|4|0
+moderate respiratory distress|43:16|43:18|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+moderate respiratory distress|43:16|43:18|pneumonia|50:8|50:8|4|0
+moderate respiratory distress|43:16|43:18|asymmetric pulmonary edema|50:10|50:12|4|0
+moderate respiratory distress|43:16|43:18|pulmonary edema|50:11|50:12|4|0
+moderate respiratory distress|43:16|43:18|Associated medical problems|52:0|52:2|4|0
+moderate respiratory distress|43:16|43:18|Atonic bladder|53:1|53:2|4|0
+moderate respiratory distress|43:16|43:18|Anxiety|54:1|54:1|4|0
+moderate respiratory distress|43:16|43:18|Coronary artery disease|55:1|55:3|4|0
+moderate respiratory distress|43:16|43:18|angina|55:8|55:8|4|0
+moderate respiratory distress|43:16|43:18|colon cancer|56:3|56:4|4|0
+His initial blood gases|44:0|44:3|P02|44:8|44:8|2|0
+His initial blood gases|44:0|44:3|PC02|44:11|44:11|2|0
+His initial blood gases|44:0|44:3|PH|44:14|44:14|2|0
+His initial blood gases|44:0|44:3|A chest x-ray|48:0|48:2|2|0
+His initial blood gases|44:0|44:3|his chest x-ray|48:14|48:16|2|0
+P02|44:8|44:8|PC02|44:11|44:11|2|0
+P02|44:8|44:8|PH|44:14|44:14|2|0
+P02|44:8|44:8|A chest x-ray|48:0|48:2|2|0
+P02|44:8|44:8|his chest x-ray|48:14|48:16|2|0
+PC02|44:11|44:11|PH|44:14|44:14|2|0
+PC02|44:11|44:11|A chest x-ray|48:0|48:2|2|0
+PC02|44:11|44:11|his chest x-ray|48:14|48:16|2|0
+PH|44:14|44:14|A chest x-ray|48:0|48:2|2|0
+PH|44:14|44:14|his chest x-ray|48:14|48:16|2|0
+respiratory therapy|45:4|45:5|nebulizer treatments|45:10|45:11|3|0
+respiratory therapy|45:4|45:5|intubation|45:31|45:31|3|0
+respiratory therapy|45:4|45:5|respiratory therapy|47:14|47:15|3|0
+respiratory therapy|45:4|45:5|continuous respiratory therapy|47:13|47:15|3|0
+respiratory therapy|45:4|45:5|Albuterol nebulizers|47:19|47:20|3|0
+respiratory therapy|45:4|45:5|nasal oxygen|47:24|47:25|3|0
+respiratory therapy|45:4|45:5|intravenous steroids|47:27|47:28|3|0
+respiratory therapy|45:4|45:5|intravenous antibiotics|47:30|47:31|3|0
+respiratory therapy|45:4|45:5|Albuterol|47:19|47:19|3|0
+respiratory therapy|45:4|45:5|antibiotics|47:31|47:31|3|0
+respiratory therapy|45:4|45:5|a suprapubic tube|53:4|53:6|3|0
+respiratory therapy|45:4|45:5|a colectomy|56:6|56:7|3|0
+respiratory therapy|45:4|45:5|Ativan|58:1|58:1|3|0
+respiratory therapy|45:4|45:5|Trusopt|59:1|59:1|3|0
+respiratory therapy|45:4|45:5|Xalatan|60:1|60:1|3|0
+nebulizer treatments|45:10|45:11|intubation|45:31|45:31|3|0
+nebulizer treatments|45:10|45:11|respiratory therapy|47:14|47:15|3|0
+nebulizer treatments|45:10|45:11|continuous respiratory therapy|47:13|47:15|3|0
+nebulizer treatments|45:10|45:11|Albuterol nebulizers|47:19|47:20|3|0
+nebulizer treatments|45:10|45:11|nasal oxygen|47:24|47:25|3|0
+nebulizer treatments|45:10|45:11|intravenous steroids|47:27|47:28|3|0
+nebulizer treatments|45:10|45:11|intravenous antibiotics|47:30|47:31|3|0
+nebulizer treatments|45:10|45:11|Albuterol|47:19|47:19|3|0
+nebulizer treatments|45:10|45:11|antibiotics|47:31|47:31|3|0
+nebulizer treatments|45:10|45:11|a suprapubic tube|53:4|53:6|3|0
+nebulizer treatments|45:10|45:11|a colectomy|56:6|56:7|3|0
+nebulizer treatments|45:10|45:11|Ativan|58:1|58:1|3|0
+nebulizer treatments|45:10|45:11|Trusopt|59:1|59:1|3|0
+nebulizer treatments|45:10|45:11|Xalatan|60:1|60:1|3|0
+intubation|45:31|45:31|respiratory therapy|47:14|47:15|3|0
+intubation|45:31|45:31|continuous respiratory therapy|47:13|47:15|3|0
+intubation|45:31|45:31|Albuterol nebulizers|47:19|47:20|3|0
+intubation|45:31|45:31|nasal oxygen|47:24|47:25|3|0
+intubation|45:31|45:31|intravenous steroids|47:27|47:28|3|0
+intubation|45:31|45:31|intravenous antibiotics|47:30|47:31|3|0
+intubation|45:31|45:31|Albuterol|47:19|47:19|3|0
+intubation|45:31|45:31|antibiotics|47:31|47:31|3|0
+intubation|45:31|45:31|a suprapubic tube|53:4|53:6|3|0
+intubation|45:31|45:31|a colectomy|56:6|56:7|3|0
+intubation|45:31|45:31|Ativan|58:1|58:1|3|0
+intubation|45:31|45:31|Trusopt|59:1|59:1|3|0
+intubation|45:31|45:31|Xalatan|60:1|60:1|3|0
+respiratory therapy|47:14|47:15|continuous respiratory therapy|47:13|47:15|3|0
+respiratory therapy|47:14|47:15|Albuterol nebulizers|47:19|47:20|3|0
+respiratory therapy|47:14|47:15|nasal oxygen|47:24|47:25|3|0
+respiratory therapy|47:14|47:15|intravenous steroids|47:27|47:28|3|0
+respiratory therapy|47:14|47:15|intravenous antibiotics|47:30|47:31|3|0
+respiratory therapy|47:14|47:15|Albuterol|47:19|47:19|3|0
+respiratory therapy|47:14|47:15|antibiotics|47:31|47:31|3|0
+respiratory therapy|47:14|47:15|a suprapubic tube|53:4|53:6|3|0
+respiratory therapy|47:14|47:15|a colectomy|56:6|56:7|3|0
+respiratory therapy|47:14|47:15|Ativan|58:1|58:1|3|0
+respiratory therapy|47:14|47:15|Trusopt|59:1|59:1|3|0
+respiratory therapy|47:14|47:15|Xalatan|60:1|60:1|3|0
+respiratory therapy|47:14|47:15|Brimonidine|61:1|61:1|3|0
+respiratory therapy|47:14|47:15|Combivent|62:1|62:1|3|0
+continuous respiratory therapy|47:13|47:15|Albuterol nebulizers|47:19|47:20|3|0
+continuous respiratory therapy|47:13|47:15|nasal oxygen|47:24|47:25|3|0
+continuous respiratory therapy|47:13|47:15|intravenous steroids|47:27|47:28|3|0
+continuous respiratory therapy|47:13|47:15|intravenous antibiotics|47:30|47:31|3|0
+continuous respiratory therapy|47:13|47:15|Albuterol|47:19|47:19|3|0
+continuous respiratory therapy|47:13|47:15|antibiotics|47:31|47:31|3|0
+continuous respiratory therapy|47:13|47:15|a suprapubic tube|53:4|53:6|3|0
+continuous respiratory therapy|47:13|47:15|a colectomy|56:6|56:7|3|0
+continuous respiratory therapy|47:13|47:15|Ativan|58:1|58:1|3|0
+continuous respiratory therapy|47:13|47:15|Trusopt|59:1|59:1|3|0
+continuous respiratory therapy|47:13|47:15|Xalatan|60:1|60:1|3|0
+continuous respiratory therapy|47:13|47:15|Brimonidine|61:1|61:1|3|0
+continuous respiratory therapy|47:13|47:15|Combivent|62:1|62:1|3|0
+Albuterol nebulizers|47:19|47:20|nasal oxygen|47:24|47:25|3|0
+Albuterol nebulizers|47:19|47:20|intravenous steroids|47:27|47:28|3|0
+Albuterol nebulizers|47:19|47:20|intravenous antibiotics|47:30|47:31|3|0
+Albuterol nebulizers|47:19|47:20|Albuterol|47:19|47:19|3|0
+Albuterol nebulizers|47:19|47:20|antibiotics|47:31|47:31|3|0
+Albuterol nebulizers|47:19|47:20|a suprapubic tube|53:4|53:6|3|0
+Albuterol nebulizers|47:19|47:20|a colectomy|56:6|56:7|3|0
+Albuterol nebulizers|47:19|47:20|Ativan|58:1|58:1|3|0
+Albuterol nebulizers|47:19|47:20|Trusopt|59:1|59:1|3|0
+Albuterol nebulizers|47:19|47:20|Xalatan|60:1|60:1|3|0
+Albuterol nebulizers|47:19|47:20|Brimonidine|61:1|61:1|3|0
+Albuterol nebulizers|47:19|47:20|Combivent|62:1|62:1|3|0
+nasal oxygen|47:24|47:25|intravenous steroids|47:27|47:28|3|0
+nasal oxygen|47:24|47:25|intravenous antibiotics|47:30|47:31|3|0
+nasal oxygen|47:24|47:25|Albuterol|47:19|47:19|3|0
+nasal oxygen|47:24|47:25|antibiotics|47:31|47:31|3|0
+nasal oxygen|47:24|47:25|a suprapubic tube|53:4|53:6|3|0
+nasal oxygen|47:24|47:25|a colectomy|56:6|56:7|3|0
+nasal oxygen|47:24|47:25|Ativan|58:1|58:1|3|0
+nasal oxygen|47:24|47:25|Trusopt|59:1|59:1|3|0
+nasal oxygen|47:24|47:25|Xalatan|60:1|60:1|3|0
+nasal oxygen|47:24|47:25|Brimonidine|61:1|61:1|3|0
+nasal oxygen|47:24|47:25|Combivent|62:1|62:1|3|0
+intravenous steroids|47:27|47:28|intravenous antibiotics|47:30|47:31|3|0
+intravenous steroids|47:27|47:28|Albuterol|47:19|47:19|3|0
+intravenous steroids|47:27|47:28|antibiotics|47:31|47:31|3|0
+intravenous steroids|47:27|47:28|a suprapubic tube|53:4|53:6|3|0
+intravenous steroids|47:27|47:28|a colectomy|56:6|56:7|3|0
+intravenous steroids|47:27|47:28|Ativan|58:1|58:1|3|0
+intravenous steroids|47:27|47:28|Trusopt|59:1|59:1|3|0
+intravenous steroids|47:27|47:28|Xalatan|60:1|60:1|3|0
+intravenous steroids|47:27|47:28|Brimonidine|61:1|61:1|3|0
+intravenous steroids|47:27|47:28|Combivent|62:1|62:1|3|0
+intravenous antibiotics|47:30|47:31|Albuterol|47:19|47:19|3|0
+intravenous antibiotics|47:30|47:31|antibiotics|47:31|47:31|3|0
+intravenous antibiotics|47:30|47:31|a suprapubic tube|53:4|53:6|3|0
+intravenous antibiotics|47:30|47:31|a colectomy|56:6|56:7|3|0
+intravenous antibiotics|47:30|47:31|Ativan|58:1|58:1|3|0
+intravenous antibiotics|47:30|47:31|Trusopt|59:1|59:1|3|0
+intravenous antibiotics|47:30|47:31|Xalatan|60:1|60:1|3|0
+intravenous antibiotics|47:30|47:31|Brimonidine|61:1|61:1|3|0
+intravenous antibiotics|47:30|47:31|Combivent|62:1|62:1|3|0
+Albuterol|47:19|47:19|antibiotics|47:31|47:31|3|0
+Albuterol|47:19|47:19|a suprapubic tube|53:4|53:6|3|0
+Albuterol|47:19|47:19|a colectomy|56:6|56:7|3|0
+Albuterol|47:19|47:19|Ativan|58:1|58:1|3|0
+Albuterol|47:19|47:19|Trusopt|59:1|59:1|3|0
+Albuterol|47:19|47:19|Xalatan|60:1|60:1|3|0
+Albuterol|47:19|47:19|Brimonidine|61:1|61:1|3|0
+Albuterol|47:19|47:19|Combivent|62:1|62:1|3|0
+antibiotics|47:31|47:31|a suprapubic tube|53:4|53:6|3|0
+antibiotics|47:31|47:31|a colectomy|56:6|56:7|3|0
+antibiotics|47:31|47:31|Ativan|58:1|58:1|3|0
+antibiotics|47:31|47:31|Trusopt|59:1|59:1|3|0
+antibiotics|47:31|47:31|Xalatan|60:1|60:1|3|0
+antibiotics|47:31|47:31|Brimonidine|61:1|61:1|3|0
+antibiotics|47:31|47:31|Combivent|62:1|62:1|3|0
+A chest x-ray|48:0|48:2|his chest x-ray|48:14|48:16|2|0
+new changes|48:11|48:12|scarring in both lungs|48:26|48:29|4|0
+new changes|48:11|48:12|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+new changes|48:11|48:12|pneumonia|50:8|50:8|4|0
+new changes|48:11|48:12|asymmetric pulmonary edema|50:10|50:12|4|0
+new changes|48:11|48:12|pulmonary edema|50:11|50:12|4|0
+new changes|48:11|48:12|Associated medical problems|52:0|52:2|4|0
+new changes|48:11|48:12|Atonic bladder|53:1|53:2|4|0
+new changes|48:11|48:12|Anxiety|54:1|54:1|4|0
+new changes|48:11|48:12|Coronary artery disease|55:1|55:3|4|0
+new changes|48:11|48:12|angina|55:8|55:8|4|0
+new changes|48:11|48:12|colon cancer|56:3|56:4|4|0
+scarring in both lungs|48:26|48:29|new air space opacifications in the left apex and the right lower lobe|49:2|49:14|4|0
+scarring in both lungs|48:26|48:29|pneumonia|50:8|50:8|4|0
+scarring in both lungs|48:26|48:29|asymmetric pulmonary edema|50:10|50:12|4|0
+scarring in both lungs|48:26|48:29|pulmonary edema|50:11|50:12|4|0
+scarring in both lungs|48:26|48:29|Associated medical problems|52:0|52:2|4|0
+scarring in both lungs|48:26|48:29|Atonic bladder|53:1|53:2|4|0
+scarring in both lungs|48:26|48:29|Anxiety|54:1|54:1|4|0
+scarring in both lungs|48:26|48:29|Coronary artery disease|55:1|55:3|4|0
+scarring in both lungs|48:26|48:29|angina|55:8|55:8|4|0
+scarring in both lungs|48:26|48:29|colon cancer|56:3|56:4|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|pneumonia|50:8|50:8|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|asymmetric pulmonary edema|50:10|50:12|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|pulmonary edema|50:11|50:12|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|Associated medical problems|52:0|52:2|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|Atonic bladder|53:1|53:2|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|Anxiety|54:1|54:1|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|Coronary artery disease|55:1|55:3|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|angina|55:8|55:8|4|0
+new air space opacifications in the left apex and the right lower lobe|49:2|49:14|colon cancer|56:3|56:4|4|0
+pneumonia|50:8|50:8|asymmetric pulmonary edema|50:10|50:12|4|0
+pneumonia|50:8|50:8|pulmonary edema|50:11|50:12|4|0
+pneumonia|50:8|50:8|Associated medical problems|52:0|52:2|4|0
+pneumonia|50:8|50:8|Atonic bladder|53:1|53:2|4|0
+pneumonia|50:8|50:8|Anxiety|54:1|54:1|4|0
+pneumonia|50:8|50:8|Coronary artery disease|55:1|55:3|4|0
+pneumonia|50:8|50:8|angina|55:8|55:8|4|0
+pneumonia|50:8|50:8|colon cancer|56:3|56:4|4|0
+asymmetric pulmonary edema|50:10|50:12|pulmonary edema|50:11|50:12|4|0
+asymmetric pulmonary edema|50:10|50:12|Associated medical problems|52:0|52:2|4|0
+asymmetric pulmonary edema|50:10|50:12|Atonic bladder|53:1|53:2|4|0
+asymmetric pulmonary edema|50:10|50:12|Anxiety|54:1|54:1|4|0
+asymmetric pulmonary edema|50:10|50:12|Coronary artery disease|55:1|55:3|4|0
+asymmetric pulmonary edema|50:10|50:12|angina|55:8|55:8|4|0
+asymmetric pulmonary edema|50:10|50:12|colon cancer|56:3|56:4|4|0
+pulmonary edema|50:11|50:12|Associated medical problems|52:0|52:2|4|0
+pulmonary edema|50:11|50:12|Atonic bladder|53:1|53:2|4|0
+pulmonary edema|50:11|50:12|Anxiety|54:1|54:1|4|0
+pulmonary edema|50:11|50:12|Coronary artery disease|55:1|55:3|4|0
+pulmonary edema|50:11|50:12|angina|55:8|55:8|4|0
+pulmonary edema|50:11|50:12|colon cancer|56:3|56:4|4|0
+Associated medical problems|52:0|52:2|Atonic bladder|53:1|53:2|4|0
+Associated medical problems|52:0|52:2|Anxiety|54:1|54:1|4|0
+Associated medical problems|52:0|52:2|Coronary artery disease|55:1|55:3|4|0
+Associated medical problems|52:0|52:2|angina|55:8|55:8|4|0
+Associated medical problems|52:0|52:2|colon cancer|56:3|56:4|4|0
+Associated medical problems|52:0|52:2|moderate respiratory distress|66:7|66:9|4|0
+Atonic bladder|53:1|53:2|Anxiety|54:1|54:1|4|0
+Atonic bladder|53:1|53:2|Coronary artery disease|55:1|55:3|4|0
+Atonic bladder|53:1|53:2|angina|55:8|55:8|4|0
+Atonic bladder|53:1|53:2|colon cancer|56:3|56:4|4|1
+Atonic bladder|53:1|53:2|moderate respiratory distress|66:7|66:9|4|0
+Atonic bladder|53:1|53:2|moderate respiratory distress|68:3|68:5|4|0
+a suprapubic tube|53:4|53:6|a colectomy|56:6|56:7|3|0
+a suprapubic tube|53:4|53:6|Ativan|58:1|58:1|3|0
+a suprapubic tube|53:4|53:6|Trusopt|59:1|59:1|3|0
+a suprapubic tube|53:4|53:6|Xalatan|60:1|60:1|3|0
+a suprapubic tube|53:4|53:6|Brimonidine|61:1|61:1|3|0
+a suprapubic tube|53:4|53:6|Combivent|62:1|62:1|3|0
+a suprapubic tube|53:4|53:6|Aerobid|63:1|63:1|3|0
+a suprapubic tube|53:4|53:6|Sorbitol|64:1|64:1|3|0
+Anxiety|54:1|54:1|Coronary artery disease|55:1|55:3|4|0
+Anxiety|54:1|54:1|angina|55:8|55:8|4|0
+Anxiety|54:1|54:1|colon cancer|56:3|56:4|4|0
+Anxiety|54:1|54:1|moderate respiratory distress|66:7|66:9|4|0
+Anxiety|54:1|54:1|moderate respiratory distress|68:3|68:5|4|0
+Coronary artery disease|55:1|55:3|angina|55:8|55:8|4|0
+Coronary artery disease|55:1|55:3|colon cancer|56:3|56:4|4|0
+Coronary artery disease|55:1|55:3|moderate respiratory distress|66:7|66:9|4|0
+Coronary artery disease|55:1|55:3|moderate respiratory distress|68:3|68:5|4|0
+angina|55:8|55:8|colon cancer|56:3|56:4|4|0
+angina|55:8|55:8|moderate respiratory distress|66:7|66:9|4|0
+angina|55:8|55:8|moderate respiratory distress|68:3|68:5|4|0
+colon cancer|56:3|56:4|moderate respiratory distress|66:7|66:9|4|0
+colon cancer|56:3|56:4|moderate respiratory distress|68:3|68:5|4|0
+colon cancer|56:3|56:4|jugular venous distention|71:4|71:6|4|0
+colon cancer|56:3|56:4|masses|71:9|71:9|4|0
+a colectomy|56:6|56:7|Ativan|58:1|58:1|3|0
+a colectomy|56:6|56:7|Trusopt|59:1|59:1|3|0
+a colectomy|56:6|56:7|Xalatan|60:1|60:1|3|0
+a colectomy|56:6|56:7|Brimonidine|61:1|61:1|3|0
+a colectomy|56:6|56:7|Combivent|62:1|62:1|3|0
+a colectomy|56:6|56:7|Aerobid|63:1|63:1|3|0
+a colectomy|56:6|56:7|Sorbitol|64:1|64:1|3|0
+Ativan|58:1|58:1|Trusopt|59:1|59:1|3|0
+Ativan|58:1|58:1|Xalatan|60:1|60:1|3|0
+Ativan|58:1|58:1|Brimonidine|61:1|61:1|3|0
+Ativan|58:1|58:1|Combivent|62:1|62:1|3|0
+Ativan|58:1|58:1|Aerobid|63:1|63:1|3|0
+Ativan|58:1|58:1|Sorbitol|64:1|64:1|3|0
+Trusopt|59:1|59:1|Xalatan|60:1|60:1|3|0
+Trusopt|59:1|59:1|Brimonidine|61:1|61:1|3|0
+Trusopt|59:1|59:1|Combivent|62:1|62:1|3|0
+Trusopt|59:1|59:1|Aerobid|63:1|63:1|3|0
+Trusopt|59:1|59:1|Sorbitol|64:1|64:1|3|0
+Xalatan|60:1|60:1|Brimonidine|61:1|61:1|3|0
+Xalatan|60:1|60:1|Combivent|62:1|62:1|3|0
+Xalatan|60:1|60:1|Aerobid|63:1|63:1|3|0
+Xalatan|60:1|60:1|Sorbitol|64:1|64:1|3|0
+Brimonidine|61:1|61:1|Combivent|62:1|62:1|3|0
+Brimonidine|61:1|61:1|Aerobid|63:1|63:1|3|0
+Brimonidine|61:1|61:1|Sorbitol|64:1|64:1|3|0
+Combivent|62:1|62:1|Aerobid|63:1|63:1|3|0
+Combivent|62:1|62:1|Sorbitol|64:1|64:1|3|0
+Aerobid|63:1|63:1|Sorbitol|64:1|64:1|3|0
+moderate respiratory distress|66:7|66:9|moderate respiratory distress|68:3|68:5|4|0
+moderate respiratory distress|66:7|66:9|jugular venous distention|71:4|71:6|4|0
+moderate respiratory distress|66:7|66:9|masses|71:9|71:9|4|0
+moderate respiratory distress|66:7|66:9|decreased breath sounds|72:3|72:5|4|0
+moderate respiratory distress|66:7|66:9|crackles in the bases|72:9|72:12|4|0
+moderate respiratory distress|66:7|66:9|wheezes|73:3|73:3|4|0
+moderate respiratory distress|66:7|66:9|rhonchi|73:5|73:5|4|0
+moderate respiratory distress|66:7|66:9|murmur|74:10|74:10|4|0
+moderate respiratory distress|66:7|66:9|S3|74:15|74:15|4|0
+moderate respiratory distress|66:7|66:9|masses|75:7|75:7|4|0
+moderate respiratory distress|66:7|66:9|nontender|75:4|75:4|4|0
+moderate respiratory distress|66:7|66:9|masses palpable|75:7|75:8|4|0
+a blood pressure|67:2|67:4|heart rate|67:7|67:8|2|0
+a blood pressure|67:2|67:4|respiratory rate|67:16|67:17|2|0
+a blood pressure|67:2|67:4|His temperature|69:0|69:1|2|0
+a blood pressure|67:2|67:4|head , eyes , ears , nose and throat exam|70:4|70:13|2|0
+a blood pressure|67:2|67:4|Neck exam|71:0|71:1|2|0
+a blood pressure|67:2|67:4|Lung exam|72:0|72:1|2|0
+a blood pressure|67:2|67:4|Heart exam|74:0|74:1|2|0
+a blood pressure|67:2|67:4|Rectal exam|76:0|76:1|2|0
+a blood pressure|67:2|67:4|stool heme|76:5|76:6|2|0
+a blood pressure|67:2|67:4|Neurological exam|77:0|77:1|2|0
+a blood pressure|67:2|67:4|Deep tendon reflexes|79:0|79:2|2|0
+a blood pressure|67:2|67:4|P02|81:9|81:9|2|0
+a blood pressure|67:2|67:4|PC02|81:12|81:12|2|0
+a blood pressure|67:2|67:4|PH|81:15|81:15|2|0
+a blood pressure|67:2|67:4|Sodium|81:0|81:0|2|0
+a blood pressure|67:2|67:4|potassium|81:3|81:3|2|0
+a blood pressure|67:2|67:4|glucose|81:6|81:6|2|0
+a blood pressure|67:2|67:4|Blood urea nitrogen|82:0|82:2|2|0
+a blood pressure|67:2|67:4|uric acid|82:8|82:9|2|0
+a blood pressure|67:2|67:4|alkaline phosphatase|82:12|82:13|2|0
+a blood pressure|67:2|67:4|hematocrit|82:22|82:22|2|0
+a blood pressure|67:2|67:4|white blood cell count|82:25|82:28|2|0
+heart rate|67:7|67:8|respiratory rate|67:16|67:17|2|0
+heart rate|67:7|67:8|His temperature|69:0|69:1|2|0
+heart rate|67:7|67:8|head , eyes , ears , nose and throat exam|70:4|70:13|2|0
+heart rate|67:7|67:8|Neck exam|71:0|71:1|2|0
+heart rate|67:7|67:8|Lung exam|72:0|72:1|2|0
+heart rate|67:7|67:8|Heart exam|74:0|74:1|2|0
+heart rate|67:7|67:8|Rectal exam|76:0|76:1|2|0
+heart rate|67:7|67:8|stool heme|76:5|76:6|2|0
+heart rate|67:7|67:8|Neurological exam|77:0|77:1|2|0
+heart rate|67:7|67:8|Deep tendon reflexes|79:0|79:2|2|0
+heart rate|67:7|67:8|P02|81:9|81:9|2|0
+heart rate|67:7|67:8|PC02|81:12|81:12|2|0
+heart rate|67:7|67:8|PH|81:15|81:15|2|0
+heart rate|67:7|67:8|Sodium|81:0|81:0|2|0
+heart rate|67:7|67:8|potassium|81:3|81:3|2|0
+heart rate|67:7|67:8|glucose|81:6|81:6|2|0
+heart rate|67:7|67:8|Blood urea nitrogen|82:0|82:2|2|0
+heart rate|67:7|67:8|uric acid|82:8|82:9|2|0
+heart rate|67:7|67:8|alkaline phosphatase|82:12|82:13|2|0
+heart rate|67:7|67:8|hematocrit|82:22|82:22|2|0
+heart rate|67:7|67:8|white blood cell count|82:25|82:28|2|0
+respiratory rate|67:16|67:17|His temperature|69:0|69:1|2|0
+respiratory rate|67:16|67:17|head , eyes , ears , nose and throat exam|70:4|70:13|2|0
+respiratory rate|67:16|67:17|Neck exam|71:0|71:1|2|0
+respiratory rate|67:16|67:17|Lung exam|72:0|72:1|2|0
+respiratory rate|67:16|67:17|Heart exam|74:0|74:1|2|0
+respiratory rate|67:16|67:17|Rectal exam|76:0|76:1|2|0
+respiratory rate|67:16|67:17|stool heme|76:5|76:6|2|0
+respiratory rate|67:16|67:17|Neurological exam|77:0|77:1|2|0
+respiratory rate|67:16|67:17|Deep tendon reflexes|79:0|79:2|2|0
+respiratory rate|67:16|67:17|P02|81:9|81:9|2|0
+respiratory rate|67:16|67:17|PC02|81:12|81:12|2|0
+respiratory rate|67:16|67:17|PH|81:15|81:15|2|0
+respiratory rate|67:16|67:17|Sodium|81:0|81:0|2|0
+respiratory rate|67:16|67:17|potassium|81:3|81:3|2|0
+respiratory rate|67:16|67:17|glucose|81:6|81:6|2|0
+respiratory rate|67:16|67:17|Blood urea nitrogen|82:0|82:2|2|0
+respiratory rate|67:16|67:17|uric acid|82:8|82:9|2|0
+respiratory rate|67:16|67:17|alkaline phosphatase|82:12|82:13|2|0
+respiratory rate|67:16|67:17|hematocrit|82:22|82:22|2|0
+respiratory rate|67:16|67:17|white blood cell count|82:25|82:28|2|0
+moderate respiratory distress|68:3|68:5|jugular venous distention|71:4|71:6|4|0
+moderate respiratory distress|68:3|68:5|masses|71:9|71:9|4|0
+moderate respiratory distress|68:3|68:5|decreased breath sounds|72:3|72:5|4|0
+moderate respiratory distress|68:3|68:5|crackles in the bases|72:9|72:12|4|0
+moderate respiratory distress|68:3|68:5|wheezes|73:3|73:3|4|0
+moderate respiratory distress|68:3|68:5|rhonchi|73:5|73:5|4|0
+moderate respiratory distress|68:3|68:5|murmur|74:10|74:10|4|0
+moderate respiratory distress|68:3|68:5|S3|74:15|74:15|4|0
+moderate respiratory distress|68:3|68:5|masses|75:7|75:7|4|0
+moderate respiratory distress|68:3|68:5|nontender|75:4|75:4|4|0
+moderate respiratory distress|68:3|68:5|masses palpable|75:7|75:8|4|0
+moderate respiratory distress|68:3|68:5|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+His temperature|69:0|69:1|head , eyes , ears , nose and throat exam|70:4|70:13|2|0
+His temperature|69:0|69:1|Neck exam|71:0|71:1|2|0
+His temperature|69:0|69:1|Lung exam|72:0|72:1|2|0
+His temperature|69:0|69:1|Heart exam|74:0|74:1|2|0
+His temperature|69:0|69:1|Rectal exam|76:0|76:1|2|0
+His temperature|69:0|69:1|stool heme|76:5|76:6|2|0
+His temperature|69:0|69:1|Neurological exam|77:0|77:1|2|0
+His temperature|69:0|69:1|Deep tendon reflexes|79:0|79:2|2|0
+His temperature|69:0|69:1|P02|81:9|81:9|2|0
+His temperature|69:0|69:1|PC02|81:12|81:12|2|0
+His temperature|69:0|69:1|PH|81:15|81:15|2|0
+His temperature|69:0|69:1|Sodium|81:0|81:0|2|0
+His temperature|69:0|69:1|potassium|81:3|81:3|2|0
+His temperature|69:0|69:1|glucose|81:6|81:6|2|0
+His temperature|69:0|69:1|Blood urea nitrogen|82:0|82:2|2|0
+His temperature|69:0|69:1|uric acid|82:8|82:9|2|0
+His temperature|69:0|69:1|alkaline phosphatase|82:12|82:13|2|0
+His temperature|69:0|69:1|hematocrit|82:22|82:22|2|0
+His temperature|69:0|69:1|white blood cell count|82:25|82:28|2|0
+His temperature|69:0|69:1|Urine analysis|83:0|83:1|2|0
+His temperature|69:0|69:1|white blood cells|83:4|83:6|2|0
+His temperature|69:0|69:1|red blood cells|83:9|83:11|2|0
+His temperature|69:0|69:1|Electrocardiogram|84:0|84:0|2|0
+His temperature|69:0|69:1|previous electrocardiogram|84:14|84:15|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Neck exam|71:0|71:1|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Lung exam|72:0|72:1|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Heart exam|74:0|74:1|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Rectal exam|76:0|76:1|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|stool heme|76:5|76:6|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Neurological exam|77:0|77:1|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Deep tendon reflexes|79:0|79:2|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|P02|81:9|81:9|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|PC02|81:12|81:12|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|PH|81:15|81:15|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Sodium|81:0|81:0|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|potassium|81:3|81:3|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|glucose|81:6|81:6|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Blood urea nitrogen|82:0|82:2|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|uric acid|82:8|82:9|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|alkaline phosphatase|82:12|82:13|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|hematocrit|82:22|82:22|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|white blood cell count|82:25|82:28|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Urine analysis|83:0|83:1|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|white blood cells|83:4|83:6|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|red blood cells|83:9|83:11|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|Electrocardiogram|84:0|84:0|2|0
+head , eyes , ears , nose and throat exam|70:4|70:13|previous electrocardiogram|84:14|84:15|2|0
+Neck exam|71:0|71:1|Lung exam|72:0|72:1|2|0
+Neck exam|71:0|71:1|Heart exam|74:0|74:1|2|0
+Neck exam|71:0|71:1|Rectal exam|76:0|76:1|2|0
+Neck exam|71:0|71:1|stool heme|76:5|76:6|2|0
+Neck exam|71:0|71:1|Neurological exam|77:0|77:1|2|0
+Neck exam|71:0|71:1|Deep tendon reflexes|79:0|79:2|2|0
+Neck exam|71:0|71:1|P02|81:9|81:9|2|0
+Neck exam|71:0|71:1|PC02|81:12|81:12|2|0
+Neck exam|71:0|71:1|PH|81:15|81:15|2|0
+Neck exam|71:0|71:1|Sodium|81:0|81:0|2|0
+Neck exam|71:0|71:1|potassium|81:3|81:3|2|0
+Neck exam|71:0|71:1|glucose|81:6|81:6|2|0
+Neck exam|71:0|71:1|Blood urea nitrogen|82:0|82:2|2|0
+Neck exam|71:0|71:1|uric acid|82:8|82:9|2|0
+Neck exam|71:0|71:1|alkaline phosphatase|82:12|82:13|2|0
+Neck exam|71:0|71:1|hematocrit|82:22|82:22|2|0
+Neck exam|71:0|71:1|white blood cell count|82:25|82:28|2|0
+Neck exam|71:0|71:1|Urine analysis|83:0|83:1|2|0
+Neck exam|71:0|71:1|white blood cells|83:4|83:6|2|0
+Neck exam|71:0|71:1|red blood cells|83:9|83:11|2|0
+Neck exam|71:0|71:1|Electrocardiogram|84:0|84:0|2|0
+Neck exam|71:0|71:1|previous electrocardiogram|84:14|84:15|2|0
+jugular venous distention|71:4|71:6|masses|71:9|71:9|4|0
+jugular venous distention|71:4|71:6|decreased breath sounds|72:3|72:5|4|0
+jugular venous distention|71:4|71:6|crackles in the bases|72:9|72:12|4|0
+jugular venous distention|71:4|71:6|wheezes|73:3|73:3|4|0
+jugular venous distention|71:4|71:6|rhonchi|73:5|73:5|4|0
+jugular venous distention|71:4|71:6|murmur|74:10|74:10|4|0
+jugular venous distention|71:4|71:6|S3|74:15|74:15|4|0
+jugular venous distention|71:4|71:6|masses|75:7|75:7|4|0
+jugular venous distention|71:4|71:6|nontender|75:4|75:4|4|0
+jugular venous distention|71:4|71:6|masses palpable|75:7|75:8|4|0
+jugular venous distention|71:4|71:6|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+jugular venous distention|71:4|71:6|sinus tachycardia|84:2|84:3|4|0
+jugular venous distention|71:4|71:6|significant changes|84:21|84:22|4|0
+masses|71:9|71:9|decreased breath sounds|72:3|72:5|4|0
+masses|71:9|71:9|crackles in the bases|72:9|72:12|4|0
+masses|71:9|71:9|wheezes|73:3|73:3|4|0
+masses|71:9|71:9|rhonchi|73:5|73:5|4|0
+masses|71:9|71:9|murmur|74:10|74:10|4|0
+masses|71:9|71:9|S3|74:15|74:15|4|0
+masses|71:9|71:9|masses|75:7|75:7|4|0
+masses|71:9|71:9|nontender|75:4|75:4|4|0
+masses|71:9|71:9|masses palpable|75:7|75:8|4|0
+masses|71:9|71:9|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+masses|71:9|71:9|sinus tachycardia|84:2|84:3|4|0
+masses|71:9|71:9|significant changes|84:21|84:22|4|0
+Lung exam|72:0|72:1|Heart exam|74:0|74:1|2|0
+Lung exam|72:0|72:1|Rectal exam|76:0|76:1|2|0
+Lung exam|72:0|72:1|stool heme|76:5|76:6|2|0
+Lung exam|72:0|72:1|Neurological exam|77:0|77:1|2|0
+Lung exam|72:0|72:1|Deep tendon reflexes|79:0|79:2|2|0
+Lung exam|72:0|72:1|P02|81:9|81:9|2|0
+Lung exam|72:0|72:1|PC02|81:12|81:12|2|0
+Lung exam|72:0|72:1|PH|81:15|81:15|2|0
+Lung exam|72:0|72:1|Sodium|81:0|81:0|2|0
+Lung exam|72:0|72:1|potassium|81:3|81:3|2|0
+Lung exam|72:0|72:1|glucose|81:6|81:6|2|0
+Lung exam|72:0|72:1|Blood urea nitrogen|82:0|82:2|2|0
+Lung exam|72:0|72:1|uric acid|82:8|82:9|2|0
+Lung exam|72:0|72:1|alkaline phosphatase|82:12|82:13|2|0
+Lung exam|72:0|72:1|hematocrit|82:22|82:22|2|0
+Lung exam|72:0|72:1|white blood cell count|82:25|82:28|2|0
+Lung exam|72:0|72:1|Urine analysis|83:0|83:1|2|0
+Lung exam|72:0|72:1|white blood cells|83:4|83:6|2|0
+Lung exam|72:0|72:1|red blood cells|83:9|83:11|2|0
+Lung exam|72:0|72:1|Electrocardiogram|84:0|84:0|2|0
+Lung exam|72:0|72:1|previous electrocardiogram|84:14|84:15|2|0
+decreased breath sounds|72:3|72:5|crackles in the bases|72:9|72:12|4|0
+decreased breath sounds|72:3|72:5|wheezes|73:3|73:3|4|0
+decreased breath sounds|72:3|72:5|rhonchi|73:5|73:5|4|0
+decreased breath sounds|72:3|72:5|murmur|74:10|74:10|4|0
+decreased breath sounds|72:3|72:5|S3|74:15|74:15|4|0
+decreased breath sounds|72:3|72:5|masses|75:7|75:7|4|0
+decreased breath sounds|72:3|72:5|nontender|75:4|75:4|4|0
+decreased breath sounds|72:3|72:5|masses palpable|75:7|75:8|4|0
+decreased breath sounds|72:3|72:5|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+decreased breath sounds|72:3|72:5|sinus tachycardia|84:2|84:3|4|0
+decreased breath sounds|72:3|72:5|significant changes|84:21|84:22|4|0
+crackles in the bases|72:9|72:12|wheezes|73:3|73:3|4|0
+crackles in the bases|72:9|72:12|rhonchi|73:5|73:5|4|0
+crackles in the bases|72:9|72:12|murmur|74:10|74:10|4|0
+crackles in the bases|72:9|72:12|S3|74:15|74:15|4|0
+crackles in the bases|72:9|72:12|masses|75:7|75:7|4|0
+crackles in the bases|72:9|72:12|nontender|75:4|75:4|4|0
+crackles in the bases|72:9|72:12|masses palpable|75:7|75:8|4|0
+crackles in the bases|72:9|72:12|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+crackles in the bases|72:9|72:12|sinus tachycardia|84:2|84:3|4|0
+crackles in the bases|72:9|72:12|significant changes|84:21|84:22|4|0
+wheezes|73:3|73:3|rhonchi|73:5|73:5|4|0
+wheezes|73:3|73:3|murmur|74:10|74:10|4|0
+wheezes|73:3|73:3|S3|74:15|74:15|4|0
+wheezes|73:3|73:3|masses|75:7|75:7|4|0
+wheezes|73:3|73:3|nontender|75:4|75:4|4|0
+wheezes|73:3|73:3|masses palpable|75:7|75:8|4|0
+wheezes|73:3|73:3|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+wheezes|73:3|73:3|sinus tachycardia|84:2|84:3|4|0
+wheezes|73:3|73:3|significant changes|84:21|84:22|4|0
+rhonchi|73:5|73:5|murmur|74:10|74:10|4|0
+rhonchi|73:5|73:5|S3|74:15|74:15|4|0
+rhonchi|73:5|73:5|masses|75:7|75:7|4|0
+rhonchi|73:5|73:5|nontender|75:4|75:4|4|0
+rhonchi|73:5|73:5|masses palpable|75:7|75:8|4|0
+rhonchi|73:5|73:5|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+rhonchi|73:5|73:5|sinus tachycardia|84:2|84:3|4|0
+rhonchi|73:5|73:5|significant changes|84:21|84:22|4|0
+Heart exam|74:0|74:1|Rectal exam|76:0|76:1|2|0
+Heart exam|74:0|74:1|stool heme|76:5|76:6|2|0
+Heart exam|74:0|74:1|Neurological exam|77:0|77:1|2|0
+Heart exam|74:0|74:1|Deep tendon reflexes|79:0|79:2|2|0
+Heart exam|74:0|74:1|P02|81:9|81:9|2|0
+Heart exam|74:0|74:1|PC02|81:12|81:12|2|0
+Heart exam|74:0|74:1|PH|81:15|81:15|2|0
+Heart exam|74:0|74:1|Sodium|81:0|81:0|2|0
+Heart exam|74:0|74:1|potassium|81:3|81:3|2|0
+Heart exam|74:0|74:1|glucose|81:6|81:6|2|0
+Heart exam|74:0|74:1|Blood urea nitrogen|82:0|82:2|2|0
+Heart exam|74:0|74:1|uric acid|82:8|82:9|2|0
+Heart exam|74:0|74:1|alkaline phosphatase|82:12|82:13|2|0
+Heart exam|74:0|74:1|hematocrit|82:22|82:22|2|0
+Heart exam|74:0|74:1|white blood cell count|82:25|82:28|2|0
+Heart exam|74:0|74:1|Urine analysis|83:0|83:1|2|0
+Heart exam|74:0|74:1|white blood cells|83:4|83:6|2|0
+Heart exam|74:0|74:1|red blood cells|83:9|83:11|2|0
+Heart exam|74:0|74:1|Electrocardiogram|84:0|84:0|2|0
+Heart exam|74:0|74:1|previous electrocardiogram|84:14|84:15|2|0
+murmur|74:10|74:10|S3|74:15|74:15|4|0
+murmur|74:10|74:10|masses|75:7|75:7|4|0
+murmur|74:10|74:10|nontender|75:4|75:4|4|0
+murmur|74:10|74:10|masses palpable|75:7|75:8|4|0
+murmur|74:10|74:10|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+murmur|74:10|74:10|sinus tachycardia|84:2|84:3|4|0
+murmur|74:10|74:10|significant changes|84:21|84:22|4|0
+murmur|74:10|74:10|pneumonia|89:11|89:11|4|0
+murmur|74:10|74:10|gram negative pneumonia|89:9|89:11|4|0
+S3|74:15|74:15|masses|75:7|75:7|4|0
+S3|74:15|74:15|nontender|75:4|75:4|4|0
+S3|74:15|74:15|masses palpable|75:7|75:8|4|0
+S3|74:15|74:15|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+S3|74:15|74:15|sinus tachycardia|84:2|84:3|4|0
+S3|74:15|74:15|significant changes|84:21|84:22|4|0
+S3|74:15|74:15|pneumonia|89:11|89:11|4|0
+S3|74:15|74:15|gram negative pneumonia|89:9|89:11|4|0
+masses|75:7|75:7|nontender|75:4|75:4|4|0
+masses|75:7|75:7|masses palpable|75:7|75:8|4|0
+masses|75:7|75:7|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+masses|75:7|75:7|sinus tachycardia|84:2|84:3|4|0
+masses|75:7|75:7|significant changes|84:21|84:22|4|0
+masses|75:7|75:7|pneumonia|89:11|89:11|4|0
+masses|75:7|75:7|gram negative pneumonia|89:9|89:11|4|0
+nontender|75:4|75:4|masses palpable|75:7|75:8|4|0
+nontender|75:4|75:4|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+nontender|75:4|75:4|sinus tachycardia|84:2|84:3|4|0
+nontender|75:4|75:4|significant changes|84:21|84:22|4|0
+nontender|75:4|75:4|pneumonia|89:11|89:11|4|0
+nontender|75:4|75:4|gram negative pneumonia|89:9|89:11|4|0
+masses palpable|75:7|75:8|creatinine phosphokinase isoenzymes too low|82:16|82:20|4|0
+masses palpable|75:7|75:8|sinus tachycardia|84:2|84:3|4|0
+masses palpable|75:7|75:8|significant changes|84:21|84:22|4|0
+masses palpable|75:7|75:8|pneumonia|89:11|89:11|4|0
+masses palpable|75:7|75:8|gram negative pneumonia|89:9|89:11|4|0
+Rectal exam|76:0|76:1|stool heme|76:5|76:6|2|0
+Rectal exam|76:0|76:1|Neurological exam|77:0|77:1|2|0
+Rectal exam|76:0|76:1|Deep tendon reflexes|79:0|79:2|2|0
+Rectal exam|76:0|76:1|P02|81:9|81:9|2|0
+Rectal exam|76:0|76:1|PC02|81:12|81:12|2|0
+Rectal exam|76:0|76:1|PH|81:15|81:15|2|0
+Rectal exam|76:0|76:1|Sodium|81:0|81:0|2|0
+Rectal exam|76:0|76:1|potassium|81:3|81:3|2|0
+Rectal exam|76:0|76:1|glucose|81:6|81:6|2|0
+Rectal exam|76:0|76:1|Blood urea nitrogen|82:0|82:2|2|0
+Rectal exam|76:0|76:1|uric acid|82:8|82:9|2|0
+Rectal exam|76:0|76:1|alkaline phosphatase|82:12|82:13|2|0
+Rectal exam|76:0|76:1|hematocrit|82:22|82:22|2|0
+Rectal exam|76:0|76:1|white blood cell count|82:25|82:28|2|0
+Rectal exam|76:0|76:1|Urine analysis|83:0|83:1|2|0
+Rectal exam|76:0|76:1|white blood cells|83:4|83:6|2|0
+Rectal exam|76:0|76:1|red blood cells|83:9|83:11|2|0
+Rectal exam|76:0|76:1|Electrocardiogram|84:0|84:0|2|0
+Rectal exam|76:0|76:1|previous electrocardiogram|84:14|84:15|2|0
+Rectal exam|76:0|76:1|urine output|90:15|90:16|2|0
+stool heme|76:5|76:6|Neurological exam|77:0|77:1|2|0
+stool heme|76:5|76:6|Deep tendon reflexes|79:0|79:2|2|0
+stool heme|76:5|76:6|P02|81:9|81:9|2|0
+stool heme|76:5|76:6|PC02|81:12|81:12|2|0
+stool heme|76:5|76:6|PH|81:15|81:15|2|0
+stool heme|76:5|76:6|Sodium|81:0|81:0|2|0
+stool heme|76:5|76:6|potassium|81:3|81:3|2|0
+stool heme|76:5|76:6|glucose|81:6|81:6|2|0
+stool heme|76:5|76:6|Blood urea nitrogen|82:0|82:2|2|0
+stool heme|76:5|76:6|uric acid|82:8|82:9|2|0
+stool heme|76:5|76:6|alkaline phosphatase|82:12|82:13|2|0
+stool heme|76:5|76:6|hematocrit|82:22|82:22|2|0
+stool heme|76:5|76:6|white blood cell count|82:25|82:28|2|0
+stool heme|76:5|76:6|Urine analysis|83:0|83:1|2|0
+stool heme|76:5|76:6|white blood cells|83:4|83:6|2|0
+stool heme|76:5|76:6|red blood cells|83:9|83:11|2|0
+stool heme|76:5|76:6|Electrocardiogram|84:0|84:0|2|0
+stool heme|76:5|76:6|previous electrocardiogram|84:14|84:15|2|0
+stool heme|76:5|76:6|urine output|90:15|90:16|2|0
+Neurological exam|77:0|77:1|Deep tendon reflexes|79:0|79:2|2|0
+Neurological exam|77:0|77:1|P02|81:9|81:9|2|0
+Neurological exam|77:0|77:1|PC02|81:12|81:12|2|0
+Neurological exam|77:0|77:1|PH|81:15|81:15|2|0
+Neurological exam|77:0|77:1|Sodium|81:0|81:0|2|0
+Neurological exam|77:0|77:1|potassium|81:3|81:3|2|0
+Neurological exam|77:0|77:1|glucose|81:6|81:6|2|0
+Neurological exam|77:0|77:1|Blood urea nitrogen|82:0|82:2|2|0
+Neurological exam|77:0|77:1|uric acid|82:8|82:9|2|0
+Neurological exam|77:0|77:1|alkaline phosphatase|82:12|82:13|2|0
+Neurological exam|77:0|77:1|hematocrit|82:22|82:22|2|0
+Neurological exam|77:0|77:1|white blood cell count|82:25|82:28|2|0
+Neurological exam|77:0|77:1|Urine analysis|83:0|83:1|2|0
+Neurological exam|77:0|77:1|white blood cells|83:4|83:6|2|0
+Neurological exam|77:0|77:1|red blood cells|83:9|83:11|2|0
+Neurological exam|77:0|77:1|Electrocardiogram|84:0|84:0|2|0
+Neurological exam|77:0|77:1|previous electrocardiogram|84:14|84:15|2|0
+Neurological exam|77:0|77:1|urine output|90:15|90:16|2|0
+Deep tendon reflexes|79:0|79:2|P02|81:9|81:9|2|0
+Deep tendon reflexes|79:0|79:2|PC02|81:12|81:12|2|0
+Deep tendon reflexes|79:0|79:2|PH|81:15|81:15|2|0
+Deep tendon reflexes|79:0|79:2|Sodium|81:0|81:0|2|0
+Deep tendon reflexes|79:0|79:2|potassium|81:3|81:3|2|0
+Deep tendon reflexes|79:0|79:2|glucose|81:6|81:6|2|0
+Deep tendon reflexes|79:0|79:2|Blood urea nitrogen|82:0|82:2|2|0
+Deep tendon reflexes|79:0|79:2|uric acid|82:8|82:9|2|0
+Deep tendon reflexes|79:0|79:2|alkaline phosphatase|82:12|82:13|2|0
+Deep tendon reflexes|79:0|79:2|hematocrit|82:22|82:22|2|0
+Deep tendon reflexes|79:0|79:2|white blood cell count|82:25|82:28|2|0
+Deep tendon reflexes|79:0|79:2|Urine analysis|83:0|83:1|2|0
+Deep tendon reflexes|79:0|79:2|white blood cells|83:4|83:6|2|0
+Deep tendon reflexes|79:0|79:2|red blood cells|83:9|83:11|2|0
+Deep tendon reflexes|79:0|79:2|Electrocardiogram|84:0|84:0|2|0
+Deep tendon reflexes|79:0|79:2|previous electrocardiogram|84:14|84:15|2|0
+Deep tendon reflexes|79:0|79:2|urine output|90:15|90:16|2|0
+Deep tendon reflexes|79:0|79:2|A chest x-ray|94:0|94:2|2|0
+Deep tendon reflexes|79:0|79:2|the chest x-ray|94:9|94:11|2|0
+P02|81:9|81:9|PC02|81:12|81:12|2|0
+P02|81:9|81:9|PH|81:15|81:15|2|0
+P02|81:9|81:9|Sodium|81:0|81:0|2|0
+P02|81:9|81:9|potassium|81:3|81:3|2|0
+P02|81:9|81:9|glucose|81:6|81:6|2|0
+P02|81:9|81:9|Blood urea nitrogen|82:0|82:2|2|0
+P02|81:9|81:9|uric acid|82:8|82:9|2|0
+P02|81:9|81:9|alkaline phosphatase|82:12|82:13|2|0
+P02|81:9|81:9|hematocrit|82:22|82:22|2|0
+P02|81:9|81:9|white blood cell count|82:25|82:28|2|0
+P02|81:9|81:9|Urine analysis|83:0|83:1|2|0
+P02|81:9|81:9|white blood cells|83:4|83:6|2|0
+P02|81:9|81:9|red blood cells|83:9|83:11|2|0
+P02|81:9|81:9|Electrocardiogram|84:0|84:0|2|0
+P02|81:9|81:9|previous electrocardiogram|84:14|84:15|2|0
+P02|81:9|81:9|urine output|90:15|90:16|2|0
+P02|81:9|81:9|A chest x-ray|94:0|94:2|2|0
+P02|81:9|81:9|the chest x-ray|94:9|94:11|2|0
+PC02|81:12|81:12|PH|81:15|81:15|2|0
+PC02|81:12|81:12|Sodium|81:0|81:0|2|0
+PC02|81:12|81:12|potassium|81:3|81:3|2|0
+PC02|81:12|81:12|glucose|81:6|81:6|2|0
+PC02|81:12|81:12|Blood urea nitrogen|82:0|82:2|2|0
+PC02|81:12|81:12|uric acid|82:8|82:9|2|0
+PC02|81:12|81:12|alkaline phosphatase|82:12|82:13|2|0
+PC02|81:12|81:12|hematocrit|82:22|82:22|2|0
+PC02|81:12|81:12|white blood cell count|82:25|82:28|2|0
+PC02|81:12|81:12|Urine analysis|83:0|83:1|2|0
+PC02|81:12|81:12|white blood cells|83:4|83:6|2|0
+PC02|81:12|81:12|red blood cells|83:9|83:11|2|0
+PC02|81:12|81:12|Electrocardiogram|84:0|84:0|2|0
+PC02|81:12|81:12|previous electrocardiogram|84:14|84:15|2|0
+PC02|81:12|81:12|urine output|90:15|90:16|2|0
+PC02|81:12|81:12|A chest x-ray|94:0|94:2|2|0
+PC02|81:12|81:12|the chest x-ray|94:9|94:11|2|0
+PH|81:15|81:15|Sodium|81:0|81:0|2|0
+PH|81:15|81:15|potassium|81:3|81:3|2|0
+PH|81:15|81:15|glucose|81:6|81:6|2|0
+PH|81:15|81:15|Blood urea nitrogen|82:0|82:2|2|0
+PH|81:15|81:15|uric acid|82:8|82:9|2|0
+PH|81:15|81:15|alkaline phosphatase|82:12|82:13|2|0
+PH|81:15|81:15|hematocrit|82:22|82:22|2|0
+PH|81:15|81:15|white blood cell count|82:25|82:28|2|0
+PH|81:15|81:15|Urine analysis|83:0|83:1|2|0
+PH|81:15|81:15|white blood cells|83:4|83:6|2|0
+PH|81:15|81:15|red blood cells|83:9|83:11|2|0
+PH|81:15|81:15|Electrocardiogram|84:0|84:0|2|0
+PH|81:15|81:15|previous electrocardiogram|84:14|84:15|2|0
+PH|81:15|81:15|urine output|90:15|90:16|2|0
+PH|81:15|81:15|A chest x-ray|94:0|94:2|2|0
+PH|81:15|81:15|the chest x-ray|94:9|94:11|2|0
+Sodium|81:0|81:0|potassium|81:3|81:3|2|0
+Sodium|81:0|81:0|glucose|81:6|81:6|2|0
+Sodium|81:0|81:0|Blood urea nitrogen|82:0|82:2|2|0
+Sodium|81:0|81:0|uric acid|82:8|82:9|2|0
+Sodium|81:0|81:0|alkaline phosphatase|82:12|82:13|2|0
+Sodium|81:0|81:0|hematocrit|82:22|82:22|2|0
+Sodium|81:0|81:0|white blood cell count|82:25|82:28|2|0
+Sodium|81:0|81:0|Urine analysis|83:0|83:1|2|0
+Sodium|81:0|81:0|white blood cells|83:4|83:6|2|0
+Sodium|81:0|81:0|red blood cells|83:9|83:11|2|0
+Sodium|81:0|81:0|Electrocardiogram|84:0|84:0|2|0
+Sodium|81:0|81:0|previous electrocardiogram|84:14|84:15|2|0
+Sodium|81:0|81:0|urine output|90:15|90:16|2|0
+Sodium|81:0|81:0|A chest x-ray|94:0|94:2|2|0
+Sodium|81:0|81:0|the chest x-ray|94:9|94:11|2|0
+potassium|81:3|81:3|glucose|81:6|81:6|2|0
+potassium|81:3|81:3|Blood urea nitrogen|82:0|82:2|2|0
+potassium|81:3|81:3|uric acid|82:8|82:9|2|0
+potassium|81:3|81:3|alkaline phosphatase|82:12|82:13|2|0
+potassium|81:3|81:3|hematocrit|82:22|82:22|2|0
+potassium|81:3|81:3|white blood cell count|82:25|82:28|2|0
+potassium|81:3|81:3|Urine analysis|83:0|83:1|2|0
+potassium|81:3|81:3|white blood cells|83:4|83:6|2|0
+potassium|81:3|81:3|red blood cells|83:9|83:11|2|0
+potassium|81:3|81:3|Electrocardiogram|84:0|84:0|2|0
+potassium|81:3|81:3|previous electrocardiogram|84:14|84:15|2|0
+potassium|81:3|81:3|urine output|90:15|90:16|2|0
+potassium|81:3|81:3|A chest x-ray|94:0|94:2|2|0
+potassium|81:3|81:3|the chest x-ray|94:9|94:11|2|0
+glucose|81:6|81:6|Blood urea nitrogen|82:0|82:2|2|0
+glucose|81:6|81:6|uric acid|82:8|82:9|2|0
+glucose|81:6|81:6|alkaline phosphatase|82:12|82:13|2|0
+glucose|81:6|81:6|hematocrit|82:22|82:22|2|0
+glucose|81:6|81:6|white blood cell count|82:25|82:28|2|0
+glucose|81:6|81:6|Urine analysis|83:0|83:1|2|0
+glucose|81:6|81:6|white blood cells|83:4|83:6|2|0
+glucose|81:6|81:6|red blood cells|83:9|83:11|2|0
+glucose|81:6|81:6|Electrocardiogram|84:0|84:0|2|0
+glucose|81:6|81:6|previous electrocardiogram|84:14|84:15|2|0
+glucose|81:6|81:6|urine output|90:15|90:16|2|0
+glucose|81:6|81:6|A chest x-ray|94:0|94:2|2|0
+glucose|81:6|81:6|the chest x-ray|94:9|94:11|2|0
+Blood urea nitrogen|82:0|82:2|uric acid|82:8|82:9|2|0
+Blood urea nitrogen|82:0|82:2|alkaline phosphatase|82:12|82:13|2|0
+Blood urea nitrogen|82:0|82:2|hematocrit|82:22|82:22|2|0
+Blood urea nitrogen|82:0|82:2|white blood cell count|82:25|82:28|2|0
+Blood urea nitrogen|82:0|82:2|Urine analysis|83:0|83:1|2|0
+Blood urea nitrogen|82:0|82:2|white blood cells|83:4|83:6|2|0
+Blood urea nitrogen|82:0|82:2|red blood cells|83:9|83:11|2|0
+Blood urea nitrogen|82:0|82:2|Electrocardiogram|84:0|84:0|2|0
+Blood urea nitrogen|82:0|82:2|previous electrocardiogram|84:14|84:15|2|0
+Blood urea nitrogen|82:0|82:2|urine output|90:15|90:16|2|0
+Blood urea nitrogen|82:0|82:2|A chest x-ray|94:0|94:2|2|0
+Blood urea nitrogen|82:0|82:2|the chest x-ray|94:9|94:11|2|0
+uric acid|82:8|82:9|alkaline phosphatase|82:12|82:13|2|0
+uric acid|82:8|82:9|hematocrit|82:22|82:22|2|0
+uric acid|82:8|82:9|white blood cell count|82:25|82:28|2|0
+uric acid|82:8|82:9|Urine analysis|83:0|83:1|2|0
+uric acid|82:8|82:9|white blood cells|83:4|83:6|2|0
+uric acid|82:8|82:9|red blood cells|83:9|83:11|2|0
+uric acid|82:8|82:9|Electrocardiogram|84:0|84:0|2|0
+uric acid|82:8|82:9|previous electrocardiogram|84:14|84:15|2|0
+uric acid|82:8|82:9|urine output|90:15|90:16|2|0
+uric acid|82:8|82:9|A chest x-ray|94:0|94:2|2|0
+uric acid|82:8|82:9|the chest x-ray|94:9|94:11|2|0
+alkaline phosphatase|82:12|82:13|hematocrit|82:22|82:22|2|0
+alkaline phosphatase|82:12|82:13|white blood cell count|82:25|82:28|2|0
+alkaline phosphatase|82:12|82:13|Urine analysis|83:0|83:1|2|0
+alkaline phosphatase|82:12|82:13|white blood cells|83:4|83:6|2|0
+alkaline phosphatase|82:12|82:13|red blood cells|83:9|83:11|2|0
+alkaline phosphatase|82:12|82:13|Electrocardiogram|84:0|84:0|2|0
+alkaline phosphatase|82:12|82:13|previous electrocardiogram|84:14|84:15|2|0
+alkaline phosphatase|82:12|82:13|urine output|90:15|90:16|2|0
+alkaline phosphatase|82:12|82:13|A chest x-ray|94:0|94:2|2|0
+alkaline phosphatase|82:12|82:13|the chest x-ray|94:9|94:11|2|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|sinus tachycardia|84:2|84:3|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|significant changes|84:21|84:22|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|pneumonia|89:11|89:11|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|gram negative pneumonia|89:9|89:11|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|his respiratory status|93:6|93:8|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|the opacities|94:6|94:7|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|pulmonary edema|94:16|94:17|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|some abnormality in the right lower lobe|94:23|94:29|4|0
+creatinine phosphokinase isoenzymes too low|82:16|82:20|pneumonia|95:8|95:8|4|0
+hematocrit|82:22|82:22|white blood cell count|82:25|82:28|2|0
+hematocrit|82:22|82:22|Urine analysis|83:0|83:1|2|0
+hematocrit|82:22|82:22|white blood cells|83:4|83:6|2|0
+hematocrit|82:22|82:22|red blood cells|83:9|83:11|2|0
+hematocrit|82:22|82:22|Electrocardiogram|84:0|84:0|2|0
+hematocrit|82:22|82:22|previous electrocardiogram|84:14|84:15|2|0
+hematocrit|82:22|82:22|urine output|90:15|90:16|2|0
+hematocrit|82:22|82:22|A chest x-ray|94:0|94:2|2|0
+hematocrit|82:22|82:22|the chest x-ray|94:9|94:11|2|0
+white blood cell count|82:25|82:28|Urine analysis|83:0|83:1|2|0
+white blood cell count|82:25|82:28|white blood cells|83:4|83:6|2|0
+white blood cell count|82:25|82:28|red blood cells|83:9|83:11|2|0
+white blood cell count|82:25|82:28|Electrocardiogram|84:0|84:0|2|0
+white blood cell count|82:25|82:28|previous electrocardiogram|84:14|84:15|2|0
+white blood cell count|82:25|82:28|urine output|90:15|90:16|2|0
+white blood cell count|82:25|82:28|A chest x-ray|94:0|94:2|2|0
+white blood cell count|82:25|82:28|the chest x-ray|94:9|94:11|2|0
+Urine analysis|83:0|83:1|white blood cells|83:4|83:6|2|0
+Urine analysis|83:0|83:1|red blood cells|83:9|83:11|2|0
+Urine analysis|83:0|83:1|Electrocardiogram|84:0|84:0|2|0
+Urine analysis|83:0|83:1|previous electrocardiogram|84:14|84:15|2|0
+Urine analysis|83:0|83:1|urine output|90:15|90:16|2|0
+Urine analysis|83:0|83:1|A chest x-ray|94:0|94:2|2|0
+Urine analysis|83:0|83:1|the chest x-ray|94:9|94:11|2|0
+white blood cells|83:4|83:6|red blood cells|83:9|83:11|2|0
+white blood cells|83:4|83:6|Electrocardiogram|84:0|84:0|2|0
+white blood cells|83:4|83:6|previous electrocardiogram|84:14|84:15|2|0
+white blood cells|83:4|83:6|urine output|90:15|90:16|2|0
+white blood cells|83:4|83:6|A chest x-ray|94:0|94:2|2|0
+white blood cells|83:4|83:6|the chest x-ray|94:9|94:11|2|0
+red blood cells|83:9|83:11|Electrocardiogram|84:0|84:0|2|1
+red blood cells|83:9|83:11|previous electrocardiogram|84:14|84:15|2|0
+red blood cells|83:9|83:11|urine output|90:15|90:16|2|0
+red blood cells|83:9|83:11|A chest x-ray|94:0|94:2|2|0
+red blood cells|83:9|83:11|the chest x-ray|94:9|94:11|2|0
+Electrocardiogram|84:0|84:0|previous electrocardiogram|84:14|84:15|2|0
+Electrocardiogram|84:0|84:0|urine output|90:15|90:16|2|0
+Electrocardiogram|84:0|84:0|A chest x-ray|94:0|94:2|2|0
+Electrocardiogram|84:0|84:0|the chest x-ray|94:9|94:11|2|0
+sinus tachycardia|84:2|84:3|significant changes|84:21|84:22|4|0
+sinus tachycardia|84:2|84:3|pneumonia|89:11|89:11|4|0
+sinus tachycardia|84:2|84:3|gram negative pneumonia|89:9|89:11|4|0
+sinus tachycardia|84:2|84:3|his respiratory status|93:6|93:8|4|0
+sinus tachycardia|84:2|84:3|the opacities|94:6|94:7|4|0
+sinus tachycardia|84:2|84:3|pulmonary edema|94:16|94:17|4|0
+sinus tachycardia|84:2|84:3|some abnormality in the right lower lobe|94:23|94:29|4|0
+sinus tachycardia|84:2|84:3|pneumonia|95:8|95:8|4|0
+sinus tachycardia|84:2|84:3|pneumonia|98:18|98:18|4|0
+sinus tachycardia|84:2|84:3|a serious pneumonia|98:16|98:18|4|0
+sinus tachycardia|84:2|84:3|The patient &apos;s respiratory status|99:0|99:4|4|0
+previous electrocardiogram|84:14|84:15|urine output|90:15|90:16|2|0
+previous electrocardiogram|84:14|84:15|A chest x-ray|94:0|94:2|2|0
+previous electrocardiogram|84:14|84:15|the chest x-ray|94:9|94:11|2|0
+significant changes|84:21|84:22|pneumonia|89:11|89:11|4|0
+significant changes|84:21|84:22|gram negative pneumonia|89:9|89:11|4|0
+significant changes|84:21|84:22|his respiratory status|93:6|93:8|4|0
+significant changes|84:21|84:22|the opacities|94:6|94:7|4|0
+significant changes|84:21|84:22|pulmonary edema|94:16|94:17|4|0
+significant changes|84:21|84:22|some abnormality in the right lower lobe|94:23|94:29|4|0
+significant changes|84:21|84:22|pneumonia|95:8|95:8|4|0
+significant changes|84:21|84:22|pneumonia|98:18|98:18|4|0
+significant changes|84:21|84:22|a serious pneumonia|98:16|98:18|4|0
+significant changes|84:21|84:22|The patient &apos;s respiratory status|99:0|99:4|4|0
+nebulizer treatments|88:7|88:8|Albuterol|88:10|88:10|3|0
+nebulizer treatments|88:7|88:8|intravenous Ticarcillin|89:5|89:6|3|0
+nebulizer treatments|88:7|88:8|intravenous Lasix|90:4|90:5|3|0
+nebulizer treatments|88:7|88:8|Lasix|90:5|90:5|3|0
+nebulizer treatments|88:7|88:8|his treatment|91:25|91:26|3|0
+nebulizer treatments|88:7|88:8|nebulizer treatments|92:4|92:5|3|0
+nebulizer treatments|88:7|88:8|intravenous antibiotics|92:9|92:10|3|0
+nebulizer treatments|88:7|88:8|intravenous Solu-Medrol|92:12|92:13|3|0
+nebulizer treatments|88:7|88:8|antibiotics|92:10|92:10|3|0
+nebulizer treatments|88:7|88:8|the patient &apos;s diuresis|93:1|93:4|3|0
+nebulizer treatments|88:7|88:8|antibiotics|95:5|95:5|3|0
+nebulizer treatments|88:7|88:8|The antibiotic|96:0|96:1|3|0
+nebulizer treatments|88:7|88:8|Levaquin|96:4|96:4|3|0
+nebulizer treatments|88:7|88:8|The Ticarcillin|98:0|98:1|3|0
+nebulizer treatments|88:7|88:8|brisk diuresis|101:12|101:13|3|0
+nebulizer treatments|88:7|88:8|Lasix|101:15|101:15|3|0
+nebulizer treatments|88:7|88:8|Cimetidine|102:20|102:20|3|0
+nebulizer treatments|88:7|88:8|prophylaxis|102:28|102:28|3|0
+nebulizer treatments|88:7|88:8|Prilosec|103:5|103:5|3|0
+Albuterol|88:10|88:10|intravenous Ticarcillin|89:5|89:6|3|0
+Albuterol|88:10|88:10|intravenous Lasix|90:4|90:5|3|0
+Albuterol|88:10|88:10|Lasix|90:5|90:5|3|0
+Albuterol|88:10|88:10|his treatment|91:25|91:26|3|0
+Albuterol|88:10|88:10|nebulizer treatments|92:4|92:5|3|0
+Albuterol|88:10|88:10|intravenous antibiotics|92:9|92:10|3|0
+Albuterol|88:10|88:10|intravenous Solu-Medrol|92:12|92:13|3|0
+Albuterol|88:10|88:10|antibiotics|92:10|92:10|3|0
+Albuterol|88:10|88:10|the patient &apos;s diuresis|93:1|93:4|3|0
+Albuterol|88:10|88:10|antibiotics|95:5|95:5|3|0
+Albuterol|88:10|88:10|The antibiotic|96:0|96:1|3|0
+Albuterol|88:10|88:10|Levaquin|96:4|96:4|3|0
+Albuterol|88:10|88:10|The Ticarcillin|98:0|98:1|3|0
+Albuterol|88:10|88:10|brisk diuresis|101:12|101:13|3|0
+Albuterol|88:10|88:10|Lasix|101:15|101:15|3|0
+Albuterol|88:10|88:10|Cimetidine|102:20|102:20|3|0
+Albuterol|88:10|88:10|prophylaxis|102:28|102:28|3|0
+Albuterol|88:10|88:10|Prilosec|103:5|103:5|3|0
+pneumonia|89:11|89:11|gram negative pneumonia|89:9|89:11|4|0
+pneumonia|89:11|89:11|his respiratory status|93:6|93:8|4|0
+pneumonia|89:11|89:11|the opacities|94:6|94:7|4|0
+pneumonia|89:11|89:11|pulmonary edema|94:16|94:17|4|0
+pneumonia|89:11|89:11|some abnormality in the right lower lobe|94:23|94:29|4|0
+pneumonia|89:11|89:11|pneumonia|95:8|95:8|4|0
+pneumonia|89:11|89:11|pneumonia|98:18|98:18|4|0
+pneumonia|89:11|89:11|a serious pneumonia|98:16|98:18|4|0
+pneumonia|89:11|89:11|The patient &apos;s respiratory status|99:0|99:4|4|0
+pneumonia|89:11|89:11|his respiratory status|100:4|100:6|4|0
+pneumonia|89:11|89:11|discomfort|102:14|102:14|4|0
+pneumonia|89:11|89:11|mild epigastric discomfort|102:12|102:14|4|0
+pneumonia|89:11|89:11|peptic ulcer disease|102:30|102:32|4|0
+pneumonia|89:11|89:11|gastritis|103:14|103:14|4|0
+pneumonia|89:11|89:11|gastroesophageal reflux disease|103:16|103:18|4|0
+pneumonia|89:11|89:11|nausea|104:5|104:5|4|0
+pneumonia|89:11|89:11|vomiting|104:7|104:7|4|0
+pneumonia|89:11|89:11|gastrointestinal bleeding|104:11|104:12|4|0
+intravenous Ticarcillin|89:5|89:6|intravenous Lasix|90:4|90:5|3|0
+intravenous Ticarcillin|89:5|89:6|Lasix|90:5|90:5|3|0
+intravenous Ticarcillin|89:5|89:6|his treatment|91:25|91:26|3|0
+intravenous Ticarcillin|89:5|89:6|nebulizer treatments|92:4|92:5|3|0
+intravenous Ticarcillin|89:5|89:6|intravenous antibiotics|92:9|92:10|3|0
+intravenous Ticarcillin|89:5|89:6|intravenous Solu-Medrol|92:12|92:13|3|0
+intravenous Ticarcillin|89:5|89:6|antibiotics|92:10|92:10|3|0
+intravenous Ticarcillin|89:5|89:6|the patient &apos;s diuresis|93:1|93:4|3|0
+intravenous Ticarcillin|89:5|89:6|antibiotics|95:5|95:5|3|0
+intravenous Ticarcillin|89:5|89:6|The antibiotic|96:0|96:1|3|0
+intravenous Ticarcillin|89:5|89:6|Levaquin|96:4|96:4|3|0
+intravenous Ticarcillin|89:5|89:6|The Ticarcillin|98:0|98:1|3|0
+intravenous Ticarcillin|89:5|89:6|brisk diuresis|101:12|101:13|3|0
+intravenous Ticarcillin|89:5|89:6|Lasix|101:15|101:15|3|0
+intravenous Ticarcillin|89:5|89:6|Cimetidine|102:20|102:20|3|0
+intravenous Ticarcillin|89:5|89:6|prophylaxis|102:28|102:28|3|0
+intravenous Ticarcillin|89:5|89:6|Prilosec|103:5|103:5|3|0
+gram negative pneumonia|89:9|89:11|his respiratory status|93:6|93:8|4|0
+gram negative pneumonia|89:9|89:11|the opacities|94:6|94:7|4|0
+gram negative pneumonia|89:9|89:11|pulmonary edema|94:16|94:17|4|0
+gram negative pneumonia|89:9|89:11|some abnormality in the right lower lobe|94:23|94:29|4|0
+gram negative pneumonia|89:9|89:11|pneumonia|95:8|95:8|4|0
+gram negative pneumonia|89:9|89:11|pneumonia|98:18|98:18|4|0
+gram negative pneumonia|89:9|89:11|a serious pneumonia|98:16|98:18|4|0
+gram negative pneumonia|89:9|89:11|The patient &apos;s respiratory status|99:0|99:4|4|0
+gram negative pneumonia|89:9|89:11|his respiratory status|100:4|100:6|4|0
+gram negative pneumonia|89:9|89:11|discomfort|102:14|102:14|4|0
+gram negative pneumonia|89:9|89:11|mild epigastric discomfort|102:12|102:14|4|0
+gram negative pneumonia|89:9|89:11|peptic ulcer disease|102:30|102:32|4|0
+gram negative pneumonia|89:9|89:11|gastritis|103:14|103:14|4|0
+gram negative pneumonia|89:9|89:11|gastroesophageal reflux disease|103:16|103:18|4|0
+gram negative pneumonia|89:9|89:11|nausea|104:5|104:5|4|0
+gram negative pneumonia|89:9|89:11|vomiting|104:7|104:7|4|0
+gram negative pneumonia|89:9|89:11|gastrointestinal bleeding|104:11|104:12|4|0
+intravenous Lasix|90:4|90:5|Lasix|90:5|90:5|3|0
+intravenous Lasix|90:4|90:5|his treatment|91:25|91:26|3|0
+intravenous Lasix|90:4|90:5|nebulizer treatments|92:4|92:5|3|0
+intravenous Lasix|90:4|90:5|intravenous antibiotics|92:9|92:10|3|0
+intravenous Lasix|90:4|90:5|intravenous Solu-Medrol|92:12|92:13|3|0
+intravenous Lasix|90:4|90:5|antibiotics|92:10|92:10|3|0
+intravenous Lasix|90:4|90:5|the patient &apos;s diuresis|93:1|93:4|3|0
+intravenous Lasix|90:4|90:5|antibiotics|95:5|95:5|3|0
+intravenous Lasix|90:4|90:5|The antibiotic|96:0|96:1|3|0
+intravenous Lasix|90:4|90:5|Levaquin|96:4|96:4|3|0
+intravenous Lasix|90:4|90:5|The Ticarcillin|98:0|98:1|3|0
+intravenous Lasix|90:4|90:5|brisk diuresis|101:12|101:13|3|0
+intravenous Lasix|90:4|90:5|Lasix|101:15|101:15|3|0
+intravenous Lasix|90:4|90:5|Cimetidine|102:20|102:20|3|0
+intravenous Lasix|90:4|90:5|prophylaxis|102:28|102:28|3|0
+intravenous Lasix|90:4|90:5|Prilosec|103:5|103:5|3|0
+intravenous Lasix|90:4|90:5|Prilosec|105:21|105:21|3|0
+urine output|90:15|90:16|A chest x-ray|94:0|94:2|2|0
+urine output|90:15|90:16|the chest x-ray|94:9|94:11|2|0
+Lasix|90:5|90:5|his treatment|91:25|91:26|3|0
+Lasix|90:5|90:5|nebulizer treatments|92:4|92:5|3|0
+Lasix|90:5|90:5|intravenous antibiotics|92:9|92:10|3|0
+Lasix|90:5|90:5|intravenous Solu-Medrol|92:12|92:13|3|0
+Lasix|90:5|90:5|antibiotics|92:10|92:10|3|0
+Lasix|90:5|90:5|the patient &apos;s diuresis|93:1|93:4|3|0
+Lasix|90:5|90:5|antibiotics|95:5|95:5|3|0
+Lasix|90:5|90:5|The antibiotic|96:0|96:1|3|0
+Lasix|90:5|90:5|Levaquin|96:4|96:4|3|0
+Lasix|90:5|90:5|The Ticarcillin|98:0|98:1|3|0
+Lasix|90:5|90:5|brisk diuresis|101:12|101:13|3|0
+Lasix|90:5|90:5|Lasix|101:15|101:15|3|0
+Lasix|90:5|90:5|Cimetidine|102:20|102:20|3|0
+Lasix|90:5|90:5|prophylaxis|102:28|102:28|3|0
+Lasix|90:5|90:5|Prilosec|103:5|103:5|3|0
+Lasix|90:5|90:5|Prilosec|105:21|105:21|3|0
+his treatment|91:25|91:26|nebulizer treatments|92:4|92:5|3|0
+his treatment|91:25|91:26|intravenous antibiotics|92:9|92:10|3|0
+his treatment|91:25|91:26|intravenous Solu-Medrol|92:12|92:13|3|0
+his treatment|91:25|91:26|antibiotics|92:10|92:10|3|0
+his treatment|91:25|91:26|the patient &apos;s diuresis|93:1|93:4|3|0
+his treatment|91:25|91:26|antibiotics|95:5|95:5|3|0
+his treatment|91:25|91:26|The antibiotic|96:0|96:1|3|0
+his treatment|91:25|91:26|Levaquin|96:4|96:4|3|0
+his treatment|91:25|91:26|The Ticarcillin|98:0|98:1|3|0
+his treatment|91:25|91:26|brisk diuresis|101:12|101:13|3|0
+his treatment|91:25|91:26|Lasix|101:15|101:15|3|0
+his treatment|91:25|91:26|Cimetidine|102:20|102:20|3|0
+his treatment|91:25|91:26|prophylaxis|102:28|102:28|3|0
+his treatment|91:25|91:26|Prilosec|103:5|103:5|3|0
+his treatment|91:25|91:26|Prilosec|105:21|105:21|3|0
+nebulizer treatments|92:4|92:5|intravenous antibiotics|92:9|92:10|3|0
+nebulizer treatments|92:4|92:5|intravenous Solu-Medrol|92:12|92:13|3|0
+nebulizer treatments|92:4|92:5|antibiotics|92:10|92:10|3|0
+nebulizer treatments|92:4|92:5|the patient &apos;s diuresis|93:1|93:4|3|0
+nebulizer treatments|92:4|92:5|antibiotics|95:5|95:5|3|0
+nebulizer treatments|92:4|92:5|The antibiotic|96:0|96:1|3|0
+nebulizer treatments|92:4|92:5|Levaquin|96:4|96:4|3|0
+nebulizer treatments|92:4|92:5|The Ticarcillin|98:0|98:1|3|0
+nebulizer treatments|92:4|92:5|brisk diuresis|101:12|101:13|3|0
+nebulizer treatments|92:4|92:5|Lasix|101:15|101:15|3|0
+nebulizer treatments|92:4|92:5|Cimetidine|102:20|102:20|3|0
+nebulizer treatments|92:4|92:5|prophylaxis|102:28|102:28|3|0
+nebulizer treatments|92:4|92:5|Prilosec|103:5|103:5|3|0
+nebulizer treatments|92:4|92:5|Prilosec|105:21|105:21|3|0
+nebulizer treatments|92:4|92:5|physical therapy|107:17|107:18|3|0
+nebulizer treatments|92:4|92:5|a rehab facility|107:9|107:11|3|0
+intravenous antibiotics|92:9|92:10|intravenous Solu-Medrol|92:12|92:13|3|0
+intravenous antibiotics|92:9|92:10|antibiotics|92:10|92:10|3|0
+intravenous antibiotics|92:9|92:10|the patient &apos;s diuresis|93:1|93:4|3|0
+intravenous antibiotics|92:9|92:10|antibiotics|95:5|95:5|3|0
+intravenous antibiotics|92:9|92:10|The antibiotic|96:0|96:1|3|0
+intravenous antibiotics|92:9|92:10|Levaquin|96:4|96:4|3|0
+intravenous antibiotics|92:9|92:10|The Ticarcillin|98:0|98:1|3|0
+intravenous antibiotics|92:9|92:10|brisk diuresis|101:12|101:13|3|0
+intravenous antibiotics|92:9|92:10|Lasix|101:15|101:15|3|0
+intravenous antibiotics|92:9|92:10|Cimetidine|102:20|102:20|3|0
+intravenous antibiotics|92:9|92:10|prophylaxis|102:28|102:28|3|0
+intravenous antibiotics|92:9|92:10|Prilosec|103:5|103:5|3|0
+intravenous antibiotics|92:9|92:10|Prilosec|105:21|105:21|3|0
+intravenous antibiotics|92:9|92:10|physical therapy|107:17|107:18|3|0
+intravenous antibiotics|92:9|92:10|a rehab facility|107:9|107:11|3|0
+intravenous Solu-Medrol|92:12|92:13|antibiotics|92:10|92:10|3|0
+intravenous Solu-Medrol|92:12|92:13|the patient &apos;s diuresis|93:1|93:4|3|0
+intravenous Solu-Medrol|92:12|92:13|antibiotics|95:5|95:5|3|0
+intravenous Solu-Medrol|92:12|92:13|The antibiotic|96:0|96:1|3|0
+intravenous Solu-Medrol|92:12|92:13|Levaquin|96:4|96:4|3|0
+intravenous Solu-Medrol|92:12|92:13|The Ticarcillin|98:0|98:1|3|0
+intravenous Solu-Medrol|92:12|92:13|brisk diuresis|101:12|101:13|3|0
+intravenous Solu-Medrol|92:12|92:13|Lasix|101:15|101:15|3|0
+intravenous Solu-Medrol|92:12|92:13|Cimetidine|102:20|102:20|3|0
+intravenous Solu-Medrol|92:12|92:13|prophylaxis|102:28|102:28|3|0
+intravenous Solu-Medrol|92:12|92:13|Prilosec|103:5|103:5|3|0
+intravenous Solu-Medrol|92:12|92:13|Prilosec|105:21|105:21|3|0
+intravenous Solu-Medrol|92:12|92:13|physical therapy|107:17|107:18|3|0
+intravenous Solu-Medrol|92:12|92:13|a rehab facility|107:9|107:11|3|0
+antibiotics|92:10|92:10|the patient &apos;s diuresis|93:1|93:4|3|0
+antibiotics|92:10|92:10|antibiotics|95:5|95:5|3|0
+antibiotics|92:10|92:10|The antibiotic|96:0|96:1|3|0
+antibiotics|92:10|92:10|Levaquin|96:4|96:4|3|0
+antibiotics|92:10|92:10|The Ticarcillin|98:0|98:1|3|0
+antibiotics|92:10|92:10|brisk diuresis|101:12|101:13|3|0
+antibiotics|92:10|92:10|Lasix|101:15|101:15|3|0
+antibiotics|92:10|92:10|Cimetidine|102:20|102:20|3|0
+antibiotics|92:10|92:10|prophylaxis|102:28|102:28|3|0
+antibiotics|92:10|92:10|Prilosec|103:5|103:5|3|0
+antibiotics|92:10|92:10|Prilosec|105:21|105:21|3|0
+antibiotics|92:10|92:10|physical therapy|107:17|107:18|3|0
+antibiotics|92:10|92:10|a rehab facility|107:9|107:11|3|0
+the patient &apos;s diuresis|93:1|93:4|antibiotics|95:5|95:5|3|0
+the patient &apos;s diuresis|93:1|93:4|The antibiotic|96:0|96:1|3|0
+the patient &apos;s diuresis|93:1|93:4|Levaquin|96:4|96:4|3|0
+the patient &apos;s diuresis|93:1|93:4|The Ticarcillin|98:0|98:1|3|0
+the patient &apos;s diuresis|93:1|93:4|brisk diuresis|101:12|101:13|3|0
+the patient &apos;s diuresis|93:1|93:4|Lasix|101:15|101:15|3|0
+the patient &apos;s diuresis|93:1|93:4|Cimetidine|102:20|102:20|3|0
+the patient &apos;s diuresis|93:1|93:4|prophylaxis|102:28|102:28|3|0
+the patient &apos;s diuresis|93:1|93:4|Prilosec|103:5|103:5|3|0
+the patient &apos;s diuresis|93:1|93:4|Prilosec|105:21|105:21|3|0
+the patient &apos;s diuresis|93:1|93:4|physical therapy|107:17|107:18|3|0
+the patient &apos;s diuresis|93:1|93:4|a rehab facility|107:9|107:11|3|0
+his respiratory status|93:6|93:8|the opacities|94:6|94:7|4|0
+his respiratory status|93:6|93:8|pulmonary edema|94:16|94:17|4|0
+his respiratory status|93:6|93:8|some abnormality in the right lower lobe|94:23|94:29|4|0
+his respiratory status|93:6|93:8|pneumonia|95:8|95:8|4|0
+his respiratory status|93:6|93:8|pneumonia|98:18|98:18|4|0
+his respiratory status|93:6|93:8|a serious pneumonia|98:16|98:18|4|0
+his respiratory status|93:6|93:8|The patient &apos;s respiratory status|99:0|99:4|4|0
+his respiratory status|93:6|93:8|his respiratory status|100:4|100:6|4|0
+his respiratory status|93:6|93:8|discomfort|102:14|102:14|4|0
+his respiratory status|93:6|93:8|mild epigastric discomfort|102:12|102:14|4|0
+his respiratory status|93:6|93:8|peptic ulcer disease|102:30|102:32|4|0
+his respiratory status|93:6|93:8|gastritis|103:14|103:14|4|0
+his respiratory status|93:6|93:8|gastroesophageal reflux disease|103:16|103:18|4|0
+his respiratory status|93:6|93:8|nausea|104:5|104:5|4|0
+his respiratory status|93:6|93:8|vomiting|104:7|104:7|4|0
+his respiratory status|93:6|93:8|gastrointestinal bleeding|104:11|104:12|4|0
+his respiratory status|93:6|93:8|The patient &apos;s abdominal pain|105:0|105:4|4|0
+A chest x-ray|94:0|94:2|the chest x-ray|94:9|94:11|2|0
+the opacities|94:6|94:7|pulmonary edema|94:16|94:17|4|0
+the opacities|94:6|94:7|some abnormality in the right lower lobe|94:23|94:29|4|0
+the opacities|94:6|94:7|pneumonia|95:8|95:8|4|1
+the opacities|94:6|94:7|pneumonia|98:18|98:18|4|0
+the opacities|94:6|94:7|a serious pneumonia|98:16|98:18|4|0
+the opacities|94:6|94:7|The patient &apos;s respiratory status|99:0|99:4|4|0
+the opacities|94:6|94:7|his respiratory status|100:4|100:6|4|0
+the opacities|94:6|94:7|discomfort|102:14|102:14|4|0
+the opacities|94:6|94:7|mild epigastric discomfort|102:12|102:14|4|0
+the opacities|94:6|94:7|peptic ulcer disease|102:30|102:32|4|0
+the opacities|94:6|94:7|gastritis|103:14|103:14|4|0
+the opacities|94:6|94:7|gastroesophageal reflux disease|103:16|103:18|4|0
+the opacities|94:6|94:7|nausea|104:5|104:5|4|0
+the opacities|94:6|94:7|vomiting|104:7|104:7|4|0
+the opacities|94:6|94:7|gastrointestinal bleeding|104:11|104:12|4|0
+the opacities|94:6|94:7|The patient &apos;s abdominal pain|105:0|105:4|4|0
+pulmonary edema|94:16|94:17|some abnormality in the right lower lobe|94:23|94:29|4|0
+pulmonary edema|94:16|94:17|pneumonia|95:8|95:8|4|0
+pulmonary edema|94:16|94:17|pneumonia|98:18|98:18|4|0
+pulmonary edema|94:16|94:17|a serious pneumonia|98:16|98:18|4|0
+pulmonary edema|94:16|94:17|The patient &apos;s respiratory status|99:0|99:4|4|0
+pulmonary edema|94:16|94:17|his respiratory status|100:4|100:6|4|0
+pulmonary edema|94:16|94:17|discomfort|102:14|102:14|4|0
+pulmonary edema|94:16|94:17|mild epigastric discomfort|102:12|102:14|4|0
+pulmonary edema|94:16|94:17|peptic ulcer disease|102:30|102:32|4|0
+pulmonary edema|94:16|94:17|gastritis|103:14|103:14|4|0
+pulmonary edema|94:16|94:17|gastroesophageal reflux disease|103:16|103:18|4|0
+pulmonary edema|94:16|94:17|nausea|104:5|104:5|4|0
+pulmonary edema|94:16|94:17|vomiting|104:7|104:7|4|0
+pulmonary edema|94:16|94:17|gastrointestinal bleeding|104:11|104:12|4|0
+pulmonary edema|94:16|94:17|The patient &apos;s abdominal pain|105:0|105:4|4|0
+some abnormality in the right lower lobe|94:23|94:29|pneumonia|95:8|95:8|4|0
+some abnormality in the right lower lobe|94:23|94:29|pneumonia|98:18|98:18|4|0
+some abnormality in the right lower lobe|94:23|94:29|a serious pneumonia|98:16|98:18|4|0
+some abnormality in the right lower lobe|94:23|94:29|The patient &apos;s respiratory status|99:0|99:4|4|0
+some abnormality in the right lower lobe|94:23|94:29|his respiratory status|100:4|100:6|4|0
+some abnormality in the right lower lobe|94:23|94:29|discomfort|102:14|102:14|4|0
+some abnormality in the right lower lobe|94:23|94:29|mild epigastric discomfort|102:12|102:14|4|0
+some abnormality in the right lower lobe|94:23|94:29|peptic ulcer disease|102:30|102:32|4|0
+some abnormality in the right lower lobe|94:23|94:29|gastritis|103:14|103:14|4|0
+some abnormality in the right lower lobe|94:23|94:29|gastroesophageal reflux disease|103:16|103:18|4|0
+some abnormality in the right lower lobe|94:23|94:29|nausea|104:5|104:5|4|0
+some abnormality in the right lower lobe|94:23|94:29|vomiting|104:7|104:7|4|0
+some abnormality in the right lower lobe|94:23|94:29|gastrointestinal bleeding|104:11|104:12|4|0
+some abnormality in the right lower lobe|94:23|94:29|The patient &apos;s abdominal pain|105:0|105:4|4|0
+pneumonia|95:8|95:8|pneumonia|98:18|98:18|4|0
+pneumonia|95:8|95:8|a serious pneumonia|98:16|98:18|4|0
+pneumonia|95:8|95:8|The patient &apos;s respiratory status|99:0|99:4|4|0
+pneumonia|95:8|95:8|his respiratory status|100:4|100:6|4|0
+pneumonia|95:8|95:8|discomfort|102:14|102:14|4|0
+pneumonia|95:8|95:8|mild epigastric discomfort|102:12|102:14|4|0
+pneumonia|95:8|95:8|peptic ulcer disease|102:30|102:32|4|0
+pneumonia|95:8|95:8|gastritis|103:14|103:14|4|0
+pneumonia|95:8|95:8|gastroesophageal reflux disease|103:16|103:18|4|0
+pneumonia|95:8|95:8|nausea|104:5|104:5|4|0
+pneumonia|95:8|95:8|vomiting|104:7|104:7|4|0
+pneumonia|95:8|95:8|gastrointestinal bleeding|104:11|104:12|4|0
+pneumonia|95:8|95:8|The patient &apos;s abdominal pain|105:0|105:4|4|0
+antibiotics|95:5|95:5|The antibiotic|96:0|96:1|3|0
+antibiotics|95:5|95:5|Levaquin|96:4|96:4|3|0
+antibiotics|95:5|95:5|The Ticarcillin|98:0|98:1|3|0
+antibiotics|95:5|95:5|brisk diuresis|101:12|101:13|3|0
+antibiotics|95:5|95:5|Lasix|101:15|101:15|3|0
+antibiotics|95:5|95:5|Cimetidine|102:20|102:20|3|0
+antibiotics|95:5|95:5|prophylaxis|102:28|102:28|3|0
+antibiotics|95:5|95:5|Prilosec|103:5|103:5|3|0
+antibiotics|95:5|95:5|Prilosec|105:21|105:21|3|0
+antibiotics|95:5|95:5|physical therapy|107:17|107:18|3|0
+antibiotics|95:5|95:5|a rehab facility|107:9|107:11|3|0
+antibiotics|95:5|95:5|a rehab facility|109:13|109:15|3|0
+The antibiotic|96:0|96:1|Levaquin|96:4|96:4|3|0
+The antibiotic|96:0|96:1|The Ticarcillin|98:0|98:1|3|0
+The antibiotic|96:0|96:1|brisk diuresis|101:12|101:13|3|0
+The antibiotic|96:0|96:1|Lasix|101:15|101:15|3|0
+The antibiotic|96:0|96:1|Cimetidine|102:20|102:20|3|0
+The antibiotic|96:0|96:1|prophylaxis|102:28|102:28|3|0
+The antibiotic|96:0|96:1|Prilosec|103:5|103:5|3|0
+The antibiotic|96:0|96:1|Prilosec|105:21|105:21|3|0
+The antibiotic|96:0|96:1|physical therapy|107:17|107:18|3|0
+The antibiotic|96:0|96:1|a rehab facility|107:9|107:11|3|0
+The antibiotic|96:0|96:1|a rehab facility|109:13|109:15|3|0
+Levaquin|96:4|96:4|The Ticarcillin|98:0|98:1|3|0
+Levaquin|96:4|96:4|brisk diuresis|101:12|101:13|3|0
+Levaquin|96:4|96:4|Lasix|101:15|101:15|3|0
+Levaquin|96:4|96:4|Cimetidine|102:20|102:20|3|0
+Levaquin|96:4|96:4|prophylaxis|102:28|102:28|3|0
+Levaquin|96:4|96:4|Prilosec|103:5|103:5|3|0
+Levaquin|96:4|96:4|Prilosec|105:21|105:21|3|0
+Levaquin|96:4|96:4|physical therapy|107:17|107:18|3|0
+Levaquin|96:4|96:4|a rehab facility|107:9|107:11|3|0
+Levaquin|96:4|96:4|a rehab facility|109:13|109:15|3|0
+pneumonia|98:18|98:18|a serious pneumonia|98:16|98:18|4|0
+pneumonia|98:18|98:18|The patient &apos;s respiratory status|99:0|99:4|4|0
+pneumonia|98:18|98:18|his respiratory status|100:4|100:6|4|0
+pneumonia|98:18|98:18|discomfort|102:14|102:14|4|0
+pneumonia|98:18|98:18|mild epigastric discomfort|102:12|102:14|4|0
+pneumonia|98:18|98:18|peptic ulcer disease|102:30|102:32|4|0
+pneumonia|98:18|98:18|gastritis|103:14|103:14|4|0
+pneumonia|98:18|98:18|gastroesophageal reflux disease|103:16|103:18|4|0
+pneumonia|98:18|98:18|nausea|104:5|104:5|4|0
+pneumonia|98:18|98:18|vomiting|104:7|104:7|4|0
+pneumonia|98:18|98:18|gastrointestinal bleeding|104:11|104:12|4|0
+pneumonia|98:18|98:18|The patient &apos;s abdominal pain|105:0|105:4|4|0
+pneumonia|98:18|98:18|The patient &apos;s respiratory status|111:0|111:4|4|0
+pneumonia|98:18|98:18|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+The Ticarcillin|98:0|98:1|brisk diuresis|101:12|101:13|3|0
+The Ticarcillin|98:0|98:1|Lasix|101:15|101:15|3|0
+The Ticarcillin|98:0|98:1|Cimetidine|102:20|102:20|3|0
+The Ticarcillin|98:0|98:1|prophylaxis|102:28|102:28|3|0
+The Ticarcillin|98:0|98:1|Prilosec|103:5|103:5|3|0
+The Ticarcillin|98:0|98:1|Prilosec|105:21|105:21|3|0
+The Ticarcillin|98:0|98:1|physical therapy|107:17|107:18|3|0
+The Ticarcillin|98:0|98:1|a rehab facility|107:9|107:11|3|0
+The Ticarcillin|98:0|98:1|a rehab facility|109:13|109:15|3|0
+The Ticarcillin|98:0|98:1|respiratory therapy|113:10|113:11|3|0
+The Ticarcillin|98:0|98:1|a rehab facility|113:5|113:7|3|0
+The Ticarcillin|98:0|98:1|continued respiratory therapy|113:9|113:11|3|0
+The Ticarcillin|98:0|98:1|Physical Therapy|113:14|113:15|3|0
+a serious pneumonia|98:16|98:18|The patient &apos;s respiratory status|99:0|99:4|4|0
+a serious pneumonia|98:16|98:18|his respiratory status|100:4|100:6|4|0
+a serious pneumonia|98:16|98:18|discomfort|102:14|102:14|4|0
+a serious pneumonia|98:16|98:18|mild epigastric discomfort|102:12|102:14|4|0
+a serious pneumonia|98:16|98:18|peptic ulcer disease|102:30|102:32|4|0
+a serious pneumonia|98:16|98:18|gastritis|103:14|103:14|4|0
+a serious pneumonia|98:16|98:18|gastroesophageal reflux disease|103:16|103:18|4|0
+a serious pneumonia|98:16|98:18|nausea|104:5|104:5|4|0
+a serious pneumonia|98:16|98:18|vomiting|104:7|104:7|4|0
+a serious pneumonia|98:16|98:18|gastrointestinal bleeding|104:11|104:12|4|0
+a serious pneumonia|98:16|98:18|The patient &apos;s abdominal pain|105:0|105:4|4|0
+a serious pneumonia|98:16|98:18|The patient &apos;s respiratory status|111:0|111:4|4|0
+a serious pneumonia|98:16|98:18|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+The patient &apos;s respiratory status|99:0|99:4|his respiratory status|100:4|100:6|4|0
+The patient &apos;s respiratory status|99:0|99:4|discomfort|102:14|102:14|4|0
+The patient &apos;s respiratory status|99:0|99:4|mild epigastric discomfort|102:12|102:14|4|0
+The patient &apos;s respiratory status|99:0|99:4|peptic ulcer disease|102:30|102:32|4|0
+The patient &apos;s respiratory status|99:0|99:4|gastritis|103:14|103:14|4|0
+The patient &apos;s respiratory status|99:0|99:4|gastroesophageal reflux disease|103:16|103:18|4|0
+The patient &apos;s respiratory status|99:0|99:4|nausea|104:5|104:5|4|0
+The patient &apos;s respiratory status|99:0|99:4|vomiting|104:7|104:7|4|0
+The patient &apos;s respiratory status|99:0|99:4|gastrointestinal bleeding|104:11|104:12|4|0
+The patient &apos;s respiratory status|99:0|99:4|The patient &apos;s abdominal pain|105:0|105:4|4|0
+The patient &apos;s respiratory status|99:0|99:4|The patient &apos;s respiratory status|111:0|111:4|4|0
+The patient &apos;s respiratory status|99:0|99:4|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+his respiratory status|100:4|100:6|discomfort|102:14|102:14|4|0
+his respiratory status|100:4|100:6|mild epigastric discomfort|102:12|102:14|4|0
+his respiratory status|100:4|100:6|peptic ulcer disease|102:30|102:32|4|0
+his respiratory status|100:4|100:6|gastritis|103:14|103:14|4|0
+his respiratory status|100:4|100:6|gastroesophageal reflux disease|103:16|103:18|4|0
+his respiratory status|100:4|100:6|nausea|104:5|104:5|4|0
+his respiratory status|100:4|100:6|vomiting|104:7|104:7|4|0
+his respiratory status|100:4|100:6|gastrointestinal bleeding|104:11|104:12|4|0
+his respiratory status|100:4|100:6|The patient &apos;s abdominal pain|105:0|105:4|4|0
+his respiratory status|100:4|100:6|The patient &apos;s respiratory status|111:0|111:4|4|0
+his respiratory status|100:4|100:6|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+brisk diuresis|101:12|101:13|Lasix|101:15|101:15|3|0
+brisk diuresis|101:12|101:13|Cimetidine|102:20|102:20|3|0
+brisk diuresis|101:12|101:13|prophylaxis|102:28|102:28|3|0
+brisk diuresis|101:12|101:13|Prilosec|103:5|103:5|3|0
+brisk diuresis|101:12|101:13|Prilosec|105:21|105:21|3|0
+brisk diuresis|101:12|101:13|physical therapy|107:17|107:18|3|0
+brisk diuresis|101:12|101:13|a rehab facility|107:9|107:11|3|0
+brisk diuresis|101:12|101:13|a rehab facility|109:13|109:15|3|0
+brisk diuresis|101:12|101:13|respiratory therapy|113:10|113:11|3|0
+brisk diuresis|101:12|101:13|a rehab facility|113:5|113:7|3|0
+brisk diuresis|101:12|101:13|continued respiratory therapy|113:9|113:11|3|0
+brisk diuresis|101:12|101:13|Physical Therapy|113:14|113:15|3|0
+brisk diuresis|101:12|101:13|Albuterol|115:1|115:1|3|0
+brisk diuresis|101:12|101:13|Heparin|116:1|116:1|3|0
+Lasix|101:15|101:15|Cimetidine|102:20|102:20|3|0
+Lasix|101:15|101:15|prophylaxis|102:28|102:28|3|0
+Lasix|101:15|101:15|Prilosec|103:5|103:5|3|0
+Lasix|101:15|101:15|Prilosec|105:21|105:21|3|0
+Lasix|101:15|101:15|physical therapy|107:17|107:18|3|0
+Lasix|101:15|101:15|a rehab facility|107:9|107:11|3|0
+Lasix|101:15|101:15|a rehab facility|109:13|109:15|3|0
+Lasix|101:15|101:15|respiratory therapy|113:10|113:11|3|0
+Lasix|101:15|101:15|a rehab facility|113:5|113:7|3|0
+Lasix|101:15|101:15|continued respiratory therapy|113:9|113:11|3|0
+Lasix|101:15|101:15|Physical Therapy|113:14|113:15|3|0
+Lasix|101:15|101:15|Albuterol|115:1|115:1|3|0
+Lasix|101:15|101:15|Heparin|116:1|116:1|3|0
+discomfort|102:14|102:14|mild epigastric discomfort|102:12|102:14|4|0
+discomfort|102:14|102:14|peptic ulcer disease|102:30|102:32|4|0
+discomfort|102:14|102:14|gastritis|103:14|103:14|4|0
+discomfort|102:14|102:14|gastroesophageal reflux disease|103:16|103:18|4|0
+discomfort|102:14|102:14|nausea|104:5|104:5|4|0
+discomfort|102:14|102:14|vomiting|104:7|104:7|4|0
+discomfort|102:14|102:14|gastrointestinal bleeding|104:11|104:12|4|0
+discomfort|102:14|102:14|The patient &apos;s abdominal pain|105:0|105:4|4|0
+discomfort|102:14|102:14|The patient &apos;s respiratory status|111:0|111:4|4|0
+discomfort|102:14|102:14|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+mild epigastric discomfort|102:12|102:14|peptic ulcer disease|102:30|102:32|4|0
+mild epigastric discomfort|102:12|102:14|gastritis|103:14|103:14|4|0
+mild epigastric discomfort|102:12|102:14|gastroesophageal reflux disease|103:16|103:18|4|0
+mild epigastric discomfort|102:12|102:14|nausea|104:5|104:5|4|0
+mild epigastric discomfort|102:12|102:14|vomiting|104:7|104:7|4|0
+mild epigastric discomfort|102:12|102:14|gastrointestinal bleeding|104:11|104:12|4|0
+mild epigastric discomfort|102:12|102:14|The patient &apos;s abdominal pain|105:0|105:4|4|0
+mild epigastric discomfort|102:12|102:14|The patient &apos;s respiratory status|111:0|111:4|4|0
+mild epigastric discomfort|102:12|102:14|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+Cimetidine|102:20|102:20|prophylaxis|102:28|102:28|3|0
+Cimetidine|102:20|102:20|Prilosec|103:5|103:5|3|0
+Cimetidine|102:20|102:20|Prilosec|105:21|105:21|3|0
+Cimetidine|102:20|102:20|physical therapy|107:17|107:18|3|0
+Cimetidine|102:20|102:20|a rehab facility|107:9|107:11|3|0
+Cimetidine|102:20|102:20|a rehab facility|109:13|109:15|3|0
+Cimetidine|102:20|102:20|respiratory therapy|113:10|113:11|3|0
+Cimetidine|102:20|102:20|a rehab facility|113:5|113:7|3|0
+Cimetidine|102:20|102:20|continued respiratory therapy|113:9|113:11|3|0
+Cimetidine|102:20|102:20|Physical Therapy|113:14|113:15|3|0
+Cimetidine|102:20|102:20|Albuterol|115:1|115:1|3|0
+Cimetidine|102:20|102:20|Heparin|116:1|116:1|3|0
+Cimetidine|102:20|102:20|Ativan|117:1|117:1|3|0
+prophylaxis|102:28|102:28|Prilosec|103:5|103:5|3|0
+prophylaxis|102:28|102:28|Prilosec|105:21|105:21|3|0
+prophylaxis|102:28|102:28|physical therapy|107:17|107:18|3|0
+prophylaxis|102:28|102:28|a rehab facility|107:9|107:11|3|0
+prophylaxis|102:28|102:28|a rehab facility|109:13|109:15|3|0
+prophylaxis|102:28|102:28|respiratory therapy|113:10|113:11|3|0
+prophylaxis|102:28|102:28|a rehab facility|113:5|113:7|3|0
+prophylaxis|102:28|102:28|continued respiratory therapy|113:9|113:11|3|0
+prophylaxis|102:28|102:28|Physical Therapy|113:14|113:15|3|0
+prophylaxis|102:28|102:28|Albuterol|115:1|115:1|3|0
+prophylaxis|102:28|102:28|Heparin|116:1|116:1|3|0
+prophylaxis|102:28|102:28|Ativan|117:1|117:1|3|0
+peptic ulcer disease|102:30|102:32|gastritis|103:14|103:14|4|0
+peptic ulcer disease|102:30|102:32|gastroesophageal reflux disease|103:16|103:18|4|0
+peptic ulcer disease|102:30|102:32|nausea|104:5|104:5|4|0
+peptic ulcer disease|102:30|102:32|vomiting|104:7|104:7|4|0
+peptic ulcer disease|102:30|102:32|gastrointestinal bleeding|104:11|104:12|4|0
+peptic ulcer disease|102:30|102:32|The patient &apos;s abdominal pain|105:0|105:4|4|0
+peptic ulcer disease|102:30|102:32|The patient &apos;s respiratory status|111:0|111:4|4|0
+peptic ulcer disease|102:30|102:32|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+Prilosec|103:5|103:5|Prilosec|105:21|105:21|3|0
+Prilosec|103:5|103:5|physical therapy|107:17|107:18|3|0
+Prilosec|103:5|103:5|a rehab facility|107:9|107:11|3|0
+Prilosec|103:5|103:5|a rehab facility|109:13|109:15|3|0
+Prilosec|103:5|103:5|respiratory therapy|113:10|113:11|3|0
+Prilosec|103:5|103:5|a rehab facility|113:5|113:7|3|0
+Prilosec|103:5|103:5|continued respiratory therapy|113:9|113:11|3|0
+Prilosec|103:5|103:5|Physical Therapy|113:14|113:15|3|0
+Prilosec|103:5|103:5|Albuterol|115:1|115:1|3|0
+Prilosec|103:5|103:5|Heparin|116:1|116:1|3|0
+Prilosec|103:5|103:5|Ativan|117:1|117:1|3|0
+Prilosec|103:5|103:5|Nasal oxygen|118:1|118:2|3|0
+gastritis|103:14|103:14|gastroesophageal reflux disease|103:16|103:18|4|0
+gastritis|103:14|103:14|nausea|104:5|104:5|4|0
+gastritis|103:14|103:14|vomiting|104:7|104:7|4|0
+gastritis|103:14|103:14|gastrointestinal bleeding|104:11|104:12|4|0
+gastritis|103:14|103:14|The patient &apos;s abdominal pain|105:0|105:4|4|0
+gastritis|103:14|103:14|The patient &apos;s respiratory status|111:0|111:4|4|0
+gastritis|103:14|103:14|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+gastroesophageal reflux disease|103:16|103:18|nausea|104:5|104:5|4|0
+gastroesophageal reflux disease|103:16|103:18|vomiting|104:7|104:7|4|0
+gastroesophageal reflux disease|103:16|103:18|gastrointestinal bleeding|104:11|104:12|4|0
+gastroesophageal reflux disease|103:16|103:18|The patient &apos;s abdominal pain|105:0|105:4|4|0
+gastroesophageal reflux disease|103:16|103:18|The patient &apos;s respiratory status|111:0|111:4|4|0
+gastroesophageal reflux disease|103:16|103:18|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+nausea|104:5|104:5|vomiting|104:7|104:7|4|0
+nausea|104:5|104:5|gastrointestinal bleeding|104:11|104:12|4|0
+nausea|104:5|104:5|The patient &apos;s abdominal pain|105:0|105:4|4|0
+nausea|104:5|104:5|The patient &apos;s respiratory status|111:0|111:4|4|0
+nausea|104:5|104:5|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+vomiting|104:7|104:7|gastrointestinal bleeding|104:11|104:12|4|0
+vomiting|104:7|104:7|The patient &apos;s abdominal pain|105:0|105:4|4|0
+vomiting|104:7|104:7|The patient &apos;s respiratory status|111:0|111:4|4|0
+vomiting|104:7|104:7|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+gastrointestinal bleeding|104:11|104:12|The patient &apos;s abdominal pain|105:0|105:4|4|0
+gastrointestinal bleeding|104:11|104:12|The patient &apos;s respiratory status|111:0|111:4|4|0
+gastrointestinal bleeding|104:11|104:12|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+Prilosec|105:21|105:21|physical therapy|107:17|107:18|3|0
+Prilosec|105:21|105:21|a rehab facility|107:9|107:11|3|0
+Prilosec|105:21|105:21|a rehab facility|109:13|109:15|3|0
+Prilosec|105:21|105:21|respiratory therapy|113:10|113:11|3|0
+Prilosec|105:21|105:21|a rehab facility|113:5|113:7|3|0
+Prilosec|105:21|105:21|continued respiratory therapy|113:9|113:11|3|0
+Prilosec|105:21|105:21|Physical Therapy|113:14|113:15|3|0
+Prilosec|105:21|105:21|Albuterol|115:1|115:1|3|0
+Prilosec|105:21|105:21|Heparin|116:1|116:1|3|0
+Prilosec|105:21|105:21|Ativan|117:1|117:1|3|0
+Prilosec|105:21|105:21|Nasal oxygen|118:1|118:2|3|0
+Prilosec|105:21|105:21|Levaquin|119:1|119:1|3|0
+Prilosec|105:21|105:21|Lasix|120:1|120:1|3|0
+The patient &apos;s abdominal pain|105:0|105:4|The patient &apos;s respiratory status|111:0|111:4|4|0
+The patient &apos;s abdominal pain|105:0|105:4|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+physical therapy|107:17|107:18|a rehab facility|107:9|107:11|3|0
+physical therapy|107:17|107:18|a rehab facility|109:13|109:15|3|0
+physical therapy|107:17|107:18|respiratory therapy|113:10|113:11|3|0
+physical therapy|107:17|107:18|a rehab facility|113:5|113:7|3|0
+physical therapy|107:17|107:18|continued respiratory therapy|113:9|113:11|3|0
+physical therapy|107:17|107:18|Physical Therapy|113:14|113:15|3|0
+physical therapy|107:17|107:18|Albuterol|115:1|115:1|3|0
+physical therapy|107:17|107:18|Heparin|116:1|116:1|3|0
+physical therapy|107:17|107:18|Ativan|117:1|117:1|3|0
+physical therapy|107:17|107:18|Nasal oxygen|118:1|118:2|3|0
+physical therapy|107:17|107:18|Levaquin|119:1|119:1|3|0
+physical therapy|107:17|107:18|Lasix|120:1|120:1|3|0
+physical therapy|107:17|107:18|Prednisone|121:1|121:1|3|1
+physical therapy|107:17|107:18|Xalatan|122:1|122:1|3|1
+physical therapy|107:17|107:18|Xalatan eyedrops|122:1|122:2|3|0
+a rehab facility|107:9|107:11|a rehab facility|109:13|109:15|3|0
+a rehab facility|107:9|107:11|respiratory therapy|113:10|113:11|3|0
+a rehab facility|107:9|107:11|a rehab facility|113:5|113:7|3|0
+a rehab facility|107:9|107:11|continued respiratory therapy|113:9|113:11|3|0
+a rehab facility|107:9|107:11|Physical Therapy|113:14|113:15|3|0
+a rehab facility|107:9|107:11|Albuterol|115:1|115:1|3|0
+a rehab facility|107:9|107:11|Heparin|116:1|116:1|3|0
+a rehab facility|107:9|107:11|Ativan|117:1|117:1|3|0
+a rehab facility|107:9|107:11|Nasal oxygen|118:1|118:2|3|0
+a rehab facility|107:9|107:11|Levaquin|119:1|119:1|3|0
+a rehab facility|107:9|107:11|Lasix|120:1|120:1|3|0
+a rehab facility|107:9|107:11|Prednisone|121:1|121:1|3|0
+a rehab facility|107:9|107:11|Xalatan|122:1|122:1|3|0
+a rehab facility|107:9|107:11|Xalatan eyedrops|122:1|122:2|3|0
+a rehab facility|109:13|109:15|respiratory therapy|113:10|113:11|3|0
+a rehab facility|109:13|109:15|a rehab facility|113:5|113:7|3|0
+a rehab facility|109:13|109:15|continued respiratory therapy|113:9|113:11|3|0
+a rehab facility|109:13|109:15|Physical Therapy|113:14|113:15|3|0
+a rehab facility|109:13|109:15|Albuterol|115:1|115:1|3|0
+a rehab facility|109:13|109:15|Heparin|116:1|116:1|3|0
+a rehab facility|109:13|109:15|Ativan|117:1|117:1|3|0
+a rehab facility|109:13|109:15|Nasal oxygen|118:1|118:2|3|0
+a rehab facility|109:13|109:15|Levaquin|119:1|119:1|3|0
+a rehab facility|109:13|109:15|Lasix|120:1|120:1|3|0
+a rehab facility|109:13|109:15|Prednisone|121:1|121:1|3|0
+a rehab facility|109:13|109:15|Xalatan|122:1|122:1|3|0
+a rehab facility|109:13|109:15|Xalatan eyedrops|122:1|122:2|3|0
+a rehab facility|109:13|109:15|Alphagan|123:1|123:1|3|0
+a rehab facility|109:13|109:15|Trusopt|124:1|124:1|3|0
+The patient &apos;s respiratory status|111:0|111:4|severe chronic obstructive pulmonary disease|112:15|112:19|4|0
+respiratory therapy|113:10|113:11|a rehab facility|113:5|113:7|3|0
+respiratory therapy|113:10|113:11|continued respiratory therapy|113:9|113:11|3|0
+respiratory therapy|113:10|113:11|Physical Therapy|113:14|113:15|3|0
+respiratory therapy|113:10|113:11|Albuterol|115:1|115:1|3|0
+respiratory therapy|113:10|113:11|Heparin|116:1|116:1|3|0
+respiratory therapy|113:10|113:11|Ativan|117:1|117:1|3|0
+respiratory therapy|113:10|113:11|Nasal oxygen|118:1|118:2|3|0
+respiratory therapy|113:10|113:11|Levaquin|119:1|119:1|3|0
+respiratory therapy|113:10|113:11|Lasix|120:1|120:1|3|0
+respiratory therapy|113:10|113:11|Prednisone|121:1|121:1|3|0
+respiratory therapy|113:10|113:11|Xalatan|122:1|122:1|3|0
+respiratory therapy|113:10|113:11|Xalatan eyedrops|122:1|122:2|3|0
+respiratory therapy|113:10|113:11|Alphagan|123:1|123:1|3|0
+respiratory therapy|113:10|113:11|Trusopt|124:1|124:1|3|0
+respiratory therapy|113:10|113:11|Prilosec|125:1|125:1|3|0
+a rehab facility|113:5|113:7|continued respiratory therapy|113:9|113:11|3|0
+a rehab facility|113:5|113:7|Physical Therapy|113:14|113:15|3|0
+a rehab facility|113:5|113:7|Albuterol|115:1|115:1|3|0
+a rehab facility|113:5|113:7|Heparin|116:1|116:1|3|0
+a rehab facility|113:5|113:7|Ativan|117:1|117:1|3|0
+a rehab facility|113:5|113:7|Nasal oxygen|118:1|118:2|3|0
+a rehab facility|113:5|113:7|Levaquin|119:1|119:1|3|0
+a rehab facility|113:5|113:7|Lasix|120:1|120:1|3|0
+a rehab facility|113:5|113:7|Prednisone|121:1|121:1|3|0
+a rehab facility|113:5|113:7|Xalatan|122:1|122:1|3|0
+a rehab facility|113:5|113:7|Xalatan eyedrops|122:1|122:2|3|0
+a rehab facility|113:5|113:7|Alphagan|123:1|123:1|3|0
+a rehab facility|113:5|113:7|Trusopt|124:1|124:1|3|0
+a rehab facility|113:5|113:7|Prilosec|125:1|125:1|3|0
+continued respiratory therapy|113:9|113:11|Physical Therapy|113:14|113:15|3|0
+continued respiratory therapy|113:9|113:11|Albuterol|115:1|115:1|3|0
+continued respiratory therapy|113:9|113:11|Heparin|116:1|116:1|3|0
+continued respiratory therapy|113:9|113:11|Ativan|117:1|117:1|3|0
+continued respiratory therapy|113:9|113:11|Nasal oxygen|118:1|118:2|3|0
+continued respiratory therapy|113:9|113:11|Levaquin|119:1|119:1|3|0
+continued respiratory therapy|113:9|113:11|Lasix|120:1|120:1|3|0
+continued respiratory therapy|113:9|113:11|Prednisone|121:1|121:1|3|0
+continued respiratory therapy|113:9|113:11|Xalatan|122:1|122:1|3|0
+continued respiratory therapy|113:9|113:11|Xalatan eyedrops|122:1|122:2|3|0
+continued respiratory therapy|113:9|113:11|Alphagan|123:1|123:1|3|0
+continued respiratory therapy|113:9|113:11|Trusopt|124:1|124:1|3|0
+continued respiratory therapy|113:9|113:11|Prilosec|125:1|125:1|3|0
+Physical Therapy|113:14|113:15|Albuterol|115:1|115:1|3|0
+Physical Therapy|113:14|113:15|Heparin|116:1|116:1|3|0
+Physical Therapy|113:14|113:15|Ativan|117:1|117:1|3|0
+Physical Therapy|113:14|113:15|Nasal oxygen|118:1|118:2|3|0
+Physical Therapy|113:14|113:15|Levaquin|119:1|119:1|3|0
+Physical Therapy|113:14|113:15|Lasix|120:1|120:1|3|0
+Physical Therapy|113:14|113:15|Prednisone|121:1|121:1|3|0
+Physical Therapy|113:14|113:15|Xalatan|122:1|122:1|3|0
+Physical Therapy|113:14|113:15|Xalatan eyedrops|122:1|122:2|3|0
+Physical Therapy|113:14|113:15|Alphagan|123:1|123:1|3|0
+Physical Therapy|113:14|113:15|Trusopt|124:1|124:1|3|0
+Physical Therapy|113:14|113:15|Prilosec|125:1|125:1|3|0
+Albuterol|115:1|115:1|Heparin|116:1|116:1|3|0
+Albuterol|115:1|115:1|Ativan|117:1|117:1|3|0
+Albuterol|115:1|115:1|Nasal oxygen|118:1|118:2|3|0
+Albuterol|115:1|115:1|Levaquin|119:1|119:1|3|0
+Albuterol|115:1|115:1|Lasix|120:1|120:1|3|0
+Albuterol|115:1|115:1|Prednisone|121:1|121:1|3|0
+Albuterol|115:1|115:1|Xalatan|122:1|122:1|3|0
+Albuterol|115:1|115:1|Xalatan eyedrops|122:1|122:2|3|0
+Albuterol|115:1|115:1|Alphagan|123:1|123:1|3|0
+Albuterol|115:1|115:1|Trusopt|124:1|124:1|3|0
+Albuterol|115:1|115:1|Prilosec|125:1|125:1|3|0
+Heparin|116:1|116:1|Ativan|117:1|117:1|3|0
+Heparin|116:1|116:1|Nasal oxygen|118:1|118:2|3|0
+Heparin|116:1|116:1|Levaquin|119:1|119:1|3|0
+Heparin|116:1|116:1|Lasix|120:1|120:1|3|0
+Heparin|116:1|116:1|Prednisone|121:1|121:1|3|0
+Heparin|116:1|116:1|Xalatan|122:1|122:1|3|0
+Heparin|116:1|116:1|Xalatan eyedrops|122:1|122:2|3|0
+Heparin|116:1|116:1|Alphagan|123:1|123:1|3|0
+Heparin|116:1|116:1|Trusopt|124:1|124:1|3|0
+Heparin|116:1|116:1|Prilosec|125:1|125:1|3|0
+Ativan|117:1|117:1|Nasal oxygen|118:1|118:2|3|0
+Ativan|117:1|117:1|Levaquin|119:1|119:1|3|0
+Ativan|117:1|117:1|Lasix|120:1|120:1|3|0
+Ativan|117:1|117:1|Prednisone|121:1|121:1|3|0
+Ativan|117:1|117:1|Xalatan|122:1|122:1|3|0
+Ativan|117:1|117:1|Xalatan eyedrops|122:1|122:2|3|0
+Ativan|117:1|117:1|Alphagan|123:1|123:1|3|0
+Ativan|117:1|117:1|Trusopt|124:1|124:1|3|0
+Ativan|117:1|117:1|Prilosec|125:1|125:1|3|0
+Nasal oxygen|118:1|118:2|Levaquin|119:1|119:1|3|0
+Nasal oxygen|118:1|118:2|Lasix|120:1|120:1|3|0
+Nasal oxygen|118:1|118:2|Prednisone|121:1|121:1|3|0
+Nasal oxygen|118:1|118:2|Xalatan|122:1|122:1|3|0
+Nasal oxygen|118:1|118:2|Xalatan eyedrops|122:1|122:2|3|0
+Nasal oxygen|118:1|118:2|Alphagan|123:1|123:1|3|0
+Nasal oxygen|118:1|118:2|Trusopt|124:1|124:1|3|0
+Nasal oxygen|118:1|118:2|Prilosec|125:1|125:1|3|0
+Levaquin|119:1|119:1|Lasix|120:1|120:1|3|1
+Levaquin|119:1|119:1|Prednisone|121:1|121:1|3|0
+Levaquin|119:1|119:1|Xalatan|122:1|122:1|3|0
+Levaquin|119:1|119:1|Xalatan eyedrops|122:1|122:2|3|0
+Levaquin|119:1|119:1|Alphagan|123:1|123:1|3|0
+Levaquin|119:1|119:1|Trusopt|124:1|124:1|3|0
+Levaquin|119:1|119:1|Prilosec|125:1|125:1|3|0
+Lasix|120:1|120:1|Prednisone|121:1|121:1|3|0
+Lasix|120:1|120:1|Xalatan|122:1|122:1|3|0
+Lasix|120:1|120:1|Xalatan eyedrops|122:1|122:2|3|0
+Lasix|120:1|120:1|Alphagan|123:1|123:1|3|0
+Lasix|120:1|120:1|Trusopt|124:1|124:1|3|0
+Lasix|120:1|120:1|Prilosec|125:1|125:1|3|0
+Prednisone|121:1|121:1|Xalatan|122:1|122:1|3|0
+Prednisone|121:1|121:1|Xalatan eyedrops|122:1|122:2|3|0
+Prednisone|121:1|121:1|Alphagan|123:1|123:1|3|0
+Prednisone|121:1|121:1|Trusopt|124:1|124:1|3|0
+Prednisone|121:1|121:1|Prilosec|125:1|125:1|3|0
+Xalatan|122:1|122:1|Xalatan eyedrops|122:1|122:2|3|0
+Xalatan|122:1|122:1|Alphagan|123:1|123:1|3|0
+Xalatan|122:1|122:1|Trusopt|124:1|124:1|3|0
+Xalatan|122:1|122:1|Prilosec|125:1|125:1|3|0
+Xalatan eyedrops|122:1|122:2|Alphagan|123:1|123:1|3|0
+Xalatan eyedrops|122:1|122:2|Trusopt|124:1|124:1|3|0
+Xalatan eyedrops|122:1|122:2|Prilosec|125:1|125:1|3|0
+Alphagan|123:1|123:1|Trusopt|124:1|124:1|3|0
+Alphagan|123:1|123:1|Prilosec|125:1|125:1|3|0
+Trusopt|124:1|124:1|Prilosec|125:1|125:1|3|0

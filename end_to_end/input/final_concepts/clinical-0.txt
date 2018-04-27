@@ -1,0 +1,10 @@
+Radiologic studies|7:2 7:3|test
+cavitary lesions in the left lung apex|8:3 8:9|problem
+lesions|8:4 8:4|problem
+Head CT|12:2 12:3|test
+intracranial hemorrhage|12:6 12:7|problem
+mass|12:9 12:9|problem
+old infarction|13:2 13:3|problem
+Abdominal CT|16:2 16:3|test
+lesions|16:5 16:5|problem
+repeat imaging|18:3 18:4|test
